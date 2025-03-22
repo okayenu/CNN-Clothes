@@ -153,3 +153,6 @@ All notable changes to the Fashion-MNIST CNN project are recorded here.
 
 ## Task 50 — Gradio Interactive Demo (risky)
 - Created `demo.py` with image upload, confidence bar chart, and Grad-CAM overlay tab
+
+## 2025-12-31 2:17 PM — Task 49 (Final Report & Documentation)
+**[CHANGELOG.md]** List all 50 improvements with date implemented

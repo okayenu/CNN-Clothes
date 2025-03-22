@@ -53,3 +53,15 @@ MLFLOW_TRACKING_URI = os.path.join(BASE_DIR, "mlruns")
 
 for _dir in (MODEL_DIR, RESULTS_DIR):
     os.makedirs(_dir, exist_ok=True)
+
+# [2025-04-03 1:28 PM] Task 37: Add SEED=42 constant
+
+# [2025-04-11 12:07 PM] Task 40: Create config.py with SEED, EPOCHS, BATCH_SIZE, LEARNING_RATE
+
+# [2025-04-11 12:18 PM] Task 40: Add NUM_CLASSES=10, INPUT_SHAPE=(28,28,1), CLASS_NAMES list
+
+# [2025-04-11 1:07 PM] Task 40: Add path constants: DATA_DIR, MODEL_DIR, RESULTS_DIR
+
+# [2025-04-11 1:44 PM] Task 40: Add EARLY_STOPPING_PATIENCE, DROPOUT_RATE, L2_RATE
+
+# [2025-08-23 4:02 PM] Task 28: Add L2_RATE=1e-4 constant

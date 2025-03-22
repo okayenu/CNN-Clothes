@@ -178,3 +178,61 @@ def log_training_report(history, report_path: str = None):
     with open(report_path, "w") as f:
         f.write(report_text + "\n")
     return report_text
+
+# [2025-04-03 4:02 PM] Task 37: Pass seed=SEED to shuffle and split calls
+
+# [2025-04-13 12:07 PM] Task 40: Import and use config constants in train.py
+
+# [2025-04-15 2:33 PM] Task 22: Add EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=True)
+
+# [2025-04-15 3:07 PM] Task 22: Add to callbacks list in get_callbacks()
+
+# [2025-04-19 5:03 PM] Task 23: Add ModelCheckpoint(filepath='models/best.keras', save_best_only=True)
+
+# [2025-04-19 5:38 PM] Task 23: Add to get_callbacks() alongside EarlyStopping
+
+# [2025-05-29 5:38 PM] Task 6: Replace numpy arrays with tf.data Datasets in model.fit
+
+# [2025-06-12 11:02 AM] Task 38: Move training loop, callbacks, optimizers to train.py
+
+# [2025-06-26 12:18 PM] Task 42: Add docstrings to get_callbacks(), train_model(), get_optimizer()
+
+# [2025-06-29 1:07 PM] Task 31: Write PerClassAccuracyCallback(val_data, class_names)
+
+# [2025-06-29 1:19 PM] Task 31: Log per-class accuracy to console at end of each epoch
+
+# [2025-06-29 5:19 PM] Task 31: Add callback to get_callbacks()
+
+# [2025-07-05 2:53 PM] Task 10: Set model.compile with appropriate optimizer
+
+# [2025-07-12 6:07 PM] Task 11: Train 4-block model with same config as baseline
+
+# [2025-07-19 4:47 PM] Task 14: Train 5x5 model and log results
+
+# [2025-07-26 11:52 AM] Task 15: Train GAP model and compare parameter count vs Flatten model
+
+# [2025-08-02 3:47 PM] Task 16: Train VGG-style model for 30 epochs
+
+# [2025-08-09 12:18 PM] Task 25: Add get_optimizer(name, lr) supporting Adam, SGD, RMSprop, AdamW
+
+# [2025-08-09 1:07 PM] Task 25: Run baseline model with each optimizer for 20 epochs
+
+# [2025-08-15 11:13 AM] Task 26: Add label_smoothing=0.1 param to CategoricalCrossentropy
+
+# [2025-08-15 11:52 AM] Task 26: Expose via config.py LABEL_SMOOTHING constant
+
+# [2025-08-19 3:22 PM] Task 27: Parameterize BATCH_SIZE in config.py [32, 64, 128, 256]
+
+# [2025-08-19 5:38 PM] Task 27: Run 4 experiments, log val_acc and training time each
+
+# [2025-09-23 1:07 PM] Task 21: Implement WarmupCosineDecay LR schedule as tf.keras.optimizers.schedules
+
+# [2025-09-23 1:44 PM] Task 21: Add linear warmup for first 5% of total steps
+
+# [2025-09-23 3:22 PM] Task 21: Integrate LearningRateScheduler callback in get_callbacks()
+
+# [2025-09-29 9:14 AM] Task 29: Call tf.keras.mixed_precision.set_global_policy('mixed_float16')
+
+# [2025-09-29 9:53 AM] Task 29: Ensure final Dense uses dtype=float32 for numeric stability
+
+# [2025-09-29 10:07 AM] Task 29: Scale loss with LossScaleOptimizer if using custom training loop
