@@ -87,8 +87,8 @@ def benchmark_tflite(tflite_path: str = TFLITE_PATH, x_sample: np.ndarray = None
 
     return {"mean_ms_per_image": round(elapsed_ms, 4), "n_runs": n_runs}
 
-# [2025-11-01 10:44 AM] Task 44: Write export_model(model, path) calling model.save(path, save_format='tf')
+# [2025-12-05 11:37 AM] Task 45: Write convert_to_tflite(model_path, quant='float16') function
 
-# [2025-11-01 12:33 PM] Task 44: Add version subdirectory: models/saved_model/1/
+# [2025-12-05 11:52 AM] Task 45: Add int8 quantization with representative_dataset_gen()
 
-# [2025-11-01 3:07 PM] Task 44: Test reload: tf.saved_model.load(path) and run predict()
+# [2025-12-05 1:44 PM] Task 45: Save .tflite files to models/tflite/
