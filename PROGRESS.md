@@ -11,3 +11,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-03-31 9:28 AM — Task 13 (Sigmoid → Softmax Output)
 **[notebook]** Verify output probabilities sum to 1 on sample batch
+
+## 2025-03-31 10:44 AM — Task 13 (Sigmoid → Softmax Output)
+**[test]** Assert np.sum(model.predict(x)) ≈ 1 per sample
