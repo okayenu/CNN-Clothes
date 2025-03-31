@@ -14,3 +14,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-03-31 10:44 AM — Task 13 (Sigmoid → Softmax Output)
 **[test]** Assert np.sum(model.predict(x)) ≈ 1 per sample
+
+## 2025-03-31 1:19 PM — Task 13 (Sigmoid → Softmax Output)
+**[Test]** Write stub test for Sigmoid → Softmax Output to define expected behavior
