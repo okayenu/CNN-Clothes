@@ -38,3 +38,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-01 9:41 AM — Task 13 (Sigmoid → Softmax Output)
 **[test]** Assert np.sum(model.predict(x)) ≈ 1 per sample
+
+## 2025-04-01 10:28 AM — Task 13 (Sigmoid → Softmax Output)
+**[debug]** Fix label shape mismatch after switching to one-hot
