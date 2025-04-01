@@ -44,3 +44,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-01 11:02 AM — Task 13 (Sigmoid → Softmax Output)
 **[docs]** Add comment explaining softmax choice for multi-class
+
+## 2025-04-01 1:19 PM — Task 13 (Sigmoid → Softmax Output)
+**[Test]** Run unit tests for Sigmoid → Softmax Output; fix failures
