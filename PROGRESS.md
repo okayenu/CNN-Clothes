@@ -32,3 +32,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-03-31 7:28 PM — Task 13 (Sigmoid → Softmax Output)
 **[Evaluate]** Re-run evaluation metrics after Sigmoid → Softmax Output fix
+
+## 2025-04-01 9:23 AM — Task 13 (Sigmoid → Softmax Output)
+**[notebook]** Verify output probabilities sum to 1 on sample batch
