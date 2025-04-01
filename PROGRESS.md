@@ -41,3 +41,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-01 10:28 AM — Task 13 (Sigmoid → Softmax Output)
 **[debug]** Fix label shape mismatch after switching to one-hot
+
+## 2025-04-01 11:02 AM — Task 13 (Sigmoid → Softmax Output)
+**[docs]** Add comment explaining softmax choice for multi-class
