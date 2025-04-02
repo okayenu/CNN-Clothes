@@ -77,3 +77,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-02 11:13 AM — Task 13 (Sigmoid → Softmax Output)
 **[Review]** Review Task 13 output against ROADMAP acceptance criteria
+
+## 2025-04-02 1:07 PM — Task 13 (Sigmoid → Softmax Output)
+**[Docs]** Add Task 13 entry to CHANGELOG.md
