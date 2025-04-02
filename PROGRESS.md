@@ -80,3 +80,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-02 1:07 PM — Task 13 (Sigmoid → Softmax Output)
 **[Docs]** Add Task 13 entry to CHANGELOG.md
+
+## 2025-04-02 1:28 PM — Task 13 (Sigmoid → Softmax Output)
+**[Evaluate]** Log Task 13 final metrics/results to REPORT.md
