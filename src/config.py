@@ -53,3 +53,5 @@ MLFLOW_TRACKING_URI = os.path.join(BASE_DIR, "mlruns")
 
 for _dir in (MODEL_DIR, RESULTS_DIR):
     os.makedirs(_dir, exist_ok=True)
+
+# [2025-04-03 1:28 PM] Task 37: Add SEED=42 constant

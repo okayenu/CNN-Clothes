@@ -92,3 +92,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-02 4:28 PM — Task 13 (Sigmoid → Softmax Output)
 **[Docs]** Update inline comments in modified files for Sigmoid → Softmax Output
+
+## 2025-04-02 7:44 PM — Task 13 (Sigmoid → Softmax Output)
+**[Evaluate]** Re-run evaluation metrics after Sigmoid → Softmax Output fix
+
+## 2025-04-02 11:03 PM — Task 13 (Sigmoid → Softmax Output)
+**[Debug]** Re-test edge cases after latest changes to Sigmoid → Softmax Output
+
+## 2025-04-03 9:07 AM — Task 37 (Random Seed Reproducibility)
+**[Plan]** Review Task 37 (Random Seed Reproducibility) requirements and acceptance criteria
+
+## 2025-04-03 12:44 PM — Task 37 (Random Seed Reproducibility)
+**[Setup]** Create/open relevant files for Random Seed Reproducibility implementation
