@@ -180,3 +180,5 @@ def get_datasets(
         result["train_mean"] = mean
         result["train_std"] = std
     return result
+
+# [2025-04-03 2:03 PM] Task 37: Set np.random.seed(SEED) and tf.random.set_seed(SEED)
