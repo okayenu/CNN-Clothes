@@ -107,3 +107,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-03 5:19 PM — Task 37 (Random Seed Reproducibility)
 **[test]** Run training twice, assert identical val_loss at epoch 1
+
+## 2025-04-03 6:07 PM — Task 37 (Random Seed Reproducibility)
+**[Test]** Write stub test for Random Seed Reproducibility to define expected behavior
