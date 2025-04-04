@@ -110,3 +110,33 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-03 6:07 PM — Task 37 (Random Seed Reproducibility)
 **[Test]** Write stub test for Random Seed Reproducibility to define expected behavior
+
+## 2025-04-03 7:03 PM — Task 37 (Random Seed Reproducibility)
+**[Debug]** Verify dev environment: imports, paths, configs for Random Seed Reproducibility
+
+## 2025-04-03 7:19 PM — Task 37 (Random Seed Reproducibility)
+**[Review]** Cross-check Random Seed Reproducibility behavior against expected spec
+
+## 2025-04-03 9:23 PM — Task 37 (Random Seed Reproducibility)
+**[Docs]** Update inline comments in modified files for Random Seed Reproducibility
+
+## 2025-04-03 9:38 PM — Task 37 (Random Seed Reproducibility)
+**[Review]** Cross-check Random Seed Reproducibility behavior against expected spec
+
+## 2025-04-03 11:37 PM — Task 37 (Random Seed Reproducibility)
+**[Evaluate]** Re-run evaluation metrics after Random Seed Reproducibility fix
+
+## 2025-04-04 11:52 AM — Task 37 (Random Seed Reproducibility)
+**[test]** Run training twice, assert identical val_loss at epoch 1
+
+## 2025-04-04 12:33 PM — Task 37 (Random Seed Reproducibility)
+**[debug]** Fix non-determinism from GPU parallelism: set TF_DETERMINISTIC_OPS=1
+
+## 2025-04-04 1:07 PM — Task 37 (Random Seed Reproducibility)
+**[docs]** Add reproducibility note to README.md
+
+## 2025-04-04 2:33 PM — Task 37 (Random Seed Reproducibility)
+**[Test]** Run unit tests for Random Seed Reproducibility; fix failures
+
+## 2025-04-04 2:53 PM — Task 37 (Random Seed Reproducibility)
+**[Debug]** Inspect shapes/types/values in Random Seed Reproducibility pipeline step
