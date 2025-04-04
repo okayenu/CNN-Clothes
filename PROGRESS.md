@@ -131,3 +131,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-04 12:33 PM — Task 37 (Random Seed Reproducibility)
 **[debug]** Fix non-determinism from GPU parallelism: set TF_DETERMINISTIC_OPS=1
+
+## 2025-04-04 1:07 PM — Task 37 (Random Seed Reproducibility)
+**[docs]** Add reproducibility note to README.md
