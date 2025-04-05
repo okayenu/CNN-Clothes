@@ -149,3 +149,9 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-04 6:07 PM — Task 37 (Random Seed Reproducibility)
 **[Docs]** Update inline comments in modified files for Random Seed Reproducibility
+
+## 2025-04-04 8:33 PM — Task 37 (Random Seed Reproducibility)
+**[Evaluate]** Re-run evaluation metrics after Random Seed Reproducibility fix
+
+## 2025-04-05 11:37 AM — Task 37 (Random Seed Reproducibility)
+**[Integrate]** Wire Random Seed Reproducibility into main.py pipeline end-to-end
