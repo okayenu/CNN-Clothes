@@ -25,3 +25,5 @@ umap-learn==0.5.6
 
 # Export / TFLite (included in tensorflow)
 # flatbuffers==23.5.26
+
+# [2025-04-07 1:44 PM] Task 39: Run pip freeze > requirements_raw.txt and filter needed packages
