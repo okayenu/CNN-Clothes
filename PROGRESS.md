@@ -191,3 +191,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-07 3:07 PM — Task 39 (requirements.txt)
 **[test]** Test pip install -r requirements.txt in clean virtual environment
+
+## 2025-04-07 4:02 PM — Task 39 (requirements.txt)
+**[debug]** Fix dependency conflict between scipy and numpy versions
