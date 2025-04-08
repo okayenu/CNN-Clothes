@@ -221,3 +221,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-08 4:02 PM — Task 39 (requirements.txt)
 **[debug]** Resolve TF version mismatch on Python 3.11 if applicable
+
+## 2025-04-08 5:03 PM — Task 39 (requirements.txt)
+**[docs]** Add Python version constraint comment at top of requirements.txt
