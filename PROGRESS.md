@@ -203,3 +203,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-07 5:53 PM — Task 39 (requirements.txt)
 **[Evaluate]** Re-run evaluation metrics after requirements.txt fix
+
+## 2025-04-07 9:23 PM — Task 39 (requirements.txt)
+**[Test]** Add parametrized pytest case for requirements.txt boundary conditions
+
+## 2025-04-07 11:37 PM — Task 39 (requirements.txt)
+**[Evaluate]** Re-run evaluation metrics after requirements.txt fix
+
+## 2025-04-07 11:45 PM — Task 39 (requirements.txt)
+**[Review]** Cross-check requirements.txt behavior against expected spec
+
+## 2025-04-08 2:03 PM — Task 39 (requirements.txt)
+**[test]** Test pip install -r requirements.txt in clean virtual environment
+
+## 2025-04-08 2:17 PM — Task 39 (requirements.txt)
+**[debug]** Fix dependency conflict between scipy and numpy versions
