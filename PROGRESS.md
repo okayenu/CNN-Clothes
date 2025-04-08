@@ -212,3 +212,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-07 11:45 PM — Task 39 (requirements.txt)
 **[Review]** Cross-check requirements.txt behavior against expected spec
+
+## 2025-04-08 2:03 PM — Task 39 (requirements.txt)
+**[test]** Test pip install -r requirements.txt in clean virtual environment
