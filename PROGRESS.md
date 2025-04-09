@@ -245,3 +245,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-09 3:22 PM — Task 39 (requirements.txt)
 **[debug]** Fix dependency conflict between scipy and numpy versions
+
+## 2025-04-09 4:13 PM — Task 39 (requirements.txt)
+**[debug]** Resolve TF version mismatch on Python 3.11 if applicable
