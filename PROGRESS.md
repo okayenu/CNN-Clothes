@@ -239,3 +239,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-09 9:53 AM — Task 39 (requirements.txt)
 **[Test]** Run integration test: main.py with requirements.txt active
+
+## 2025-04-09 2:03 PM — Task 39 (requirements.txt)
+**[test]** Test pip install -r requirements.txt in clean virtual environment
