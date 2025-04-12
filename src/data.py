@@ -182,3 +182,5 @@ def get_datasets(
     return result
 
 # [2025-04-03 2:03 PM] Task 37: Set np.random.seed(SEED) and tf.random.set_seed(SEED)
+
+# [2025-04-12 6:07 PM] Task 40: Import and use config constants in data.py
