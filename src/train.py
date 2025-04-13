@@ -180,3 +180,5 @@ def log_training_report(history, report_path: str = None):
     return report_text
 
 # [2025-04-03 4:02 PM] Task 37: Pass seed=SEED to shuffle and split calls
+
+# [2025-04-13 12:07 PM] Task 40: Import and use config constants in train.py
