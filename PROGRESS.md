@@ -308,3 +308,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-13 12:18 PM — Task 40 (config.py)
 **[test]** Assert all config constants have correct types
+
+## 2025-04-13 2:33 PM — Task 40 (config.py)
+**[debug]** Fix ImportError if config.py not on sys.path
