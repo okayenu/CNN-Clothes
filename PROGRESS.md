@@ -311,3 +311,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-13 2:33 PM — Task 40 (config.py)
 **[debug]** Fix ImportError if config.py not on sys.path
+
+## 2025-04-13 3:07 PM — Task 40 (config.py)
+**[docs]** Add docstring to config.py explaining each constant group
