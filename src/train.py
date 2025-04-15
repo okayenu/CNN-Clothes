@@ -184,3 +184,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-04-13 12:07 PM] Task 40: Import and use config constants in train.py
 
 # [2025-04-15 2:33 PM] Task 22: Add EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=True)
+
+# [2025-04-15 3:07 PM] Task 22: Add to callbacks list in get_callbacks()
