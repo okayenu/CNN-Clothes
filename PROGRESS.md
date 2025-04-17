@@ -392,3 +392,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-16 6:07 PM — Task 22 (Early Stopping)
 **[Debug]** Re-test edge cases after latest changes to Early Stopping
+
+## 2025-04-16 7:19 PM — Task 22 (Early Stopping)
+**[Debug]** Re-test edge cases after latest changes to Early Stopping
+
+## 2025-04-16 7:53 PM — Task 22 (Early Stopping)
+**[Test]** Add parametrized pytest case for Early Stopping boundary conditions
+
+## 2025-04-16 10:33 PM — Task 22 (Early Stopping)
+**[Docs]** Update inline comments in modified files for Early Stopping
+
+## 2025-04-17 9:23 AM — Task 22 (Early Stopping)
+**[Integrate]** Wire Early Stopping into main.py pipeline end-to-end
+
+## 2025-04-17 11:52 AM — Task 22 (Early Stopping)
+**[Test]** Run integration test: main.py with Early Stopping active
+
+## 2025-04-17 2:03 PM — Task 22 (Early Stopping)
+**[test]** Assert training stops before max epochs on overfit toy data
