@@ -416,3 +416,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-17 3:47 PM — Task 22 (Early Stopping)
 **[evaluate]** Log stopped_epoch and best val_loss in training report
+
+## 2025-04-17 4:13 PM — Task 22 (Early Stopping)
+**[docs]** Document patience choice rationale in train.py comment
