@@ -407,3 +407,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-17 11:52 AM — Task 22 (Early Stopping)
 **[Test]** Run integration test: main.py with Early Stopping active
+
+## 2025-04-17 2:03 PM — Task 22 (Early Stopping)
+**[test]** Assert training stops before max epochs on overfit toy data
