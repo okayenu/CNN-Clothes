@@ -419,3 +419,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-17 4:13 PM — Task 22 (Early Stopping)
 **[docs]** Document patience choice rationale in train.py comment
+
+## 2025-04-17 6:22 PM — Task 22 (Early Stopping)
+**[Error]** Add try/except around Early Stopping critical path with fallback
