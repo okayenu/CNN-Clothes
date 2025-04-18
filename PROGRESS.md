@@ -446,3 +446,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-18 4:13 PM — Task 22 (Early Stopping)
 **[Review]** Review Task 22 output against ROADMAP acceptance criteria
+
+## 2025-04-18 6:22 PM — Task 22 (Early Stopping)
+**[Docs]** Add Task 22 entry to CHANGELOG.md
