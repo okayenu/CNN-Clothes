@@ -188,3 +188,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-04-15 3:07 PM] Task 22: Add to callbacks list in get_callbacks()
 
 # [2025-04-19 5:03 PM] Task 23: Add ModelCheckpoint(filepath='models/best.keras', save_best_only=True)
+
+# [2025-04-19 5:38 PM] Task 23: Add to get_callbacks() alongside EarlyStopping
