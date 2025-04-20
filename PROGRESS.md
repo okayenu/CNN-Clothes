@@ -479,3 +479,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-20 9:23 AM — Task 23 (Model Checkpointing)
 **[test]** Assert checkpoint file exists after training completes
+
+## 2025-04-20 11:52 AM — Task 23 (Model Checkpointing)
+**[debug]** Fix path error: create models/ dir if not exists
