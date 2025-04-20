@@ -491,3 +491,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-20 3:22 PM — Task 23 (Model Checkpointing)
 **[Test]** Run unit tests for Model Checkpointing; fix failures
+
+## 2025-04-20 5:53 PM — Task 23 (Model Checkpointing)
+**[Debug]** Inspect shapes/types/values in Model Checkpointing pipeline step
