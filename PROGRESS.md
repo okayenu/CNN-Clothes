@@ -512,3 +512,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-21 3:22 PM — Task 23 (Model Checkpointing)
 **[docs]** Add .gitignore entry: models/*.keras
+
+## 2025-04-21 6:22 PM — Task 23 (Model Checkpointing)
+**[Error]** Add try/except around Model Checkpointing critical path with fallback
