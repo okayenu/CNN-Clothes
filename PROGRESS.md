@@ -500,3 +500,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-21 10:19 AM — Task 23 (Model Checkpointing)
 **[Test]** Run integration test: main.py with Model Checkpointing active
+
+## 2025-04-21 12:33 PM — Task 23 (Model Checkpointing)
+**[test]** Assert checkpoint file exists after training completes
