@@ -494,3 +494,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-20 5:53 PM — Task 23 (Model Checkpointing)
 **[Debug]** Inspect shapes/types/values in Model Checkpointing pipeline step
+
+## 2025-04-21 8:37 AM — Task 23 (Model Checkpointing)
+**[Integrate]** Wire Model Checkpointing into main.py pipeline end-to-end
