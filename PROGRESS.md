@@ -506,3 +506,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-21 1:07 PM — Task 23 (Model Checkpointing)
 **[debug]** Fix path error: create models/ dir if not exists
+
+## 2025-04-21 3:07 PM — Task 23 (Model Checkpointing)
+**[evaluate]** Load checkpoint and verify identical val accuracy
