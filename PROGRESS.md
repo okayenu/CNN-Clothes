@@ -542,3 +542,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-22 5:53 PM — Task 23 (Model Checkpointing)
 **[Review]** Review Task 23 output against ROADMAP acceptance criteria
+
+## 2025-04-22 6:07 PM — Task 23 (Model Checkpointing)
+**[Docs]** Add Task 23 entry to CHANGELOG.md
