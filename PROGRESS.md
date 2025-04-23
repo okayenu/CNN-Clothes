@@ -545,3 +545,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-22 6:07 PM — Task 23 (Model Checkpointing)
 **[Docs]** Add Task 23 entry to CHANGELOG.md
+
+## 2025-04-22 9:38 PM — Task 23 (Model Checkpointing)
+**[Evaluate]** Log Task 23 final metrics/results to REPORT.md
