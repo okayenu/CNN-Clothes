@@ -545,3 +545,24 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-22 6:07 PM — Task 23 (Model Checkpointing)
 **[Docs]** Add Task 23 entry to CHANGELOG.md
+
+## 2025-04-22 9:38 PM — Task 23 (Model Checkpointing)
+**[Evaluate]** Log Task 23 final metrics/results to REPORT.md
+
+## 2025-04-22 10:47 PM — Task 23 (Model Checkpointing)
+**[Evaluate]** Re-run evaluation metrics after Model Checkpointing fix
+
+## 2025-04-23 8:03 AM — Task 24 (Training Curves Visualization)
+**[Plan]** Review Task 24 (Training Curves Visualization) requirements and acceptance criteria
+
+## 2025-04-23 9:14 AM — Task 24 (Training Curves Visualization)
+**[Setup]** Create/open relevant files for Training Curves Visualization implementation
+
+## 2025-04-23 3:07 PM — Task 24 (Training Curves Visualization)
+**[evaluate.py]** Write plot_training_history(history, save_path) for loss+acc
+
+## 2025-04-23 4:28 PM — Task 24 (Training Curves Visualization)
+**[evaluate.py]** Plot train and val curves on same axes with legend
+
+## 2025-04-23 5:03 PM — Task 24 (Training Curves Visualization)
+**[notebook]** Call plot_training_history after each training run
