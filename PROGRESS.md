@@ -566,3 +566,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-23 5:03 PM — Task 24 (Training Curves Visualization)
 **[notebook]** Call plot_training_history after each training run
+
+## 2025-04-23 5:38 PM — Task 24 (Training Curves Visualization)
+**[test]** Assert PNG saved to results/ directory
