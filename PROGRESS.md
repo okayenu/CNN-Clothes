@@ -575,3 +575,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-23 10:47 PM — Task 24 (Training Curves Visualization)
 **[Debug]** Verify dev environment: imports, paths, configs for Training Curves Visualization
+
+## 2025-04-24 9:07 AM — Task 24 (Training Curves Visualization)
+**[evaluate.py]** Write plot_training_history(history, save_path) for loss+acc
