@@ -590,3 +590,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-24 4:28 PM — Task 24 (Training Curves Visualization)
 **[debug]** Fix KeyError if 'val_accuracy' missing (check metric name)
+
+## 2025-04-24 5:19 PM — Task 24 (Training Curves Visualization)
+**[docs]** Save to results/training_curves_{model_name}.png
