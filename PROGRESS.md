@@ -587,3 +587,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-24 3:38 PM — Task 24 (Training Curves Visualization)
 **[test]** Assert PNG saved to results/ directory
+
+## 2025-04-24 4:28 PM — Task 24 (Training Curves Visualization)
+**[debug]** Fix KeyError if 'val_accuracy' missing (check metric name)
