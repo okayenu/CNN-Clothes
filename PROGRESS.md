@@ -581,3 +581,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-24 12:33 PM — Task 24 (Training Curves Visualization)
 **[evaluate.py]** Plot train and val curves on same axes with legend
+
+## 2025-04-24 12:44 PM — Task 24 (Training Curves Visualization)
+**[notebook]** Call plot_training_history after each training run
