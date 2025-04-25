@@ -593,3 +593,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-24 5:19 PM — Task 24 (Training Curves Visualization)
 **[docs]** Save to results/training_curves_{model_name}.png
+
+## 2025-04-24 7:03 PM — Task 24 (Training Curves Visualization)
+**[Test]** Run unit tests for Training Curves Visualization; fix failures
