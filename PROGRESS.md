@@ -626,3 +626,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-25 5:38 PM — Task 24 (Training Curves Visualization)
 **[docs]** Save to results/training_curves_{model_name}.png
+
+## 2025-04-25 9:11 PM — Task 24 (Training Curves Visualization)
+**[Error]** Add try/except around Training Curves Visualization critical path with fallback
