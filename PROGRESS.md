@@ -650,3 +650,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-26 11:37 AM — Task 24 (Training Curves Visualization)
 **[Review]** Review Task 24 output against ROADMAP acceptance criteria
+
+## 2025-04-26 1:44 PM — Task 24 (Training Curves Visualization)
+**[Docs]** Add Task 24 entry to CHANGELOG.md
