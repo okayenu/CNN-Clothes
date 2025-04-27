@@ -668,3 +668,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-27 1:44 PM — Task 3 (Class Distribution Plot)
 **[notebook]** Call plot_class_distribution on raw train labels
+
+## 2025-04-27 5:53 PM — Task 3 (Class Distribution Plot)
+**[evaluate.py]** Add label-imbalance warning if max/min ratio > 2
