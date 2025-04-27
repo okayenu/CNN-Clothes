@@ -662,3 +662,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-27 11:13 AM — Task 3 (Class Distribution Plot)
 **[Setup]** Create/open relevant files for Class Distribution Plot implementation
+
+## 2025-04-27 11:37 AM — Task 3 (Class Distribution Plot)
+**[evaluate.py]** Write plot_class_distribution(y, title, save_path)
