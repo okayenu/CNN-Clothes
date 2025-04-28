@@ -671,3 +671,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-27 5:53 PM — Task 3 (Class Distribution Plot)
 **[evaluate.py]** Add label-imbalance warning if max/min ratio > 2
+
+## 2025-04-28 8:03 AM — Task 3 (Class Distribution Plot)
+**[evaluate.py]** Write plot_class_distribution(y, title, save_path)
+
+## 2025-04-28 8:52 AM — Task 3 (Class Distribution Plot)
+**[notebook]** Call plot_class_distribution on raw train labels
+
+## 2025-04-28 9:14 AM — Task 3 (Class Distribution Plot)
+**[evaluate.py]** Add label-imbalance warning if max/min ratio > 2
+
+## 2025-04-28 11:13 AM — Task 3 (Class Distribution Plot)
+**[test]** Assert bar count equals NUM_CLASSES (10)
+
+## 2025-04-28 11:52 AM — Task 3 (Class Distribution Plot)
+**[debug]** Handle case where class index ≠ class name index
