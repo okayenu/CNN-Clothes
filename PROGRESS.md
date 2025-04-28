@@ -686,3 +686,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-28 11:52 AM — Task 3 (Class Distribution Plot)
 **[debug]** Handle case where class index ≠ class name index
+
+## 2025-04-28 12:07 PM — Task 3 (Class Distribution Plot)
+**[docs]** Save PNG to results/class_distribution.png
