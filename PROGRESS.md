@@ -701,3 +701,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-28 2:03 PM — Task 3 (Class Distribution Plot)
 **[Evaluate]** Re-run evaluation metrics after Class Distribution Plot fix
+
+## 2025-04-28 2:53 PM — Task 3 (Class Distribution Plot)
+**[Test]** Add parametrized pytest case for Class Distribution Plot boundary conditions
