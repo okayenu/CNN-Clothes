@@ -683,3 +683,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-28 11:13 AM — Task 3 (Class Distribution Plot)
 **[test]** Assert bar count equals NUM_CLASSES (10)
+
+## 2025-04-28 11:52 AM — Task 3 (Class Distribution Plot)
+**[debug]** Handle case where class index ≠ class name index
