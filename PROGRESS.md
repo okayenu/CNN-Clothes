@@ -671,3 +671,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-27 5:53 PM — Task 3 (Class Distribution Plot)
 **[evaluate.py]** Add label-imbalance warning if max/min ratio > 2
+
+## 2025-04-28 8:03 AM — Task 3 (Class Distribution Plot)
+**[evaluate.py]** Write plot_class_distribution(y, title, save_path)
