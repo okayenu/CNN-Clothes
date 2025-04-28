@@ -689,3 +689,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-28 12:07 PM — Task 3 (Class Distribution Plot)
 **[docs]** Save PNG to results/class_distribution.png
+
+## 2025-04-28 12:18 PM — Task 3 (Class Distribution Plot)
+**[Test]** Run unit tests for Class Distribution Plot; fix failures
