@@ -728,3 +728,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-29 7:44 PM — Task 3 (Class Distribution Plot)
 **[Docs]** Add Task 3 entry to CHANGELOG.md
+
+## 2025-04-29 8:07 PM — Task 3 (Class Distribution Plot)
+**[Evaluate]** Log Task 3 final metrics/results to REPORT.md
