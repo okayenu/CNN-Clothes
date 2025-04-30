@@ -743,3 +743,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-30 2:53 PM — Task 1 (Pixel Normalization)
 **[notebook]** Plot pixel histogram before vs after normalization
+
+## 2025-04-30 4:47 PM — Task 1 (Pixel Normalization)
+**[test]** Assert pixel range [0,1] on sample batch
