@@ -184,3 +184,7 @@ def get_datasets(
 # [2025-04-03 2:03 PM] Task 37: Set np.random.seed(SEED) and tf.random.set_seed(SEED)
 
 # [2025-04-12 6:07 PM] Task 40: Import and use config constants in data.py
+
+# [2025-04-30 11:37 AM] Task 1: Add /255.0 normalization in preprocess_data()
+
+# [2025-04-30 2:03 PM] Task 1: Confirm dtype float32 after normalization

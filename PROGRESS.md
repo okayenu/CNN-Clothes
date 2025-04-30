@@ -725,3 +725,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-29 6:22 PM — Task 3 (Class Distribution Plot)
 **[Review]** Review Task 3 output against ROADMAP acceptance criteria
+
+## 2025-04-29 7:44 PM — Task 3 (Class Distribution Plot)
+**[Docs]** Add Task 3 entry to CHANGELOG.md
+
+## 2025-04-29 8:07 PM — Task 3 (Class Distribution Plot)
+**[Evaluate]** Log Task 3 final metrics/results to REPORT.md
+
+## 2025-04-29 11:19 PM — Task 3 (Class Distribution Plot)
+**[Debug]** Re-test edge cases after latest changes to Class Distribution Plot
+
+## 2025-04-30 8:37 AM — Task 1 (Pixel Normalization)
+**[Plan]** Review Task 1 (Pixel Normalization) requirements and acceptance criteria
+
+## 2025-04-30 9:53 AM — Task 1 (Pixel Normalization)
+**[Setup]** Create/open relevant files for Pixel Normalization implementation
