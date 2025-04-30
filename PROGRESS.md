@@ -740,3 +740,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-30 9:53 AM — Task 1 (Pixel Normalization)
 **[Setup]** Create/open relevant files for Pixel Normalization implementation
+
+## 2025-04-30 2:53 PM — Task 1 (Pixel Normalization)
+**[notebook]** Plot pixel histogram before vs after normalization
