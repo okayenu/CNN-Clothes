@@ -773,3 +773,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-01 1:07 PM — Task 1 (Pixel Normalization)
 **[Test]** Run unit tests for Pixel Normalization; fix failures
+
+## 2025-05-01 1:44 PM — Task 1 (Pixel Normalization)
+**[Debug]** Inspect shapes/types/values in Pixel Normalization pipeline step
