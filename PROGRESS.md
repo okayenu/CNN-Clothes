@@ -746,3 +746,30 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-30 4:47 PM — Task 1 (Pixel Normalization)
 **[test]** Assert pixel range [0,1] on sample batch
+
+## 2025-04-30 7:19 PM — Task 1 (Pixel Normalization)
+**[Test]** Write stub test for Pixel Normalization to define expected behavior
+
+## 2025-04-30 9:23 PM — Task 1 (Pixel Normalization)
+**[Debug]** Verify dev environment: imports, paths, configs for Pixel Normalization
+
+## 2025-04-30 11:45 PM — Task 1 (Pixel Normalization)
+**[Debug]** Re-test edge cases after latest changes to Pixel Normalization
+
+## 2025-05-01 9:41 AM — Task 1 (Pixel Normalization)
+**[notebook]** Plot pixel histogram before vs after normalization
+
+## 2025-05-01 10:44 AM — Task 1 (Pixel Normalization)
+**[test]** Assert pixel range [0,1] on sample batch
+
+## 2025-05-01 11:02 AM — Task 1 (Pixel Normalization)
+**[debug]** Fix off-by-one if scaler divides by 256 instead of 255
+
+## 2025-05-01 12:07 PM — Task 1 (Pixel Normalization)
+**[evaluate]** Verify training loss improves with normalized input
+
+## 2025-05-01 12:18 PM — Task 1 (Pixel Normalization)
+**[docs]** Comment normalization rationale in preprocess_data()
+
+## 2025-05-01 1:07 PM — Task 1 (Pixel Normalization)
+**[Test]** Run unit tests for Pixel Normalization; fix failures
