@@ -755,3 +755,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-30 11:45 PM — Task 1 (Pixel Normalization)
 **[Debug]** Re-test edge cases after latest changes to Pixel Normalization
+
+## 2025-05-01 9:41 AM — Task 1 (Pixel Normalization)
+**[notebook]** Plot pixel histogram before vs after normalization
