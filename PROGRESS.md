@@ -770,3 +770,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-01 12:18 PM — Task 1 (Pixel Normalization)
 **[docs]** Comment normalization rationale in preprocess_data()
+
+## 2025-05-01 1:07 PM — Task 1 (Pixel Normalization)
+**[Test]** Run unit tests for Pixel Normalization; fix failures
