@@ -779,3 +779,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-01 5:03 PM — Task 1 (Pixel Normalization)
 **[Review]** Code-review Pixel Normalization implementation for edge cases
+
+## 2025-05-01 7:28 PM — Task 1 (Pixel Normalization)
+**[Test]** Add parametrized pytest case for Pixel Normalization boundary conditions
