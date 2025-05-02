@@ -779,3 +779,24 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-01 5:03 PM — Task 1 (Pixel Normalization)
 **[Review]** Code-review Pixel Normalization implementation for edge cases
+
+## 2025-05-01 7:28 PM — Task 1 (Pixel Normalization)
+**[Test]** Add parametrized pytest case for Pixel Normalization boundary conditions
+
+## 2025-05-01 10:17 PM — Task 1 (Pixel Normalization)
+**[Debug]** Re-test edge cases after latest changes to Pixel Normalization
+
+## 2025-05-02 10:44 AM — Task 1 (Pixel Normalization)
+**[Integrate]** Wire Pixel Normalization into main.py pipeline end-to-end
+
+## 2025-05-02 11:02 AM — Task 1 (Pixel Normalization)
+**[Test]** Run integration test: main.py with Pixel Normalization active
+
+## 2025-05-02 12:07 PM — Task 1 (Pixel Normalization)
+**[notebook]** Plot pixel histogram before vs after normalization
+
+## 2025-05-02 12:18 PM — Task 1 (Pixel Normalization)
+**[test]** Assert pixel range [0,1] on sample batch
+
+## 2025-05-02 12:33 PM — Task 1 (Pixel Normalization)
+**[debug]** Fix off-by-one if scaler divides by 256 instead of 255
