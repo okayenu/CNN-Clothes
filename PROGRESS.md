@@ -803,3 +803,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-02 1:19 PM — Task 1 (Pixel Normalization)
 **[evaluate]** Verify training loss improves with normalized input
+
+## 2025-05-02 2:53 PM — Task 1 (Pixel Normalization)
+**[docs]** Comment normalization rationale in preprocess_data()
