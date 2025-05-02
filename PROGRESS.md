@@ -809,3 +809,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-02 3:38 PM — Task 1 (Pixel Normalization)
 **[Error]** Add try/except around Pixel Normalization critical path with fallback
+
+## 2025-05-02 4:47 PM — Task 1 (Pixel Normalization)
+**[Debug]** Profile Pixel Normalization for speed/memory regressions
