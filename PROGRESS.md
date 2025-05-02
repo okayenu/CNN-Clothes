@@ -791,3 +791,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-02 11:02 AM — Task 1 (Pixel Normalization)
 **[Test]** Run integration test: main.py with Pixel Normalization active
+
+## 2025-05-02 12:07 PM — Task 1 (Pixel Normalization)
+**[notebook]** Plot pixel histogram before vs after normalization
