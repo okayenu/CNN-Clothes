@@ -845,3 +845,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-04 9:28 AM — Task 30 (Confusion Matrix)
 **[Setup]** Create/open relevant files for Confusion Matrix implementation
+
+## 2025-05-04 9:41 AM — Task 30 (Confusion Matrix)
+**[evaluate.py]** Write plot_confusion_matrix(y_true, y_pred, class_names, save_path)
