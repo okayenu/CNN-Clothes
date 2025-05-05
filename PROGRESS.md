@@ -863,3 +863,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-05 11:37 AM — Task 30 (Confusion Matrix)
 **[evaluate.py]** Add normalization='true' option for row-normalized matrix
+
+## 2025-05-05 1:44 PM — Task 30 (Confusion Matrix)
+**[notebook]** Plot confusion matrix on validation predictions
