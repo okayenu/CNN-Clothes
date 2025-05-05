@@ -857,3 +857,9 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-04 5:38 PM — Task 30 (Confusion Matrix)
 **[test]** Assert matrix shape is (NUM_CLASSES, NUM_CLASSES)
+
+## 2025-05-05 9:28 AM — Task 30 (Confusion Matrix)
+**[evaluate.py]** Write plot_confusion_matrix(y_true, y_pred, class_names, save_path)
+
+## 2025-05-05 11:37 AM — Task 30 (Confusion Matrix)
+**[evaluate.py]** Add normalization='true' option for row-normalized matrix
