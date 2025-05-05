@@ -878,3 +878,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-05 4:47 PM — Task 30 (Confusion Matrix)
 **[docs]** Save to results/confusion_matrix_{model_name}.png
+
+## 2025-05-05 5:03 PM — Task 30 (Confusion Matrix)
+**[Test]** Run unit tests for Confusion Matrix; fix failures
