@@ -902,3 +902,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-06 5:03 PM — Task 30 (Confusion Matrix)
 **[debug]** Fix label encoding mismatch (int vs one-hot) before calling
+
+## 2025-05-06 5:19 PM — Task 30 (Confusion Matrix)
+**[evaluate]** Identify most-confused class pairs from matrix
