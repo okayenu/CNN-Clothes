@@ -881,3 +881,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-05 5:03 PM — Task 30 (Confusion Matrix)
 **[Test]** Run unit tests for Confusion Matrix; fix failures
+
+## 2025-05-05 10:17 PM — Task 30 (Confusion Matrix)
+**[Debug]** Inspect shapes/types/values in Confusion Matrix pipeline step
+
+## 2025-05-05 11:19 PM — Task 30 (Confusion Matrix)
+**[Review]** Code-review Confusion Matrix implementation for edge cases
+
+## 2025-05-06 9:28 AM — Task 30 (Confusion Matrix)
+**[Integrate]** Wire Confusion Matrix into main.py pipeline end-to-end
+
+## 2025-05-06 10:19 AM — Task 30 (Confusion Matrix)
+**[Test]** Run integration test: main.py with Confusion Matrix active
+
+## 2025-05-06 11:13 AM — Task 30 (Confusion Matrix)
+**[notebook]** Plot confusion matrix on validation predictions
+
+## 2025-05-06 11:29 AM — Task 30 (Confusion Matrix)
+**[test]** Assert matrix shape is (NUM_CLASSES, NUM_CLASSES)
