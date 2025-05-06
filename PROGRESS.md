@@ -899,3 +899,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-06 11:29 AM — Task 30 (Confusion Matrix)
 **[test]** Assert matrix shape is (NUM_CLASSES, NUM_CLASSES)
+
+## 2025-05-06 5:03 PM — Task 30 (Confusion Matrix)
+**[debug]** Fix label encoding mismatch (int vs one-hot) before calling
