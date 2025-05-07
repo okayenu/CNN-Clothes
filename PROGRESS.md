@@ -911,3 +911,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-06 7:44 PM — Task 30 (Confusion Matrix)
 **[Error]** Add try/except around Confusion Matrix critical path with fallback
+
+## 2025-05-06 8:19 PM — Task 30 (Confusion Matrix)
+**[Debug]** Profile Confusion Matrix for speed/memory regressions
