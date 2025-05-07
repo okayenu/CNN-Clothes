@@ -938,3 +938,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-07 4:47 PM — Task 30 (Confusion Matrix)
 **[Review]** Review Task 30 output against ROADMAP acceptance criteria
+
+## 2025-05-07 5:38 PM — Task 30 (Confusion Matrix)
+**[Docs]** Add Task 30 entry to CHANGELOG.md
