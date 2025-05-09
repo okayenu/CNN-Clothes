@@ -1007,3 +1007,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-09 4:13 PM — Task 30 (Confusion Matrix)
 **[Docs]** Write phase summary section in REPORT.md
+
+## 2025-05-09 5:38 PM — Task 30 (Confusion Matrix)
+**[Test]** Run integration smoke test: main.py end-to-end
