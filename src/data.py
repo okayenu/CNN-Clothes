@@ -190,3 +190,5 @@ def get_datasets(
 # [2025-04-30 2:03 PM] Task 1: Confirm dtype float32 after normalization
 
 # [2025-05-10 10:19 AM] Task 4: Add split_data(X,y, val=0.1, test=0.1) with stratify
+
+# [2025-05-10 10:44 AM] Task 4: Save hold-out indices to data/holdout_idx.npy
