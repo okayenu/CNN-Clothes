@@ -192,3 +192,5 @@ def get_datasets(
 # [2025-05-10 10:19 AM] Task 4: Add split_data(X,y, val=0.1, test=0.1) with stratify
 
 # [2025-05-10 10:44 AM] Task 4: Save hold-out indices to data/holdout_idx.npy
+
+# [2025-05-10 12:18 PM] Task 4: Verify splits don't overlap via set intersection test
