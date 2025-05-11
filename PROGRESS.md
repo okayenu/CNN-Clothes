@@ -1031,3 +1031,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-10 5:19 PM — Task 4 (Hold-out Test Split)
 **[Test]** Write stub test for Hold-out Test Split to define expected behavior
+
+## 2025-05-11 10:28 AM — Task 4 (Hold-out Test Split)
+**[test]** Assert split proportions within ±1% of target
