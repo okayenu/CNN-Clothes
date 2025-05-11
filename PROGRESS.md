@@ -1043,3 +1043,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-11 2:53 PM — Task 4 (Hold-out Test Split)
 **[docs]** Document split ratios and reproducibility note in data.py
+
+## 2025-05-11 5:19 PM — Task 4 (Hold-out Test Split)
+**[Test]** Run unit tests for Hold-out Test Split; fix failures
