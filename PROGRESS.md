@@ -1061,3 +1061,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-12 2:44 PM — Task 4 (Hold-out Test Split)
 **[Test]** Run unit tests for Hold-out Test Split; fix failures
+
+## 2025-05-12 2:53 PM — Task 4 (Hold-out Test Split)
+**[Debug]** Inspect shapes/types/values in Hold-out Test Split pipeline step
