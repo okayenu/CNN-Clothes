@@ -1070,3 +1070,24 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-12 4:47 PM — Task 4 (Hold-out Test Split)
 **[Debug]** Re-test edge cases after latest changes to Hold-out Test Split
+
+## 2025-05-12 7:19 PM — Task 4 (Hold-out Test Split)
+**[Review]** Cross-check Hold-out Test Split behavior against expected spec
+
+## 2025-05-13 8:52 AM — Task 4 (Hold-out Test Split)
+**[Integrate]** Wire Hold-out Test Split into main.py pipeline end-to-end
+
+## 2025-05-13 9:14 AM — Task 4 (Hold-out Test Split)
+**[Test]** Run integration test: main.py with Hold-out Test Split active
+
+## 2025-05-13 12:44 PM — Task 4 (Hold-out Test Split)
+**[test]** Assert split proportions within ±1% of target
+
+## 2025-05-13 3:22 PM — Task 4 (Hold-out Test Split)
+**[debug]** Fix stratify error if class has fewer samples than n_splits
+
+## 2025-05-13 3:38 PM — Task 4 (Hold-out Test Split)
+**[evaluate]** Compare performance on val vs hold-out to detect over-fit
+
+## 2025-05-13 4:02 PM — Task 4 (Hold-out Test Split)
+**[docs]** Document split ratios and reproducibility note in data.py
