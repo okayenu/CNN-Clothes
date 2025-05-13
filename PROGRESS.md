@@ -1097,3 +1097,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-13 4:28 PM — Task 4 (Hold-out Test Split)
 **[Debug]** Profile Hold-out Test Split for speed/memory regressions
+
+## 2025-05-13 5:53 PM — Task 4 (Hold-out Test Split)
+**[Test]** Edge-case test: Hold-out Test Split with empty/corrupt/extreme inputs
