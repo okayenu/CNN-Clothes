@@ -1070,3 +1070,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-12 4:47 PM — Task 4 (Hold-out Test Split)
 **[Debug]** Re-test edge cases after latest changes to Hold-out Test Split
+
+## 2025-05-12 7:19 PM — Task 4 (Hold-out Test Split)
+**[Review]** Cross-check Hold-out Test Split behavior against expected spec
