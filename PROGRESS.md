@@ -1091,3 +1091,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-13 4:02 PM — Task 4 (Hold-out Test Split)
 **[docs]** Document split ratios and reproducibility note in data.py
+
+## 2025-05-13 4:13 PM — Task 4 (Hold-out Test Split)
+**[Error]** Add try/except around Hold-out Test Split critical path with fallback
