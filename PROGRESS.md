@@ -1085,3 +1085,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-13 3:22 PM — Task 4 (Hold-out Test Split)
 **[debug]** Fix stratify error if class has fewer samples than n_splits
+
+## 2025-05-13 3:38 PM — Task 4 (Hold-out Test Split)
+**[evaluate]** Compare performance on val vs hold-out to detect over-fit
