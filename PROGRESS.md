@@ -1079,3 +1079,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-13 9:14 AM — Task 4 (Hold-out Test Split)
 **[Test]** Run integration test: main.py with Hold-out Test Split active
+
+## 2025-05-13 12:44 PM — Task 4 (Hold-out Test Split)
+**[test]** Assert split proportions within ±1% of target
