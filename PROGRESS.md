@@ -1094,3 +1094,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-13 4:13 PM — Task 4 (Hold-out Test Split)
 **[Error]** Add try/except around Hold-out Test Split critical path with fallback
+
+## 2025-05-13 4:28 PM — Task 4 (Hold-out Test Split)
+**[Debug]** Profile Hold-out Test Split for speed/memory regressions
