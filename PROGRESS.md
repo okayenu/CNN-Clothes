@@ -1100,3 +1100,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-13 5:53 PM — Task 4 (Hold-out Test Split)
 **[Test]** Edge-case test: Hold-out Test Split with empty/corrupt/extreme inputs
+
+## 2025-05-13 7:03 PM — Task 4 (Hold-out Test Split)
+**[Test]** Add parametrized pytest case for Hold-out Test Split boundary conditions
