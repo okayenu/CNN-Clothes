@@ -1115,3 +1115,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-14 2:17 PM — Task 4 (Hold-out Test Split)
 **[Test]** Final test run: assert no regressions from Task 4
+
+## 2025-05-14 2:33 PM — Task 4 (Hold-out Test Split)
+**[Debug]** Resolve any final issues flagged in Task 4 test run
