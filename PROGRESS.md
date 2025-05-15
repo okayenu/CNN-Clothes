@@ -1124,3 +1124,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-14 5:38 PM — Task 4 (Hold-out Test Split)
 **[Review]** Review Task 4 output against ROADMAP acceptance criteria
+
+## 2025-05-14 7:44 PM — Task 4 (Hold-out Test Split)
+**[Docs]** Add Task 4 entry to CHANGELOG.md
