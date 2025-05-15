@@ -1124,3 +1124,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-14 5:38 PM — Task 4 (Hold-out Test Split)
 **[Review]** Review Task 4 output against ROADMAP acceptance criteria
+
+## 2025-05-14 7:44 PM — Task 4 (Hold-out Test Split)
+**[Docs]** Add Task 4 entry to CHANGELOG.md
+
+## 2025-05-14 8:19 PM — Task 4 (Hold-out Test Split)
+**[Evaluate]** Log Task 4 final metrics/results to REPORT.md
+
+## 2025-05-14 9:11 PM — Task 4 (Hold-out Test Split)
+**[Test]** Add parametrized pytest case for Hold-out Test Split boundary conditions
+
+## 2025-05-14 9:38 PM — Task 4 (Hold-out Test Split)
+**[Review]** Cross-check Hold-out Test Split behavior against expected spec
+
+## 2025-05-15 8:44 AM — Task 5 (Git LFS / CSV Data Loading)
+**[Plan]** Review Task 5 (Git LFS / CSV Data Loading) requirements and acceptance criteria
+
+## 2025-05-15 9:14 AM — Task 5 (Git LFS / CSV Data Loading)
+**[Setup]** Create/open relevant files for Git LFS / CSV Data Loading implementation
