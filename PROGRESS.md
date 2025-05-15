@@ -1127,3 +1127,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-14 7:44 PM — Task 4 (Hold-out Test Split)
 **[Docs]** Add Task 4 entry to CHANGELOG.md
+
+## 2025-05-14 8:19 PM — Task 4 (Hold-out Test Split)
+**[Evaluate]** Log Task 4 final metrics/results to REPORT.md
