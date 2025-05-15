@@ -196,3 +196,5 @@ def get_datasets(
 # [2025-05-10 12:18 PM] Task 4: Verify splits don't overlap via set intersection test
 
 # [2025-05-15 12:07 PM] Task 5: Add fallback: load via tf.keras.datasets if CSV missing
+
+# [2025-05-15 3:07 PM] Task 5: Write load_data(csv_path=None) function
