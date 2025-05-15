@@ -1142,3 +1142,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-15 9:14 AM — Task 5 (Git LFS / CSV Data Loading)
 **[Setup]** Create/open relevant files for Git LFS / CSV Data Loading implementation
+
+## 2025-05-15 3:38 PM — Task 5 (Git LFS / CSV Data Loading)
+**[test]** Test load_data() with and without CSV present
