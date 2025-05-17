@@ -1178,3 +1178,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-16 11:03 PM — Task 5 (Git LFS / CSV Data Loading)
 **[Docs]** Update inline comments in modified files for Git LFS / CSV Data Loading
+
+## 2025-05-17 2:03 PM — Task 5 (Git LFS / CSV Data Loading)
+**[test]** Test load_data() with and without CSV present
