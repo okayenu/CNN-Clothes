@@ -1187,3 +1187,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-17 6:07 PM — Task 5 (Git LFS / CSV Data Loading)
 **[debug]** Resolve git-lfs bandwidth limit with local cache fallback
+
+## 2025-05-18 9:28 AM — Task 5 (Git LFS / CSV Data Loading)
+**[Integrate]** Wire Git LFS / CSV Data Loading into main.py pipeline end-to-end
