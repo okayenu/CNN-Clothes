@@ -1193,3 +1193,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-18 11:52 AM — Task 5 (Git LFS / CSV Data Loading)
 **[Test]** Run integration test: main.py with Git LFS / CSV Data Loading active
+
+## 2025-05-18 3:22 PM — Task 5 (Git LFS / CSV Data Loading)
+**[test]** Test load_data() with and without CSV present
