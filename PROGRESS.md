@@ -1223,3 +1223,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-19 4:13 PM — Task 5 (Git LFS / CSV Data Loading)
 **[docs]** Add Git LFS setup instructions to README.md
+
+## 2025-05-19 5:53 PM — Task 5 (Git LFS / CSV Data Loading)
+**[Error]** Add try/except around Git LFS / CSV Data Loading critical path with fallback
