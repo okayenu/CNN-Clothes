@@ -1205,3 +1205,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-18 4:13 PM — Task 5 (Git LFS / CSV Data Loading)
 **[docs]** Add Git LFS setup instructions to README.md
+
+## 2025-05-19 8:03 AM — Task 5 (Git LFS / CSV Data Loading)
+**[Integrate]** Wire Git LFS / CSV Data Loading into main.py pipeline end-to-end
+
+## 2025-05-19 9:23 AM — Task 5 (Git LFS / CSV Data Loading)
+**[Test]** Run integration test: main.py with Git LFS / CSV Data Loading active
+
+## 2025-05-19 1:44 PM — Task 5 (Git LFS / CSV Data Loading)
+**[test]** Test load_data() with and without CSV present
+
+## 2025-05-19 2:17 PM — Task 5 (Git LFS / CSV Data Loading)
+**[debug]** Handle UnicodeDecodeError or missing header in CSV
