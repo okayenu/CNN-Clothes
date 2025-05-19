@@ -1214,3 +1214,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-19 1:44 PM — Task 5 (Git LFS / CSV Data Loading)
 **[test]** Test load_data() with and without CSV present
+
+## 2025-05-19 2:17 PM — Task 5 (Git LFS / CSV Data Loading)
+**[debug]** Handle UnicodeDecodeError or missing header in CSV
