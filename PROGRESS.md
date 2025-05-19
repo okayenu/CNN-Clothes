@@ -1229,3 +1229,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-19 6:07 PM — Task 5 (Git LFS / CSV Data Loading)
 **[Debug]** Profile Git LFS / CSV Data Loading for speed/memory regressions
+
+## 2025-05-19 6:37 PM — Task 5 (Git LFS / CSV Data Loading)
+**[Test]** Edge-case test: Git LFS / CSV Data Loading with empty/corrupt/extreme inputs
