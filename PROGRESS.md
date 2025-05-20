@@ -1238,3 +1238,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-19 10:02 PM — Task 5 (Git LFS / CSV Data Loading)
 **[Test]** Add parametrized pytest case for Git LFS / CSV Data Loading boundary conditions
+
+## 2025-05-20 2:17 PM — Task 5 (Git LFS / CSV Data Loading)
+**[Polish]** Refactor Git LFS / CSV Data Loading code for readability and DRY principles
