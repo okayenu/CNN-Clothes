@@ -1256,3 +1256,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-20 5:53 PM — Task 5 (Git LFS / CSV Data Loading)
 **[Review]** Review Task 5 output against ROADMAP acceptance criteria
+
+## 2025-05-20 7:19 PM — Task 5 (Git LFS / CSV Data Loading)
+**[Docs]** Add Task 5 entry to CHANGELOG.md
