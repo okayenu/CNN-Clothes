@@ -198,3 +198,7 @@ def get_datasets(
 # [2025-05-15 12:07 PM] Task 5: Add fallback: load via tf.keras.datasets if CSV missing
 
 # [2025-05-15 3:07 PM] Task 5: Write load_data(csv_path=None) function
+
+# [2025-05-21 2:33 PM] Task 2: Add tf.keras.layers.RandomFlip to augmentation pipeline
+
+# [2025-05-21 2:44 PM] Task 2: Add RandomRotation(factor=0.1) layer
