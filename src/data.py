@@ -202,3 +202,5 @@ def get_datasets(
 # [2025-05-21 2:33 PM] Task 2: Add tf.keras.layers.RandomFlip to augmentation pipeline
 
 # [2025-05-21 2:44 PM] Task 2: Add RandomRotation(factor=0.1) layer
+
+# [2025-05-21 3:07 PM] Task 2: Add RandomZoom(height_factor=0.1) layer
