@@ -206,3 +206,5 @@ def get_datasets(
 # [2025-05-21 3:07 PM] Task 2: Add RandomZoom(height_factor=0.1) layer
 
 # [2025-05-21 4:02 PM] Task 2: Wrap augmentation in a tf.keras.Sequential augment_layer
+
+# [2025-05-22 3:22 PM] Task 2: Apply augment_layer only during training, skip for val/test
