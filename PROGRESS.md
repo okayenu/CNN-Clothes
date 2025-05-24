@@ -1313,3 +1313,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-24 10:28 AM — Task 2 (Data Augmentation)
 **[Test]** Run integration test: main.py with Data Augmentation active
+
+## 2025-05-24 1:28 PM — Task 2 (Data Augmentation)
+**[test]** Assert augmented tensors stay in [0,1] range
