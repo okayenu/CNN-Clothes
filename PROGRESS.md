@@ -1301,3 +1301,12 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-23 6:07 PM — Task 2 (Data Augmentation)
 **[evaluate]** Compare val accuracy with and without augmentation
+
+## 2025-05-23 10:02 PM — Task 2 (Data Augmentation)
+**[docs]** Document augmentation choices and exclusions
+
+## 2025-05-23 10:47 PM — Task 2 (Data Augmentation)
+**[Test]** Run unit tests for Data Augmentation; fix failures
+
+## 2025-05-24 9:14 AM — Task 2 (Data Augmentation)
+**[Integrate]** Wire Data Augmentation into main.py pipeline end-to-end
