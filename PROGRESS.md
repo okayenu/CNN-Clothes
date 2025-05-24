@@ -1322,3 +1322,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-24 2:53 PM — Task 2 (Data Augmentation)
 **[evaluate]** Compare val accuracy with and without augmentation
+
+## 2025-05-24 3:38 PM — Task 2 (Data Augmentation)
+**[docs]** Document augmentation choices and exclusions
