@@ -1325,3 +1325,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-24 3:38 PM — Task 2 (Data Augmentation)
 **[docs]** Document augmentation choices and exclusions
+
+## 2025-05-24 4:13 PM — Task 2 (Data Augmentation)
+**[Error]** Add try/except around Data Augmentation critical path with fallback
