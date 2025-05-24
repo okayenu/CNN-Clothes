@@ -1316,3 +1316,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-24 1:28 PM — Task 2 (Data Augmentation)
 **[test]** Assert augmented tensors stay in [0,1] range
+
+## 2025-05-24 1:44 PM — Task 2 (Data Augmentation)
+**[debug]** Fix AUTOTUNE bottleneck if augmentation slows pipeline
