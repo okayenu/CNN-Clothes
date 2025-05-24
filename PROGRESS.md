@@ -1319,3 +1319,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-24 1:44 PM — Task 2 (Data Augmentation)
 **[debug]** Fix AUTOTUNE bottleneck if augmentation slows pipeline
+
+## 2025-05-24 2:53 PM — Task 2 (Data Augmentation)
+**[evaluate]** Compare val accuracy with and without augmentation
