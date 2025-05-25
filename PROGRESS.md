@@ -1346,3 +1346,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-25 4:02 PM — Task 2 (Data Augmentation)
 **[Review]** Review Task 2 output against ROADMAP acceptance criteria
+
+## 2025-05-25 6:07 PM — Task 2 (Data Augmentation)
+**[Docs]** Add Task 2 entry to CHANGELOG.md
