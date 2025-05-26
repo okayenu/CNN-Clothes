@@ -212,3 +212,5 @@ def get_datasets(
 # [2025-05-26 10:19 AM] Task 6: Convert numpy arrays to tf.data.Dataset.from_tensor_slices
 
 # [2025-05-26 2:17 PM] Task 6: Add .cache() after load to avoid re-read
+
+# [2025-05-26 5:53 PM] Task 6: Add .shuffle(buffer_size=5000, seed=SEED)
