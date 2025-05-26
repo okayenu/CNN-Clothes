@@ -210,3 +210,5 @@ def get_datasets(
 # [2025-05-22 3:22 PM] Task 2: Apply augment_layer only during training, skip for val/test
 
 # [2025-05-26 10:19 AM] Task 6: Convert numpy arrays to tf.data.Dataset.from_tensor_slices
+
+# [2025-05-26 2:17 PM] Task 6: Add .cache() after load to avoid re-read
