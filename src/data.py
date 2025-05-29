@@ -216,3 +216,5 @@ def get_datasets(
 # [2025-05-26 5:53 PM] Task 6: Add .shuffle(buffer_size=5000, seed=SEED)
 
 # [2025-05-26 6:07 PM] Task 6: Add .batch(BATCH_SIZE).prefetch(tf.data.AUTOTUNE)
+
+# [2025-05-29 3:22 PM] Task 6: Wire augment_layer into training Dataset only
