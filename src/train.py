@@ -190,3 +190,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-04-19 5:03 PM] Task 23: Add ModelCheckpoint(filepath='models/best.keras', save_best_only=True)
 
 # [2025-04-19 5:38 PM] Task 23: Add to get_callbacks() alongside EarlyStopping
+
+# [2025-05-29 5:38 PM] Task 6: Replace numpy arrays with tf.data Datasets in model.fit
