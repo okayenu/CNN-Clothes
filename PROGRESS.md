@@ -1409,3 +1409,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-29 11:37 PM — Task 6 (tf.data Pipeline)
 **[docs]** Document pipeline stages and AUTOTUNE rationale
+
+## 2025-05-30 4:28 PM — Task 6 (tf.data Pipeline)
+**[test]** Benchmark throughput: steps/sec with and without pipeline
