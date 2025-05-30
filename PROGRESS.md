@@ -1394,3 +1394,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-28 9:38 PM — Task 6 (tf.data Pipeline)
 **[Debug]** Verify dev environment: imports, paths, configs for tf.data Pipeline
+
+## 2025-05-29 7:44 PM — Task 6 (tf.data Pipeline)
+**[test]** Benchmark throughput: steps/sec with and without pipeline
+
+## 2025-05-29 7:53 PM — Task 6 (tf.data Pipeline)
+**[debug]** Fix OOM error if shuffle buffer too large for RAM
+
+## 2025-05-29 8:44 PM — Task 6 (tf.data Pipeline)
+**[debug]** Resolve TF graph tracing error from Python loops inside map()
+
+## 2025-05-29 10:17 PM — Task 6 (tf.data Pipeline)
+**[evaluate]** Profile pipeline with tf.profiler to find bottleneck
