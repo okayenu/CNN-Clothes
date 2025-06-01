@@ -1424,3 +1424,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-30 10:17 PM — Task 6 (tf.data Pipeline)
 **[docs]** Document pipeline stages and AUTOTUNE rationale
+
+## 2025-06-01 9:07 AM — Task 6 (tf.data Pipeline)
+**[Integrate]** Wire tf.data Pipeline into main.py pipeline end-to-end
+
+## 2025-06-01 9:41 AM — Task 6 (tf.data Pipeline)
+**[Test]** Run integration test: main.py with tf.data Pipeline active
+
+## 2025-06-01 11:02 AM — Task 6 (tf.data Pipeline)
+**[test]** Benchmark throughput: steps/sec with and without pipeline
+
+## 2025-06-01 12:44 PM — Task 6 (tf.data Pipeline)
+**[debug]** Fix OOM error if shuffle buffer too large for RAM
