@@ -1460,3 +1460,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-02 11:52 AM — Task 6 (tf.data Pipeline)
 **[evaluate]** Profile pipeline with tf.profiler to find bottleneck
+
+## 2025-06-02 12:18 PM — Task 6 (tf.data Pipeline)
+**[docs]** Document pipeline stages and AUTOTUNE rationale
