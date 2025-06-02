@@ -1442,3 +1442,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-01 5:19 PM — Task 6 (tf.data Pipeline)
 **[evaluate]** Profile pipeline with tf.profiler to find bottleneck
+
+## 2025-06-02 8:03 AM — Task 6 (tf.data Pipeline)
+**[Integrate]** Wire tf.data Pipeline into main.py pipeline end-to-end
+
+## 2025-06-02 8:52 AM — Task 6 (tf.data Pipeline)
+**[Test]** Run integration test: main.py with tf.data Pipeline active
+
+## 2025-06-02 9:28 AM — Task 6 (tf.data Pipeline)
+**[test]** Benchmark throughput: steps/sec with and without pipeline
+
+## 2025-06-02 9:53 AM — Task 6 (tf.data Pipeline)
+**[debug]** Fix OOM error if shuffle buffer too large for RAM
