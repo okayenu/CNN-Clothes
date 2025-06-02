@@ -1454,3 +1454,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-02 9:53 AM — Task 6 (tf.data Pipeline)
 **[debug]** Fix OOM error if shuffle buffer too large for RAM
+
+## 2025-06-02 11:13 AM — Task 6 (tf.data Pipeline)
+**[debug]** Resolve TF graph tracing error from Python loops inside map()
