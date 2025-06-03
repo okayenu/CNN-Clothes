@@ -1493,3 +1493,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-03 2:44 PM — Task 6 (tf.data Pipeline)
 **[Review]** Review Task 6 output against ROADMAP acceptance criteria
+
+## 2025-06-03 2:53 PM — Task 6 (tf.data Pipeline)
+**[Docs]** Add Task 6 entry to CHANGELOG.md
