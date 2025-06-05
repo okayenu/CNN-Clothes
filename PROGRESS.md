@@ -1550,3 +1550,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-05 11:29 AM — Task 7 (Visualize Augmented Samples)
 **[evaluate.py]** Write visualize_augmented_batch(ds, n=9, save_path) fn
+
+## 2025-06-05 1:07 PM — Task 7 (Visualize Augmented Samples)
+**[notebook]** Call visualize_augmented_batch and inspect output
