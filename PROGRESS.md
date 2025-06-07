@@ -1622,3 +1622,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-07 2:53 PM — Task 7 (Visualize Augmented Samples)
 **[Review]** Review Task 7 output against ROADMAP acceptance criteria
+
+## 2025-06-07 3:38 PM — Task 7 (Visualize Augmented Samples)
+**[Docs]** Add Task 7 entry to CHANGELOG.md
