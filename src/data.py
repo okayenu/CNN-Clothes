@@ -224,3 +224,5 @@ def get_datasets(
 # [2025-06-08 10:19 AM] Task 8: Compute mean/std on training set with np.mean/std
 
 # [2025-06-08 12:07 PM] Task 8: Save stats to data/pixel_stats.npy
+
+# [2025-06-08 5:53 PM] Task 8: Apply (x - mean) / std in preprocess_data()
