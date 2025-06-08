@@ -222,3 +222,5 @@ def get_datasets(
 # [2025-05-29 4:28 PM] Task 6: Add map() for one-hot encoding labels
 
 # [2025-06-08 10:19 AM] Task 8: Compute mean/std on training set with np.mean/std
+
+# [2025-06-08 12:07 PM] Task 8: Save stats to data/pixel_stats.npy
