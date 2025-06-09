@@ -1649,3 +1649,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-09 3:47 PM — Task 8 (Per-channel Standardization)
 **[Test]** Run unit tests for Per-channel Standardization; fix failures
+
+## 2025-06-09 4:47 PM — Task 8 (Per-channel Standardization)
+**[Debug]** Inspect shapes/types/values in Per-channel Standardization pipeline step
