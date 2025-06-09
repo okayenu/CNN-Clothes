@@ -1640,3 +1640,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-09 11:29 AM — Task 8 (Per-channel Standardization)
 **[debug]** Handle divide-by-zero if channel std == 0
+
+## 2025-06-09 12:44 PM — Task 8 (Per-channel Standardization)
+**[evaluate]** Compare model accuracy: normalised vs standardised
