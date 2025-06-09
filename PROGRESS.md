@@ -1634,3 +1634,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-08 9:53 AM — Task 8 (Per-channel Standardization)
 **[Setup]** Create/open relevant files for Per-channel Standardization implementation
+
+## 2025-06-09 11:13 AM — Task 8 (Per-channel Standardization)
+**[test]** Assert standardized train mean ≈ 0, std ≈ 1
