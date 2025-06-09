@@ -1637,3 +1637,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-09 11:13 AM — Task 8 (Per-channel Standardization)
 **[test]** Assert standardized train mean ≈ 0, std ≈ 1
+
+## 2025-06-09 11:29 AM — Task 8 (Per-channel Standardization)
+**[debug]** Handle divide-by-zero if channel std == 0
