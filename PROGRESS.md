@@ -1646,3 +1646,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-09 2:44 PM — Task 8 (Per-channel Standardization)
 **[docs]** Note: reuse training stats for val/test sets
+
+## 2025-06-09 3:47 PM — Task 8 (Per-channel Standardization)
+**[Test]** Run unit tests for Per-channel Standardization; fix failures
