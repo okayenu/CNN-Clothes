@@ -1670,3 +1670,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-10 11:02 AM — Task 8 (Per-channel Standardization)
 **[evaluate]** Compare model accuracy: normalised vs standardised
+
+## 2025-06-10 2:33 PM — Task 8 (Per-channel Standardization)
+**[docs]** Note: reuse training stats for val/test sets
