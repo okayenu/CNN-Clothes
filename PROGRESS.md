@@ -1652,3 +1652,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-09 4:47 PM — Task 8 (Per-channel Standardization)
 **[Debug]** Inspect shapes/types/values in Per-channel Standardization pipeline step
+
+## 2025-06-09 7:19 PM — Task 8 (Per-channel Standardization)
+**[Review]** Code-review Per-channel Standardization implementation for edge cases
+
+## 2025-06-10 8:03 AM — Task 8 (Per-channel Standardization)
+**[Integrate]** Wire Per-channel Standardization into main.py pipeline end-to-end
+
+## 2025-06-10 8:44 AM — Task 8 (Per-channel Standardization)
+**[Test]** Run integration test: main.py with Per-channel Standardization active
+
+## 2025-06-10 9:53 AM — Task 8 (Per-channel Standardization)
+**[test]** Assert standardized train mean ≈ 0, std ≈ 1
+
+## 2025-06-10 10:19 AM — Task 8 (Per-channel Standardization)
+**[debug]** Handle divide-by-zero if channel std == 0
