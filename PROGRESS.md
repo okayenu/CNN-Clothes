@@ -1655,3 +1655,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-09 7:19 PM — Task 8 (Per-channel Standardization)
 **[Review]** Code-review Per-channel Standardization implementation for edge cases
+
+## 2025-06-10 8:03 AM — Task 8 (Per-channel Standardization)
+**[Integrate]** Wire Per-channel Standardization into main.py pipeline end-to-end
