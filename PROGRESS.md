@@ -1676,3 +1676,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-10 4:13 PM — Task 8 (Per-channel Standardization)
 **[Error]** Add try/except around Per-channel Standardization critical path with fallback
+
+## 2025-06-10 6:07 PM — Task 8 (Per-channel Standardization)
+**[Debug]** Profile Per-channel Standardization for speed/memory regressions
