@@ -1709,3 +1709,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-11 2:44 PM — Task 8 (Per-channel Standardization)
 **[Review]** Review Task 8 output against ROADMAP acceptance criteria
+
+## 2025-06-11 4:02 PM — Task 8 (Per-channel Standardization)
+**[Docs]** Add Task 8 entry to CHANGELOG.md
