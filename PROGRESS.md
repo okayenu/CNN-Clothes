@@ -1682,3 +1682,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-10 7:19 PM — Task 8 (Per-channel Standardization)
 **[Test]** Edge-case test: Per-channel Standardization with empty/corrupt/extreme inputs
+
+## 2025-06-10 8:07 PM — Task 8 (Per-channel Standardization)
+**[Review]** Cross-check Per-channel Standardization behavior against expected spec
