@@ -226,3 +226,5 @@ def get_datasets(
 # [2025-06-08 12:07 PM] Task 8: Save stats to data/pixel_stats.npy
 
 # [2025-06-08 5:53 PM] Task 8: Apply (x - mean) / std in preprocess_data()
+
+# [2025-06-12 10:07 AM] Task 38: Move all data loading/preprocessing to data.py
