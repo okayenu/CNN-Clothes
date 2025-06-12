@@ -309,3 +309,5 @@ import numpy as np  # noqa: E402
 # [2025-03-31 9:23 AM] Task 13: Change loss from binary_crossentropy to categorical_crossentropy
 
 # [2025-04-12 6:22 PM] Task 40: Import and use config constants in model.py
+
+# [2025-06-12 10:44 AM] Task 38: Move all model builders to model.py
