@@ -1712,3 +1712,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-11 4:02 PM — Task 8 (Per-channel Standardization)
 **[Docs]** Add Task 8 entry to CHANGELOG.md
+
+## 2025-06-11 9:23 PM — Task 8 (Per-channel Standardization)
+**[Evaluate]** Log Task 8 final metrics/results to REPORT.md
+
+## 2025-06-11 10:33 PM — Task 8 (Per-channel Standardization)
+**[Review]** Cross-check Per-channel Standardization behavior against expected spec
+
+## 2025-06-11 11:45 PM — Task 8 (Per-channel Standardization)
+**[Docs]** Update inline comments in modified files for Per-channel Standardization
+
+## 2025-06-12 8:44 AM — Task 38 (Refactor to Python Modules)
+**[Plan]** Review Task 38 (Refactor to Python Modules) requirements and acceptance criteria
+
+## 2025-06-12 9:14 AM — Task 38 (Refactor to Python Modules)
+**[Setup]** Create/open relevant files for Refactor to Python Modules implementation
