@@ -1757,3 +1757,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-13 9:23 AM — Task 38 (Refactor to Python Modules)
 **[Setup]** Create/open relevant files for Refactor to Python Modules implementation
+
+## 2025-06-13 1:07 PM — Task 38 (Refactor to Python Modules)
+**[evaluate.py]** Move all evaluation/plotting functions to evaluate.py
