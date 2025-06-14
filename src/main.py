@@ -139,3 +139,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# [2025-06-14 4:28 PM] Task 38: Wire data → model → train → evaluate in main.py pipeline
