@@ -1775,3 +1775,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-13 8:44 PM — Task 38 (Refactor to Python Modules)
 **[Debug]** Re-test edge cases after latest changes to Refactor to Python Modules
+
+## 2025-06-14 2:03 PM — Task 38 (Refactor to Python Modules)
+**[evaluate.py]** Move all evaluation/plotting functions to evaluate.py
