@@ -1811,3 +1811,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-17 3:07 PM — Task 38 (Refactor to Python Modules)
 **[debug]** Fix circular import between model.py and evaluate.py
+
+## 2025-06-17 5:03 PM — Task 38 (Refactor to Python Modules)
+**[debug]** Resolve relative import path errors when running from different cwd
