@@ -1880,3 +1880,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-19 5:53 PM — Task 38 (Refactor to Python Modules)
 **[Review]** Review Task 38 output against ROADMAP acceptance criteria
+
+## 2025-06-19 6:22 PM — Task 38 (Refactor to Python Modules)
+**[Docs]** Add Task 38 entry to CHANGELOG.md
