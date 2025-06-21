@@ -1928,3 +1928,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-21 12:18 PM — Task 41 (Unit Tests with pytest)
 **[tests/]** Create tests/ directory and tests/__init__.py
+
+## 2025-06-21 4:28 PM — Task 41 (Unit Tests with pytest)
+**[tests/]** Write test_data.py: test load, split, shapes, dtypes
