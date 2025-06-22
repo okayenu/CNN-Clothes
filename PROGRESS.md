@@ -1934,3 +1934,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-21 6:37 PM — Task 41 (Unit Tests with pytest)
 **[tests/]** Write test_model.py: test output shape, softmax sum, param count
+
+## 2025-06-22 8:03 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Create tests/ directory and tests/__init__.py
