@@ -1934,3 +1934,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-21 6:37 PM — Task 41 (Unit Tests with pytest)
 **[tests/]** Write test_model.py: test output shape, softmax sum, param count
+
+## 2025-06-22 8:03 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Create tests/ directory and tests/__init__.py
+
+## 2025-06-22 8:44 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Write test_data.py: test load, split, shapes, dtypes
+
+## 2025-06-22 9:23 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Write test_model.py: test output shape, softmax sum, param count
+
+## 2025-06-22 10:19 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Write test_evaluate.py: test confusion matrix shape, AUC range
+
+## 2025-06-22 2:33 PM — Task 41 (Unit Tests with pytest)
+**[test]** Run pytest tests/ and assert all tests pass
+
+## 2025-06-22 4:02 PM — Task 41 (Unit Tests with pytest)
+**[debug]** Fix fixture scope error if TF session not reset between tests
