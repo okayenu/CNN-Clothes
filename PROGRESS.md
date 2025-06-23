@@ -1958,3 +1958,9 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-22 6:22 PM — Task 41 (Unit Tests with pytest)
 **[docs]** Add pytest badge and test instructions to README.md
+
+## 2025-06-23 8:03 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Create tests/ directory and tests/__init__.py
+
+## 2025-06-23 10:07 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Write test_data.py: test load, split, shapes, dtypes
