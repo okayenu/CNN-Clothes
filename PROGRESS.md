@@ -1964,3 +1964,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-23 10:07 AM — Task 41 (Unit Tests with pytest)
 **[tests/]** Write test_data.py: test load, split, shapes, dtypes
+
+## 2025-06-23 10:28 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Write test_model.py: test output shape, softmax sum, param count
