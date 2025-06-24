@@ -2000,3 +2000,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-24 1:44 PM — Task 41 (Unit Tests with pytest)
 **[debug]** Fix fixture scope error if TF session not reset between tests
+
+## 2025-06-24 2:03 PM — Task 41 (Unit Tests with pytest)
+**[debug]** Resolve slow test suite: use small synthetic data in fixtures
