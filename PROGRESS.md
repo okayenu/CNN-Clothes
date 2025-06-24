@@ -2003,3 +2003,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-24 2:03 PM — Task 41 (Unit Tests with pytest)
 **[debug]** Resolve slow test suite: use small synthetic data in fixtures
+
+## 2025-06-24 2:44 PM — Task 41 (Unit Tests with pytest)
+**[docs]** Add pytest badge and test instructions to README.md
