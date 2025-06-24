@@ -1991,3 +1991,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-24 11:13 AM — Task 41 (Unit Tests with pytest)
 **[Test]** Run integration test: main.py with Unit Tests with pytest active
+
+## 2025-06-24 11:29 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Write test_evaluate.py: test confusion matrix shape, AUC range
