@@ -1997,3 +1997,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-24 1:07 PM — Task 41 (Unit Tests with pytest)
 **[test]** Run pytest tests/ and assert all tests pass
+
+## 2025-06-24 1:44 PM — Task 41 (Unit Tests with pytest)
+**[debug]** Fix fixture scope error if TF session not reset between tests
