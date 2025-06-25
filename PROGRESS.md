@@ -2009,3 +2009,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-24 10:17 PM — Task 41 (Unit Tests with pytest)
 **[Error]** Add try/except around Unit Tests with pytest critical path with fallback
+
+## 2025-06-24 10:33 PM — Task 41 (Unit Tests with pytest)
+**[Debug]** Profile Unit Tests with pytest for speed/memory regressions
