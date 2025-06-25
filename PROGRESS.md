@@ -2006,3 +2006,27 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-24 2:44 PM — Task 41 (Unit Tests with pytest)
 **[docs]** Add pytest badge and test instructions to README.md
+
+## 2025-06-24 10:17 PM — Task 41 (Unit Tests with pytest)
+**[Error]** Add try/except around Unit Tests with pytest critical path with fallback
+
+## 2025-06-24 10:33 PM — Task 41 (Unit Tests with pytest)
+**[Debug]** Profile Unit Tests with pytest for speed/memory regressions
+
+## 2025-06-24 11:37 PM — Task 41 (Unit Tests with pytest)
+**[Test]** Edge-case test: Unit Tests with pytest with empty/corrupt/extreme inputs
+
+## 2025-06-24 11:45 PM — Task 41 (Unit Tests with pytest)
+**[Review]** Cross-check Unit Tests with pytest behavior against expected spec
+
+## 2025-06-25 8:52 AM — Task 41 (Unit Tests with pytest)
+**[Polish]** Refactor Unit Tests with pytest code for readability and DRY principles
+
+## 2025-06-25 9:07 AM — Task 41 (Unit Tests with pytest)
+**[Docs]** Finalize docstrings and inline comments for Unit Tests with pytest
+
+## 2025-06-25 11:37 AM — Task 41 (Unit Tests with pytest)
+**[Test]** Final test run: assert no regressions from Task 41
+
+## 2025-06-25 12:07 PM — Task 41 (Unit Tests with pytest)
+**[Debug]** Resolve any final issues flagged in Task 41 test run
