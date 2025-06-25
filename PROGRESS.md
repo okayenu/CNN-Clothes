@@ -2036,3 +2036,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-25 2:03 PM — Task 41 (Unit Tests with pytest)
 **[Review]** Review Task 41 output against ROADMAP acceptance criteria
+
+## 2025-06-25 3:22 PM — Task 41 (Unit Tests with pytest)
+**[Docs]** Add Task 41 entry to CHANGELOG.md
