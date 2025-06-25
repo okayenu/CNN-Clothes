@@ -2021,3 +2021,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-25 8:52 AM — Task 41 (Unit Tests with pytest)
 **[Polish]** Refactor Unit Tests with pytest code for readability and DRY principles
+
+## 2025-06-25 9:07 AM — Task 41 (Unit Tests with pytest)
+**[Docs]** Finalize docstrings and inline comments for Unit Tests with pytest
