@@ -194,3 +194,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-05-29 5:38 PM] Task 6: Replace numpy arrays with tf.data Datasets in model.fit
 
 # [2025-06-12 11:02 AM] Task 38: Move training loop, callbacks, optimizers to train.py
+
+# [2025-06-26 12:18 PM] Task 42: Add docstrings to get_callbacks(), train_model(), get_optimizer()
