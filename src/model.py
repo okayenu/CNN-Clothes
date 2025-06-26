@@ -311,3 +311,5 @@ import numpy as np  # noqa: E402
 # [2025-04-12 6:22 PM] Task 40: Import and use config constants in model.py
 
 # [2025-06-12 10:44 AM] Task 38: Move all model builders to model.py
+
+# [2025-06-26 10:19 AM] Task 42: Add docstrings to all build_model_*() functions
