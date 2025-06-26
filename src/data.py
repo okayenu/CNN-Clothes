@@ -228,3 +228,5 @@ def get_datasets(
 # [2025-06-08 5:53 PM] Task 8: Apply (x - mean) / std in preprocess_data()
 
 # [2025-06-12 10:07 AM] Task 38: Move all data loading/preprocessing to data.py
+
+# [2025-06-26 9:53 AM] Task 42: Add Google-style docstrings to all public functions in data.py
