@@ -196,3 +196,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-06-12 11:02 AM] Task 38: Move training loop, callbacks, optimizers to train.py
 
 # [2025-06-26 12:18 PM] Task 42: Add docstrings to get_callbacks(), train_model(), get_optimizer()
+
+# [2025-06-29 1:07 PM] Task 31: Write PerClassAccuracyCallback(val_data, class_names)
