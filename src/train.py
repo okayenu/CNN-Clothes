@@ -200,3 +200,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-06-29 1:07 PM] Task 31: Write PerClassAccuracyCallback(val_data, class_names)
 
 # [2025-06-29 1:19 PM] Task 31: Log per-class accuracy to console at end of each epoch
+
+# [2025-06-29 5:19 PM] Task 31: Add callback to get_callbacks()
