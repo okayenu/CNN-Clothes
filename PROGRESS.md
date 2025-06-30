@@ -2120,3 +2120,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-29 10:19 AM — Task 31 (Per-class Accuracy Callback)
 **[Setup]** Create/open relevant files for Per-class Accuracy Callback implementation
+
+## 2025-06-30 12:33 PM — Task 31 (Per-class Accuracy Callback)
+**[test]** Assert callback logs 10 class accuracies each epoch
