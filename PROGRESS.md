@@ -2126,3 +2126,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-30 3:38 PM — Task 31 (Per-class Accuracy Callback)
 **[debug]** Fix AttributeError if validation data not provided to callback
+
+## 2025-06-30 5:03 PM — Task 31 (Per-class Accuracy Callback)
+**[evaluate]** Identify lowest-accuracy classes from callback logs
