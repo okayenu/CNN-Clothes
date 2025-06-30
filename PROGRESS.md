@@ -2123,3 +2123,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-30 12:33 PM — Task 31 (Per-class Accuracy Callback)
 **[test]** Assert callback logs 10 class accuracies each epoch
+
+## 2025-06-30 3:38 PM — Task 31 (Per-class Accuracy Callback)
+**[debug]** Fix AttributeError if validation data not provided to callback
