@@ -2129,3 +2129,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-30 5:03 PM — Task 31 (Per-class Accuracy Callback)
 **[evaluate]** Identify lowest-accuracy classes from callback logs
+
+## 2025-06-30 5:38 PM — Task 31 (Per-class Accuracy Callback)
+**[docs]** Document PerClassAccuracyCallback in train.py docstring
