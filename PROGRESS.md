@@ -2141,3 +2141,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-30 8:44 PM — Task 31 (Per-class Accuracy Callback)
 **[Review]** Code-review Per-class Accuracy Callback implementation for edge cases
+
+## 2025-06-30 9:38 PM — Task 31 (Per-class Accuracy Callback)
+**[Test]** Add parametrized pytest case for Per-class Accuracy Callback boundary conditions
