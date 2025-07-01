@@ -2165,3 +2165,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-01 3:47 PM — Task 31 (Per-class Accuracy Callback)
 **[Review]** Review Task 31 output against ROADMAP acceptance criteria
+
+## 2025-07-01 4:47 PM — Task 31 (Per-class Accuracy Callback)
+**[Docs]** Add Task 31 entry to CHANGELOG.md
