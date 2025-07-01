@@ -2162,3 +2162,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-01 1:44 PM — Task 31 (Per-class Accuracy Callback)
 **[Commit]** Commit Task 31 (Per-class Accuracy Callback) with passing tests
+
+## 2025-07-01 3:47 PM — Task 31 (Per-class Accuracy Callback)
+**[Review]** Review Task 31 output against ROADMAP acceptance criteria
