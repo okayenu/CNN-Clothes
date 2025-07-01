@@ -2132,3 +2132,30 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-30 5:38 PM — Task 31 (Per-class Accuracy Callback)
 **[docs]** Document PerClassAccuracyCallback in train.py docstring
+
+## 2025-06-30 7:03 PM — Task 31 (Per-class Accuracy Callback)
+**[Test]** Run unit tests for Per-class Accuracy Callback; fix failures
+
+## 2025-06-30 7:28 PM — Task 31 (Per-class Accuracy Callback)
+**[Debug]** Inspect shapes/types/values in Per-class Accuracy Callback pipeline step
+
+## 2025-06-30 8:44 PM — Task 31 (Per-class Accuracy Callback)
+**[Review]** Code-review Per-class Accuracy Callback implementation for edge cases
+
+## 2025-06-30 9:38 PM — Task 31 (Per-class Accuracy Callback)
+**[Test]** Add parametrized pytest case for Per-class Accuracy Callback boundary conditions
+
+## 2025-06-30 11:37 PM — Task 31 (Per-class Accuracy Callback)
+**[Review]** Cross-check Per-class Accuracy Callback behavior against expected spec
+
+## 2025-07-01 8:37 AM — Task 31 (Per-class Accuracy Callback)
+**[Polish]** Refactor Per-class Accuracy Callback code for readability and DRY principles
+
+## 2025-07-01 9:23 AM — Task 31 (Per-class Accuracy Callback)
+**[Docs]** Finalize docstrings and inline comments for Per-class Accuracy Callback
+
+## 2025-07-01 1:19 PM — Task 31 (Per-class Accuracy Callback)
+**[Test]** Final test run: assert no regressions from Task 31
+
+## 2025-07-01 1:28 PM — Task 31 (Per-class Accuracy Callback)
+**[Debug]** Resolve any final issues flagged in Task 31 test run
