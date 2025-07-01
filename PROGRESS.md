@@ -2156,3 +2156,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-01 1:19 PM — Task 31 (Per-class Accuracy Callback)
 **[Test]** Final test run: assert no regressions from Task 31
+
+## 2025-07-01 1:28 PM — Task 31 (Per-class Accuracy Callback)
+**[Debug]** Resolve any final issues flagged in Task 31 test run
