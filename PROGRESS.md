@@ -2168,3 +2168,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-01 4:47 PM — Task 31 (Per-class Accuracy Callback)
 **[Docs]** Add Task 31 entry to CHANGELOG.md
+
+## 2025-07-01 9:23 PM — Task 31 (Per-class Accuracy Callback)
+**[Evaluate]** Log Task 31 final metrics/results to REPORT.md
+
+## 2025-07-02 8:44 AM — Task 32 (Error Analysis)
+**[Plan]** Review Task 32 (Error Analysis) requirements and acceptance criteria
+
+## 2025-07-02 8:52 AM — Task 32 (Error Analysis)
+**[Setup]** Create/open relevant files for Error Analysis implementation
+
+## 2025-07-02 11:29 AM — Task 32 (Error Analysis)
+**[evaluate.py]** Write error_analysis(model, X, y_true, class_names, n=25)
