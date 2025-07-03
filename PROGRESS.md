@@ -2210,3 +2210,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-03 12:33 PM — Task 32 (Error Analysis)
 **[test]** Assert output has n misclassified samples or fewer if errors < n
+
+## 2025-07-03 2:33 PM — Task 32 (Error Analysis)
+**[debug]** Fix index OOB if fewer than n errors on high-accuracy model
