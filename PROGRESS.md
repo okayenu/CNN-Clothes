@@ -2216,3 +2216,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-03 4:02 PM — Task 32 (Error Analysis)
 **[evaluate]** Group misclassifications by predicted class to find biases
+
+## 2025-07-03 6:37 PM — Task 32 (Error Analysis)
+**[docs]** Save grid to results/error_analysis_{model_name}.png
