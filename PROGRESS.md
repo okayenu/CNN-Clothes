@@ -2207,3 +2207,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-03 11:02 AM — Task 32 (Error Analysis)
 **[notebook]** Run error_analysis on val set and identify failure patterns
+
+## 2025-07-03 12:33 PM — Task 32 (Error Analysis)
+**[test]** Assert output has n misclassified samples or fewer if errors < n
