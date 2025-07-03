@@ -2213,3 +2213,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-03 2:33 PM — Task 32 (Error Analysis)
 **[debug]** Fix index OOB if fewer than n errors on high-accuracy model
+
+## 2025-07-03 4:02 PM — Task 32 (Error Analysis)
+**[evaluate]** Group misclassifications by predicted class to find biases
