@@ -315,3 +315,5 @@ import numpy as np  # noqa: E402
 # [2025-06-26 10:19 AM] Task 42: Add docstrings to all build_model_*() functions
 
 # [2025-07-05 2:17 PM] Task 10: Add BatchNormalization() after each Conv2D in build_model_batchnorm()
+
+# [2025-07-05 2:33 PM] Task 10: Place BN before ReLU activation as per He et al.
