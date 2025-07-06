@@ -2294,3 +2294,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-06 9:28 AM — Task 10 (Batch Normalization)
 **[Setup]** Create/open relevant files for Batch Normalization implementation
+
+## 2025-07-06 4:02 PM — Task 10 (Batch Normalization)
+**[notebook]** Compare training curves: with BN vs without BN
