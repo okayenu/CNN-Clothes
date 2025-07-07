@@ -2306,3 +2306,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-07 4:28 PM — Task 10 (Batch Normalization)
 **[test]** Assert BN layer exists in model.layers list
+
+## 2025-07-07 6:22 PM — Task 10 (Batch Normalization)
+**[debug]** Fix BN training=False not applied during inference
