@@ -2300,3 +2300,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-06 4:28 PM — Task 10 (Batch Normalization)
 **[Test]** Write stub test for Batch Normalization to define expected behavior
+
+## 2025-07-07 3:47 PM — Task 10 (Batch Normalization)
+**[notebook]** Compare training curves: with BN vs without BN
