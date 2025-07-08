@@ -2318,3 +2318,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-07 10:17 PM — Task 10 (Batch Normalization)
 **[docs]** Comment placement rationale in model.py
+
+## 2025-07-07 11:45 PM — Task 10 (Batch Normalization)
+**[Test]** Run unit tests for Batch Normalization; fix failures
