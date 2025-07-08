@@ -2309,3 +2309,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-07 6:22 PM — Task 10 (Batch Normalization)
 **[debug]** Fix BN training=False not applied during inference
+
+## 2025-07-07 7:28 PM — Task 10 (Batch Normalization)
+**[debug]** Handle NaN loss from BN + high LR combination
+
+## 2025-07-07 9:23 PM — Task 10 (Batch Normalization)
+**[evaluate]** Check if BN improves convergence speed vs baseline
+
+## 2025-07-07 10:17 PM — Task 10 (Batch Normalization)
+**[docs]** Comment placement rationale in model.py
+
+## 2025-07-07 11:45 PM — Task 10 (Batch Normalization)
+**[Test]** Run unit tests for Batch Normalization; fix failures
+
+## 2025-07-08 11:29 AM — Task 10 (Batch Normalization)
+**[notebook]** Compare training curves: with BN vs without BN
+
+## 2025-07-08 3:22 PM — Task 10 (Batch Normalization)
+**[test]** Assert BN layer exists in model.layers list
