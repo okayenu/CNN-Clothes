@@ -2336,3 +2336,30 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-08 5:53 PM — Task 10 (Batch Normalization)
 **[evaluate]** Check if BN improves convergence speed vs baseline
+
+## 2025-07-08 7:19 PM — Task 10 (Batch Normalization)
+**[docs]** Comment placement rationale in model.py
+
+## 2025-07-08 7:44 PM — Task 10 (Batch Normalization)
+**[Test]** Run unit tests for Batch Normalization; fix failures
+
+## 2025-07-08 8:19 PM — Task 10 (Batch Normalization)
+**[Debug]** Inspect shapes/types/values in Batch Normalization pipeline step
+
+## 2025-07-08 10:33 PM — Task 10 (Batch Normalization)
+**[Review]** Code-review Batch Normalization implementation for edge cases
+
+## 2025-07-09 9:14 AM — Task 10 (Batch Normalization)
+**[Integrate]** Wire Batch Normalization into main.py pipeline end-to-end
+
+## 2025-07-09 9:28 AM — Task 10 (Batch Normalization)
+**[Test]** Run integration test: main.py with Batch Normalization active
+
+## 2025-07-09 10:28 AM — Task 10 (Batch Normalization)
+**[test]** Assert BN layer exists in model.layers list
+
+## 2025-07-09 12:33 PM — Task 10 (Batch Normalization)
+**[debug]** Fix BN training=False not applied during inference
+
+## 2025-07-09 1:44 PM — Task 10 (Batch Normalization)
+**[debug]** Handle NaN loss from BN + high LR combination
