@@ -2342,3 +2342,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-08 7:44 PM — Task 10 (Batch Normalization)
 **[Test]** Run unit tests for Batch Normalization; fix failures
+
+## 2025-07-08 8:19 PM — Task 10 (Batch Normalization)
+**[Debug]** Inspect shapes/types/values in Batch Normalization pipeline step
