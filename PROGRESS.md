@@ -2366,3 +2366,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-09 3:38 PM — Task 10 (Batch Normalization)
 **[evaluate]** Check if BN improves convergence speed vs baseline
+
+## 2025-07-09 6:07 PM — Task 10 (Batch Normalization)
+**[docs]** Comment placement rationale in model.py
