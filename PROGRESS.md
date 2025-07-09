@@ -2348,3 +2348,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-08 10:33 PM — Task 10 (Batch Normalization)
 **[Review]** Code-review Batch Normalization implementation for edge cases
+
+## 2025-07-09 9:14 AM — Task 10 (Batch Normalization)
+**[Integrate]** Wire Batch Normalization into main.py pipeline end-to-end
