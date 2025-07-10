@@ -2411,3 +2411,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-10 4:13 PM — Task 10 (Batch Normalization)
 **[Error]** Add try/except around Batch Normalization critical path with fallback
+
+## 2025-07-10 4:28 PM — Task 10 (Batch Normalization)
+**[Debug]** Profile Batch Normalization for speed/memory regressions
