@@ -2408,3 +2408,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-10 3:47 PM — Task 10 (Batch Normalization)
 **[docs]** Comment placement rationale in model.py
+
+## 2025-07-10 4:13 PM — Task 10 (Batch Normalization)
+**[Error]** Add try/except around Batch Normalization critical path with fallback
