@@ -2402,3 +2402,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-10 2:33 PM — Task 10 (Batch Normalization)
 **[debug]** Handle NaN loss from BN + high LR combination
+
+## 2025-07-10 3:07 PM — Task 10 (Batch Normalization)
+**[evaluate]** Check if BN improves convergence speed vs baseline
