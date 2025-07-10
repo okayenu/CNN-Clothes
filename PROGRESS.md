@@ -2399,3 +2399,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-10 12:44 PM — Task 10 (Batch Normalization)
 **[debug]** Fix BN training=False not applied during inference
+
+## 2025-07-10 2:33 PM — Task 10 (Batch Normalization)
+**[debug]** Handle NaN loss from BN + high LR combination
