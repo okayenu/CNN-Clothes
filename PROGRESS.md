@@ -2444,3 +2444,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-11 2:17 PM — Task 10 (Batch Normalization)
 **[Review]** Review Task 10 output against ROADMAP acceptance criteria
+
+## 2025-07-11 2:53 PM — Task 10 (Batch Normalization)
+**[Docs]** Add Task 10 entry to CHANGELOG.md
