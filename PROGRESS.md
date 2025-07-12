@@ -2450,3 +2450,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-11 5:53 PM — Task 10 (Batch Normalization)
 **[Evaluate]** Log Task 10 final metrics/results to REPORT.md
+
+## 2025-07-11 7:19 PM — Task 10 (Batch Normalization)
+**[Debug]** Re-test edge cases after latest changes to Batch Normalization
+
+## 2025-07-11 7:53 PM — Task 10 (Batch Normalization)
+**[Review]** Cross-check Batch Normalization behavior against expected spec
+
+## 2025-07-11 8:07 PM — Task 10 (Batch Normalization)
+**[Evaluate]** Re-run evaluation metrics after Batch Normalization fix
+
+## 2025-07-11 9:23 PM — Task 10 (Batch Normalization)
+**[Evaluate]** Re-run evaluation metrics after Batch Normalization fix
+
+## 2025-07-11 9:38 PM — Task 10 (Batch Normalization)
+**[Debug]** Re-test edge cases after latest changes to Batch Normalization
