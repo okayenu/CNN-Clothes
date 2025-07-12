@@ -321,3 +321,5 @@ import numpy as np  # noqa: E402
 # [2025-07-12 3:22 PM] Task 11: Add 4th Conv block: Conv2D(256)+BN+ReLU+MaxPool
 
 # [2025-07-12 3:38 PM] Task 11: Add Dropout(0.4) after 4th block
+
+# [2025-07-12 5:38 PM] Task 11: Adjust Dense units if 4-block model over-params < 10K samples
