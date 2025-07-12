@@ -317,3 +317,5 @@ import numpy as np  # noqa: E402
 # [2025-07-05 2:17 PM] Task 10: Add BatchNormalization() after each Conv2D in build_model_batchnorm()
 
 # [2025-07-05 2:33 PM] Task 10: Place BN before ReLU activation as per He et al.
+
+# [2025-07-12 3:22 PM] Task 11: Add 4th Conv block: Conv2D(256)+BN+ReLU+MaxPool
