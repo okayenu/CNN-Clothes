@@ -2465,3 +2465,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-11 9:38 PM — Task 10 (Batch Normalization)
 **[Debug]** Re-test edge cases after latest changes to Batch Normalization
+
+## 2025-07-12 11:37 AM — Task 11 (Deeper 4-Block CNN)
+**[Plan]** Review Task 11 (Deeper 4-Block CNN) requirements and acceptance criteria
