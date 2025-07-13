@@ -2477,3 +2477,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-13 1:28 PM — Task 11 (Deeper 4-Block CNN)
 **[Setup]** Create/open relevant files for Deeper 4-Block CNN implementation
+
+## 2025-07-13 6:07 PM — Task 11 (Deeper 4-Block CNN)
+**[Test]** Write stub test for Deeper 4-Block CNN to define expected behavior
