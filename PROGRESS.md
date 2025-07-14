@@ -2480,3 +2480,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-13 6:07 PM — Task 11 (Deeper 4-Block CNN)
 **[Test]** Write stub test for Deeper 4-Block CNN to define expected behavior
+
+## 2025-07-14 2:17 PM — Task 11 (Deeper 4-Block CNN)
+**[test]** Assert model has 4 MaxPooling2D layers
