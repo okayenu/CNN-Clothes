@@ -2513,3 +2513,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-15 1:07 PM — Task 11 (Deeper 4-Block CNN)
 **[Test]** Run unit tests for Deeper 4-Block CNN; fix failures
+
+## 2025-07-15 1:28 PM — Task 11 (Deeper 4-Block CNN)
+**[Debug]** Inspect shapes/types/values in Deeper 4-Block CNN pipeline step
