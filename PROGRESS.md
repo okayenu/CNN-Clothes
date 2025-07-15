@@ -2498,3 +2498,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-14 11:45 PM — Task 11 (Deeper 4-Block CNN)
 **[Debug]** Inspect shapes/types/values in Deeper 4-Block CNN pipeline step
+
+## 2025-07-15 10:44 AM — Task 11 (Deeper 4-Block CNN)
+**[test]** Assert model has 4 MaxPooling2D layers
