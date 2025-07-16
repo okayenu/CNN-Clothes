@@ -2516,3 +2516,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-15 1:28 PM — Task 11 (Deeper 4-Block CNN)
 **[Debug]** Inspect shapes/types/values in Deeper 4-Block CNN pipeline step
+
+## 2025-07-15 7:28 PM — Task 11 (Deeper 4-Block CNN)
+**[Review]** Code-review Deeper 4-Block CNN implementation for edge cases
+
+## 2025-07-15 10:47 PM — Task 11 (Deeper 4-Block CNN)
+**[Docs]** Update inline comments in modified files for Deeper 4-Block CNN
+
+## 2025-07-15 11:03 PM — Task 11 (Deeper 4-Block CNN)
+**[Review]** Cross-check Deeper 4-Block CNN behavior against expected spec
+
+## 2025-07-16 10:28 AM — Task 11 (Deeper 4-Block CNN)
+**[Integrate]** Wire Deeper 4-Block CNN into main.py pipeline end-to-end
+
+## 2025-07-16 11:29 AM — Task 11 (Deeper 4-Block CNN)
+**[Test]** Run integration test: main.py with Deeper 4-Block CNN active
+
+## 2025-07-16 2:17 PM — Task 11 (Deeper 4-Block CNN)
+**[test]** Assert model has 4 MaxPooling2D layers
