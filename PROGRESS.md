@@ -2525,3 +2525,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-15 11:03 PM — Task 11 (Deeper 4-Block CNN)
 **[Review]** Cross-check Deeper 4-Block CNN behavior against expected spec
+
+## 2025-07-16 10:28 AM — Task 11 (Deeper 4-Block CNN)
+**[Integrate]** Wire Deeper 4-Block CNN into main.py pipeline end-to-end
