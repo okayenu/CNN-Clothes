@@ -2528,3 +2528,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-16 10:28 AM — Task 11 (Deeper 4-Block CNN)
 **[Integrate]** Wire Deeper 4-Block CNN into main.py pipeline end-to-end
+
+## 2025-07-16 11:29 AM — Task 11 (Deeper 4-Block CNN)
+**[Test]** Run integration test: main.py with Deeper 4-Block CNN active
