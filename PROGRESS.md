@@ -2516,3 +2516,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-15 1:28 PM — Task 11 (Deeper 4-Block CNN)
 **[Debug]** Inspect shapes/types/values in Deeper 4-Block CNN pipeline step
+
+## 2025-07-15 7:28 PM — Task 11 (Deeper 4-Block CNN)
+**[Review]** Code-review Deeper 4-Block CNN implementation for edge cases
