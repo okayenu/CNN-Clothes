@@ -2573,3 +2573,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-17 3:47 PM — Task 11 (Deeper 4-Block CNN)
 **[evaluate]** Compare: 2-block vs 3-block vs 4-block val accuracy table
+
+## 2025-07-17 4:28 PM — Task 11 (Deeper 4-Block CNN)
+**[docs]** Add architecture diagram in ASCII to model.py docstring
