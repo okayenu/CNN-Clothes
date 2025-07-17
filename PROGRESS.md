@@ -2564,3 +2564,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-17 9:23 AM — Task 11 (Deeper 4-Block CNN)
 **[Test]** Run integration test: main.py with Deeper 4-Block CNN active
+
+## 2025-07-17 2:44 PM — Task 11 (Deeper 4-Block CNN)
+**[test]** Assert model has 4 MaxPooling2D layers
