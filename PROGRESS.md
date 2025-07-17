@@ -2549,3 +2549,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-16 5:53 PM — Task 11 (Deeper 4-Block CNN)
 **[Debug]** Profile Deeper 4-Block CNN for speed/memory regressions
+
+## 2025-07-16 7:44 PM — Task 11 (Deeper 4-Block CNN)
+**[Test]** Edge-case test: Deeper 4-Block CNN with empty/corrupt/extreme inputs
