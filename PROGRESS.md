@@ -2600,3 +2600,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-18 7:19 PM — Task 11 (Deeper 4-Block CNN)
 **[Docs]** Add Task 11 entry to CHANGELOG.md
+
+## 2025-07-18 9:11 PM — Task 11 (Deeper 4-Block CNN)
+**[Evaluate]** Log Task 11 final metrics/results to REPORT.md
