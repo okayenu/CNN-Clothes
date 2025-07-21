@@ -2633,3 +2633,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-21 2:33 PM — Task 14 (Wider Filters 5x5)
 **[docs]** Note texture vs edge detection trade-off in docstring
+
+## 2025-07-21 3:22 PM — Task 14 (Wider Filters 5x5)
+**[Test]** Run unit tests for Wider Filters 5x5; fix failures
