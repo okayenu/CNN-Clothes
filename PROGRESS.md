@@ -2639,3 +2639,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-21 4:02 PM — Task 14 (Wider Filters 5x5)
 **[Debug]** Inspect shapes/types/values in Wider Filters 5x5 pipeline step
+
+## 2025-07-21 9:11 PM — Task 14 (Wider Filters 5x5)
+**[Review]** Code-review Wider Filters 5x5 implementation for edge cases
+
+## 2025-07-21 11:19 PM — Task 14 (Wider Filters 5x5)
+**[Review]** Cross-check Wider Filters 5x5 behavior against expected spec
+
+## 2025-07-22 9:14 AM — Task 14 (Wider Filters 5x5)
+**[test]** Assert first Conv2D has kernel_size (5,5) in 5x5 model
+
+## 2025-07-22 9:28 AM — Task 14 (Wider Filters 5x5)
+**[debug]** Fix memory overflow if 5x5 kernels on 28x28 images too deep
+
+## 2025-07-22 10:19 AM — Task 14 (Wider Filters 5x5)
+**[evaluate]** Compare 5x5 vs 3x3 val accuracy; check parameter count
