@@ -2654,3 +2654,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-22 10:19 AM — Task 14 (Wider Filters 5x5)
 **[evaluate]** Compare 5x5 vs 3x3 val accuracy; check parameter count
+
+## 2025-07-22 11:02 AM — Task 14 (Wider Filters 5x5)
+**[docs]** Note texture vs edge detection trade-off in docstring
