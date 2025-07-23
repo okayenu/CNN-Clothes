@@ -2663,3 +2663,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-22 6:07 PM — Task 14 (Wider Filters 5x5)
 **[Debug]** Inspect shapes/types/values in Wider Filters 5x5 pipeline step
+
+## 2025-07-22 7:19 PM — Task 14 (Wider Filters 5x5)
+**[Review]** Code-review Wider Filters 5x5 implementation for edge cases
+
+## 2025-07-22 9:23 PM — Task 14 (Wider Filters 5x5)
+**[Debug]** Re-test edge cases after latest changes to Wider Filters 5x5
+
+## 2025-07-22 10:33 PM — Task 14 (Wider Filters 5x5)
+**[Review]** Cross-check Wider Filters 5x5 behavior against expected spec
+
+## 2025-07-23 8:37 AM — Task 14 (Wider Filters 5x5)
+**[Integrate]** Wire Wider Filters 5x5 into main.py pipeline end-to-end
+
+## 2025-07-23 12:18 PM — Task 14 (Wider Filters 5x5)
+**[Test]** Run integration test: main.py with Wider Filters 5x5 active
