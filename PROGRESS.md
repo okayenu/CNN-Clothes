@@ -2678,3 +2678,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-23 12:18 PM — Task 14 (Wider Filters 5x5)
 **[Test]** Run integration test: main.py with Wider Filters 5x5 active
+
+## 2025-07-23 2:03 PM — Task 14 (Wider Filters 5x5)
+**[test]** Assert first Conv2D has kernel_size (5,5) in 5x5 model
