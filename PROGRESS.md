@@ -2675,3 +2675,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-23 8:37 AM — Task 14 (Wider Filters 5x5)
 **[Integrate]** Wire Wider Filters 5x5 into main.py pipeline end-to-end
+
+## 2025-07-23 12:18 PM — Task 14 (Wider Filters 5x5)
+**[Test]** Run integration test: main.py with Wider Filters 5x5 active
