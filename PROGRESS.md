@@ -2690,3 +2690,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-23 4:28 PM — Task 14 (Wider Filters 5x5)
 **[docs]** Note texture vs edge detection trade-off in docstring
+
+## 2025-07-23 5:03 PM — Task 14 (Wider Filters 5x5)
+**[Error]** Add try/except around Wider Filters 5x5 critical path with fallback
