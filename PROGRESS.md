@@ -2696,3 +2696,27 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-23 6:37 PM — Task 14 (Wider Filters 5x5)
 **[Debug]** Profile Wider Filters 5x5 for speed/memory regressions
+
+## 2025-07-23 8:44 PM — Task 14 (Wider Filters 5x5)
+**[Test]** Edge-case test: Wider Filters 5x5 with empty/corrupt/extreme inputs
+
+## 2025-07-23 9:11 PM — Task 14 (Wider Filters 5x5)
+**[Test]** Add parametrized pytest case for Wider Filters 5x5 boundary conditions
+
+## 2025-07-23 11:45 PM — Task 14 (Wider Filters 5x5)
+**[Test]** Add parametrized pytest case for Wider Filters 5x5 boundary conditions
+
+## 2025-07-24 10:28 AM — Task 14 (Wider Filters 5x5)
+**[Integrate]** Wire Wider Filters 5x5 into main.py pipeline end-to-end
+
+## 2025-07-24 11:13 AM — Task 14 (Wider Filters 5x5)
+**[Test]** Run integration test: main.py with Wider Filters 5x5 active
+
+## 2025-07-24 1:07 PM — Task 14 (Wider Filters 5x5)
+**[test]** Assert first Conv2D has kernel_size (5,5) in 5x5 model
+
+## 2025-07-24 1:19 PM — Task 14 (Wider Filters 5x5)
+**[debug]** Fix memory overflow if 5x5 kernels on 28x28 images too deep
+
+## 2025-07-24 5:03 PM — Task 14 (Wider Filters 5x5)
+**[evaluate]** Compare 5x5 vs 3x3 val accuracy; check parameter count
