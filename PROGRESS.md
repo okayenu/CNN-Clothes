@@ -2753,3 +2753,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-25 5:38 PM — Task 14 (Wider Filters 5x5)
 **[Review]** Review Task 14 output against ROADMAP acceptance criteria
+
+## 2025-07-25 6:07 PM — Task 14 (Wider Filters 5x5)
+**[Docs]** Add Task 14 entry to CHANGELOG.md
