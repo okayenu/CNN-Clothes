@@ -2759,3 +2759,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-25 6:22 PM — Task 14 (Wider Filters 5x5)
 **[Evaluate]** Log Task 14 final metrics/results to REPORT.md
+
+## 2025-07-25 8:33 PM — Task 14 (Wider Filters 5x5)
+**[Test]** Add parametrized pytest case for Wider Filters 5x5 boundary conditions
+
+## 2025-07-25 10:33 PM — Task 14 (Wider Filters 5x5)
+**[Evaluate]** Re-run evaluation metrics after Wider Filters 5x5 fix
+
+## 2025-07-25 11:03 PM — Task 14 (Wider Filters 5x5)
+**[Evaluate]** Re-run evaluation metrics after Wider Filters 5x5 fix
+
+## 2025-07-25 11:37 PM — Task 14 (Wider Filters 5x5)
+**[Docs]** Update inline comments in modified files for Wider Filters 5x5
+
+## 2025-07-26 9:07 AM — Task 15 (Global Average Pooling)
+**[Plan]** Review Task 15 (Global Average Pooling) requirements and acceptance criteria
+
+## 2025-07-26 9:23 AM — Task 15 (Global Average Pooling)
+**[Setup]** Create/open relevant files for Global Average Pooling implementation
