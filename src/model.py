@@ -327,3 +327,5 @@ import numpy as np  # noqa: E402
 # [2025-07-19 3:22 PM] Task 14: Create build_model_5x5() with kernel_size=(5,5) in first two blocks
 
 # [2025-07-19 4:28 PM] Task 14: Ensure same padding to preserve spatial dimensions
+
+# [2025-07-26 10:44 AM] Task 15: Replace Flatten+Dense with GlobalAveragePooling2D in build_model_gap()
