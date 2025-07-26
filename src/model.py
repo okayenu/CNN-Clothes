@@ -329,3 +329,5 @@ import numpy as np  # noqa: E402
 # [2025-07-19 4:28 PM] Task 14: Ensure same padding to preserve spatial dimensions
 
 # [2025-07-26 10:44 AM] Task 15: Replace Flatten+Dense with GlobalAveragePooling2D in build_model_gap()
+
+# [2025-07-26 11:37 AM] Task 15: Remove Dropout before final Dense (GAP self-regularises)
