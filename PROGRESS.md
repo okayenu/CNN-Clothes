@@ -2807,3 +2807,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-28 5:38 PM — Task 15 (Global Average Pooling)
 **[docs]** Document GAP advantages: fewer params, spatial average
+
+## 2025-07-28 7:19 PM — Task 15 (Global Average Pooling)
+**[Test]** Run unit tests for Global Average Pooling; fix failures
+
+## 2025-07-28 10:47 PM — Task 15 (Global Average Pooling)
+**[Debug]** Inspect shapes/types/values in Global Average Pooling pipeline step
+
+## 2025-07-29 1:44 PM — Task 15 (Global Average Pooling)
+**[test]** Assert model has GlobalAveragePooling2D and no Flatten layer
+
+## 2025-07-29 2:17 PM — Task 15 (Global Average Pooling)
+**[debug]** Fix class activation map mismatch if GAP output too small
+
+## 2025-07-29 2:33 PM — Task 15 (Global Average Pooling)
+**[evaluate]** Compare GAP vs Flatten: accuracy, params, inference latency
