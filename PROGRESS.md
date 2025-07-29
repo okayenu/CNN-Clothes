@@ -2807,3 +2807,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-28 5:38 PM — Task 15 (Global Average Pooling)
 **[docs]** Document GAP advantages: fewer params, spatial average
+
+## 2025-07-28 7:19 PM — Task 15 (Global Average Pooling)
+**[Test]** Run unit tests for Global Average Pooling; fix failures
