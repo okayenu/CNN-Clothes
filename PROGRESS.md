@@ -2846,3 +2846,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-30 9:28 AM — Task 15 (Global Average Pooling)
 **[Test]** Run integration test: main.py with Global Average Pooling active
+
+## 2025-07-30 3:47 PM — Task 15 (Global Average Pooling)
+**[test]** Assert model has GlobalAveragePooling2D and no Flatten layer
