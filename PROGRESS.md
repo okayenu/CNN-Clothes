@@ -2879,3 +2879,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-31 1:07 PM — Task 15 (Global Average Pooling)
 **[debug]** Fix class activation map mismatch if GAP output too small
+
+## 2025-07-31 3:07 PM — Task 15 (Global Average Pooling)
+**[evaluate]** Compare GAP vs Flatten: accuracy, params, inference latency
