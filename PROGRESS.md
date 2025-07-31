@@ -2882,3 +2882,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-31 3:07 PM — Task 15 (Global Average Pooling)
 **[evaluate]** Compare GAP vs Flatten: accuracy, params, inference latency
+
+## 2025-07-31 4:28 PM — Task 15 (Global Average Pooling)
+**[docs]** Document GAP advantages: fewer params, spatial average
