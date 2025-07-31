@@ -2852,3 +2852,24 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-30 5:19 PM — Task 15 (Global Average Pooling)
 **[debug]** Fix class activation map mismatch if GAP output too small
+
+## 2025-07-30 7:53 PM — Task 15 (Global Average Pooling)
+**[evaluate]** Compare GAP vs Flatten: accuracy, params, inference latency
+
+## 2025-07-30 8:07 PM — Task 15 (Global Average Pooling)
+**[docs]** Document GAP advantages: fewer params, spatial average
+
+## 2025-07-30 8:33 PM — Task 15 (Global Average Pooling)
+**[Error]** Add try/except around Global Average Pooling critical path with fallback
+
+## 2025-07-30 9:38 PM — Task 15 (Global Average Pooling)
+**[Debug]** Profile Global Average Pooling for speed/memory regressions
+
+## 2025-07-30 11:19 PM — Task 15 (Global Average Pooling)
+**[Test]** Edge-case test: Global Average Pooling with empty/corrupt/extreme inputs
+
+## 2025-07-31 8:03 AM — Task 15 (Global Average Pooling)
+**[Integrate]** Wire Global Average Pooling into main.py pipeline end-to-end
+
+## 2025-07-31 8:37 AM — Task 15 (Global Average Pooling)
+**[Test]** Run integration test: main.py with Global Average Pooling active
