@@ -2861,3 +2861,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-30 8:33 PM — Task 15 (Global Average Pooling)
 **[Error]** Add try/except around Global Average Pooling critical path with fallback
+
+## 2025-07-30 9:38 PM — Task 15 (Global Average Pooling)
+**[Debug]** Profile Global Average Pooling for speed/memory regressions
