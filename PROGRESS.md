@@ -2912,3 +2912,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-01 4:28 PM — Task 15 (Global Average Pooling)
 **[Review]** Review Task 15 output against ROADMAP acceptance criteria
+
+## 2025-08-01 6:37 PM — Task 15 (Global Average Pooling)
+**[Docs]** Add Task 15 entry to CHANGELOG.md
