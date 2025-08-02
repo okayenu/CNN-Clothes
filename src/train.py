@@ -210,3 +210,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-07-19 4:47 PM] Task 14: Train 5x5 model and log results
 
 # [2025-07-26 11:52 AM] Task 15: Train GAP model and compare parameter count vs Flatten model
+
+# [2025-08-02 3:47 PM] Task 16: Train VGG-style model for 30 epochs
