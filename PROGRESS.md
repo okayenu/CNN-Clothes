@@ -2915,3 +2915,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-01 6:37 PM — Task 15 (Global Average Pooling)
 **[Docs]** Add Task 15 entry to CHANGELOG.md
+
+## 2025-08-01 8:19 PM — Task 15 (Global Average Pooling)
+**[Evaluate]** Log Task 15 final metrics/results to REPORT.md
+
+## 2025-08-01 8:44 PM — Task 15 (Global Average Pooling)
+**[Review]** Cross-check Global Average Pooling behavior against expected spec
+
+## 2025-08-01 11:37 PM — Task 15 (Global Average Pooling)
+**[Debug]** Re-test edge cases after latest changes to Global Average Pooling
+
+## 2025-08-02 11:29 AM — Task 16 (VGG-style Architecture)
+**[Plan]** Review Task 16 (VGG-style Architecture) requirements and acceptance criteria
+
+## 2025-08-02 1:44 PM — Task 16 (VGG-style Architecture)
+**[Setup]** Create/open relevant files for VGG-style Architecture implementation
