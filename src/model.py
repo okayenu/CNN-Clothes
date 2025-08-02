@@ -331,3 +331,5 @@ import numpy as np  # noqa: E402
 # [2025-07-26 10:44 AM] Task 15: Replace Flatten+Dense with GlobalAveragePooling2D in build_model_gap()
 
 # [2025-07-26 11:37 AM] Task 15: Remove Dropout before final Dense (GAP self-regularises)
+
+# [2025-08-02 2:17 PM] Task 16: Write build_model_vgg() with two 3x3 convs before each MaxPool
