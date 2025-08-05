@@ -2966,3 +2966,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-04 7:19 PM — Task 16 (VGG-style Architecture)
 **[docs]** Reference original VGG paper in build_model_vgg() docstring
+
+## 2025-08-04 7:28 PM — Task 16 (VGG-style Architecture)
+**[Test]** Run unit tests for VGG-style Architecture; fix failures
