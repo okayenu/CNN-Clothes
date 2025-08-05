@@ -2963,3 +2963,24 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-04 6:22 PM — Task 16 (VGG-style Architecture)
 **[evaluate]** Compare VGG-style vs deep CNN vs ResNet on val accuracy
+
+## 2025-08-04 7:19 PM — Task 16 (VGG-style Architecture)
+**[docs]** Reference original VGG paper in build_model_vgg() docstring
+
+## 2025-08-04 7:28 PM — Task 16 (VGG-style Architecture)
+**[Test]** Run unit tests for VGG-style Architecture; fix failures
+
+## 2025-08-04 7:44 PM — Task 16 (VGG-style Architecture)
+**[Debug]** Inspect shapes/types/values in VGG-style Architecture pipeline step
+
+## 2025-08-04 10:17 PM — Task 16 (VGG-style Architecture)
+**[Review]** Code-review VGG-style Architecture implementation for edge cases
+
+## 2025-08-04 10:47 PM — Task 16 (VGG-style Architecture)
+**[Review]** Cross-check VGG-style Architecture behavior against expected spec
+
+## 2025-08-05 1:44 PM — Task 16 (VGG-style Architecture)
+**[test]** Assert model has 6 Conv2D layers total
+
+## 2025-08-05 3:22 PM — Task 16 (VGG-style Architecture)
+**[debug]** Fix slow training caused by large Dense(512) layer
