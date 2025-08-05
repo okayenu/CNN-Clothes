@@ -2963,3 +2963,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-04 6:22 PM — Task 16 (VGG-style Architecture)
 **[evaluate]** Compare VGG-style vs deep CNN vs ResNet on val accuracy
+
+## 2025-08-04 7:19 PM — Task 16 (VGG-style Architecture)
+**[docs]** Reference original VGG paper in build_model_vgg() docstring
