@@ -3014,3 +3014,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-06 2:17 PM — Task 16 (VGG-style Architecture)
 **[debug]** Fix slow training caused by large Dense(512) layer
+
+## 2025-08-06 3:38 PM — Task 16 (VGG-style Architecture)
+**[debug]** Handle accuracy plateau by halving LR at epoch 15
