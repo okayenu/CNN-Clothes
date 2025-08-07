@@ -3044,3 +3044,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-07 4:47 PM — Task 16 (VGG-style Architecture)
 **[test]** Assert model has 6 Conv2D layers total
+
+## 2025-08-07 5:19 PM — Task 16 (VGG-style Architecture)
+**[debug]** Fix slow training caused by large Dense(512) layer
