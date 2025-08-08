@@ -3050,3 +3050,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-07 8:19 PM — Task 16 (VGG-style Architecture)
 **[debug]** Handle accuracy plateau by halving LR at epoch 15
+
+## 2025-08-07 8:44 PM — Task 16 (VGG-style Architecture)
+**[evaluate]** Compare VGG-style vs deep CNN vs ResNet on val accuracy
