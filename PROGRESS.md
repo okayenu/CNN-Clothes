@@ -3047,3 +3047,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-07 5:19 PM — Task 16 (VGG-style Architecture)
 **[debug]** Fix slow training caused by large Dense(512) layer
+
+## 2025-08-07 8:19 PM — Task 16 (VGG-style Architecture)
+**[debug]** Handle accuracy plateau by halving LR at epoch 15
+
+## 2025-08-07 8:44 PM — Task 16 (VGG-style Architecture)
+**[evaluate]** Compare VGG-style vs deep CNN vs ResNet on val accuracy
+
+## 2025-08-07 9:23 PM — Task 16 (VGG-style Architecture)
+**[docs]** Reference original VGG paper in build_model_vgg() docstring
+
+## 2025-08-07 11:37 PM — Task 16 (VGG-style Architecture)
+**[Error]** Add try/except around VGG-style Architecture critical path with fallback
+
+## 2025-08-07 11:45 PM — Task 16 (VGG-style Architecture)
+**[Debug]** Profile VGG-style Architecture for speed/memory regressions
+
+## 2025-08-08 8:03 AM — Task 16 (VGG-style Architecture)
+**[Polish]** Refactor VGG-style Architecture code for readability and DRY principles
