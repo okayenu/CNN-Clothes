@@ -212,3 +212,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-07-26 11:52 AM] Task 15: Train GAP model and compare parameter count vs Flatten model
 
 # [2025-08-02 3:47 PM] Task 16: Train VGG-style model for 30 epochs
+
+# [2025-08-09 12:18 PM] Task 25: Add get_optimizer(name, lr) supporting Adam, SGD, RMSprop, AdamW
