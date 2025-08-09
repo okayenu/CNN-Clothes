@@ -3101,3 +3101,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-09 11:52 AM — Task 25 (Optimizer Comparison)
 **[Setup]** Create/open relevant files for Optimizer Comparison implementation
+
+## 2025-08-09 3:38 PM — Task 25 (Optimizer Comparison)
+**[evaluate]** Build comparison table: optimizer vs val_acc vs convergence_epoch
