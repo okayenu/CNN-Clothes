@@ -3080,3 +3080,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-08 7:19 PM — Task 16 (VGG-style Architecture)
 **[Review]** Review Task 16 output against ROADMAP acceptance criteria
+
+## 2025-08-08 7:44 PM — Task 16 (VGG-style Architecture)
+**[Docs]** Add Task 16 entry to CHANGELOG.md
