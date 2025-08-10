@@ -3107,3 +3107,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-09 4:13 PM — Task 25 (Optimizer Comparison)
 **[test]** Assert get_optimizer raises ValueError for unknown name
+
+## 2025-08-10 9:41 AM — Task 25 (Optimizer Comparison)
+**[Plan]** Review Task 25 (Optimizer Comparison) requirements and acceptance criteria
+
+## 2025-08-10 10:28 AM — Task 25 (Optimizer Comparison)
+**[Setup]** Create/open relevant files for Optimizer Comparison implementation
+
+## 2025-08-10 2:44 PM — Task 25 (Optimizer Comparison)
+**[evaluate]** Build comparison table: optimizer vs val_acc vs convergence_epoch
+
+## 2025-08-10 2:53 PM — Task 25 (Optimizer Comparison)
+**[test]** Assert get_optimizer raises ValueError for unknown name
