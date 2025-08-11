@@ -3143,3 +3143,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-11 3:47 PM — Task 25 (Optimizer Comparison)
 **[Test]** Run unit tests for Optimizer Comparison; fix failures
+
+## 2025-08-11 4:47 PM — Task 25 (Optimizer Comparison)
+**[Debug]** Inspect shapes/types/values in Optimizer Comparison pipeline step
