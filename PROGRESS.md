@@ -3128,3 +3128,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-11 9:53 AM — Task 25 (Optimizer Comparison)
 **[evaluate]** Build comparison table: optimizer vs val_acc vs convergence_epoch
+
+## 2025-08-11 11:13 AM — Task 25 (Optimizer Comparison)
+**[test]** Assert get_optimizer raises ValueError for unknown name
