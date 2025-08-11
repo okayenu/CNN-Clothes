@@ -3140,3 +3140,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-11 2:44 PM — Task 25 (Optimizer Comparison)
 **[docs]** Document winner optimizer and reasoning in REPORT.md
+
+## 2025-08-11 3:47 PM — Task 25 (Optimizer Comparison)
+**[Test]** Run unit tests for Optimizer Comparison; fix failures
