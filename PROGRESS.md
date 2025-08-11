@@ -3125,3 +3125,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-10 6:22 PM — Task 25 (Optimizer Comparison)
 **[Debug]** Verify dev environment: imports, paths, configs for Optimizer Comparison
+
+## 2025-08-11 9:53 AM — Task 25 (Optimizer Comparison)
+**[evaluate]** Build comparison table: optimizer vs val_acc vs convergence_epoch
