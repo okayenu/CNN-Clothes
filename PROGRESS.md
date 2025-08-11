@@ -3137,3 +3137,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-11 11:52 AM — Task 25 (Optimizer Comparison)
 **[evaluate]** Plot overlaid training curves for all optimizers
+
+## 2025-08-11 2:44 PM — Task 25 (Optimizer Comparison)
+**[docs]** Document winner optimizer and reasoning in REPORT.md
