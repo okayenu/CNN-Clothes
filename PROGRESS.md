@@ -3158,3 +3158,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-12 10:28 AM — Task 25 (Optimizer Comparison)
 **[Test]** Run integration test: main.py with Optimizer Comparison active
+
+## 2025-08-12 12:18 PM — Task 25 (Optimizer Comparison)
+**[evaluate]** Build comparison table: optimizer vs val_acc vs convergence_epoch
