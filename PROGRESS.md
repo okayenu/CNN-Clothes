@@ -3173,3 +3173,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-12 2:53 PM — Task 25 (Optimizer Comparison)
 **[docs]** Document winner optimizer and reasoning in REPORT.md
+
+## 2025-08-12 4:02 PM — Task 25 (Optimizer Comparison)
+**[Error]** Add try/except around Optimizer Comparison critical path with fallback
