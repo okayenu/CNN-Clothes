@@ -3146,3 +3146,24 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-11 4:47 PM — Task 25 (Optimizer Comparison)
 **[Debug]** Inspect shapes/types/values in Optimizer Comparison pipeline step
+
+## 2025-08-11 9:23 PM — Task 25 (Optimizer Comparison)
+**[Review]** Code-review Optimizer Comparison implementation for edge cases
+
+## 2025-08-11 11:03 PM — Task 25 (Optimizer Comparison)
+**[Docs]** Update inline comments in modified files for Optimizer Comparison
+
+## 2025-08-12 10:19 AM — Task 25 (Optimizer Comparison)
+**[Integrate]** Wire Optimizer Comparison into main.py pipeline end-to-end
+
+## 2025-08-12 10:28 AM — Task 25 (Optimizer Comparison)
+**[Test]** Run integration test: main.py with Optimizer Comparison active
+
+## 2025-08-12 12:18 PM — Task 25 (Optimizer Comparison)
+**[evaluate]** Build comparison table: optimizer vs val_acc vs convergence_epoch
+
+## 2025-08-12 12:33 PM — Task 25 (Optimizer Comparison)
+**[test]** Assert get_optimizer raises ValueError for unknown name
+
+## 2025-08-12 1:07 PM — Task 25 (Optimizer Comparison)
+**[debug]** Fix SGD not converging: enable momentum=0.9
