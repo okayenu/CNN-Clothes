@@ -3167,3 +3167,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-12 1:07 PM — Task 25 (Optimizer Comparison)
 **[debug]** Fix SGD not converging: enable momentum=0.9
+
+## 2025-08-12 1:44 PM — Task 25 (Optimizer Comparison)
+**[evaluate]** Plot overlaid training curves for all optimizers
