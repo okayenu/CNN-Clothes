@@ -3191,3 +3191,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-13 9:14 AM — Task 25 (Optimizer Comparison)
 **[Integrate]** Wire Optimizer Comparison into main.py pipeline end-to-end
+
+## 2025-08-13 11:29 AM — Task 25 (Optimizer Comparison)
+**[Test]** Run integration test: main.py with Optimizer Comparison active
