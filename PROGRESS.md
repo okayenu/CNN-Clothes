@@ -3179,3 +3179,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-12 4:13 PM — Task 25 (Optimizer Comparison)
 **[Debug]** Profile Optimizer Comparison for speed/memory regressions
+
+## 2025-08-12 7:53 PM — Task 25 (Optimizer Comparison)
+**[Test]** Edge-case test: Optimizer Comparison with empty/corrupt/extreme inputs
+
+## 2025-08-12 9:38 PM — Task 25 (Optimizer Comparison)
+**[Debug]** Re-test edge cases after latest changes to Optimizer Comparison
+
+## 2025-08-12 11:45 PM — Task 25 (Optimizer Comparison)
+**[Review]** Cross-check Optimizer Comparison behavior against expected spec
+
+## 2025-08-13 9:14 AM — Task 25 (Optimizer Comparison)
+**[Integrate]** Wire Optimizer Comparison into main.py pipeline end-to-end
+
+## 2025-08-13 11:29 AM — Task 25 (Optimizer Comparison)
+**[Test]** Run integration test: main.py with Optimizer Comparison active
+
+## 2025-08-13 11:52 AM — Task 25 (Optimizer Comparison)
+**[evaluate]** Build comparison table: optimizer vs val_acc vs convergence_epoch
