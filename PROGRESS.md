@@ -3188,3 +3188,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-12 11:45 PM — Task 25 (Optimizer Comparison)
 **[Review]** Cross-check Optimizer Comparison behavior against expected spec
+
+## 2025-08-13 9:14 AM — Task 25 (Optimizer Comparison)
+**[Integrate]** Wire Optimizer Comparison into main.py pipeline end-to-end
