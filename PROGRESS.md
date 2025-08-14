@@ -3206,3 +3206,9 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-13 3:38 PM — Task 25 (Optimizer Comparison)
 **[evaluate]** Plot overlaid training curves for all optimizers
+
+## 2025-08-13 8:19 PM — Task 25 (Optimizer Comparison)
+**[docs]** Document winner optimizer and reasoning in REPORT.md
+
+## 2025-08-13 9:23 PM — Task 25 (Optimizer Comparison)
+**[Error]** Add try/except around Optimizer Comparison critical path with fallback
