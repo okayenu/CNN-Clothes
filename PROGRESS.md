@@ -3218,3 +3218,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-14 9:07 AM — Task 25 (Optimizer Comparison)
 **[Polish]** Refactor Optimizer Comparison code for readability and DRY principles
+
+## 2025-08-14 12:07 PM — Task 25 (Optimizer Comparison)
+**[Docs]** Finalize docstrings and inline comments for Optimizer Comparison
