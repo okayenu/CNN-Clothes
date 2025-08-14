@@ -3212,3 +3212,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-13 9:23 PM — Task 25 (Optimizer Comparison)
 **[Error]** Add try/except around Optimizer Comparison critical path with fallback
+
+## 2025-08-13 9:38 PM — Task 25 (Optimizer Comparison)
+**[Debug]** Profile Optimizer Comparison for speed/memory regressions
