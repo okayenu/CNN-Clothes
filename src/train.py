@@ -216,3 +216,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-08-09 12:18 PM] Task 25: Add get_optimizer(name, lr) supporting Adam, SGD, RMSprop, AdamW
 
 # [2025-08-09 1:07 PM] Task 25: Run baseline model with each optimizer for 20 epochs
+
+# [2025-08-15 11:13 AM] Task 26: Add label_smoothing=0.1 param to CategoricalCrossentropy
