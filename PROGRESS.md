@@ -3245,3 +3245,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-15 10:07 AM — Task 26 (Label Smoothing)
 **[Setup]** Create/open relevant files for Label Smoothing implementation
+
+## 2025-08-15 12:44 PM — Task 26 (Label Smoothing)
+**[test]** Assert smoothed labels are not exactly 0 or 1
