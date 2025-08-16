@@ -3266,3 +3266,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-15 8:33 PM — Task 26 (Label Smoothing)
 **[Test]** Add parametrized pytest case for Label Smoothing boundary conditions
+
+## 2025-08-15 8:44 PM — Task 26 (Label Smoothing)
+**[Review]** Cross-check Label Smoothing behavior against expected spec
