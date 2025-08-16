@@ -3287,3 +3287,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-16 4:02 PM — Task 26 (Label Smoothing)
 **[Test]** Run unit tests for Label Smoothing; fix failures
+
+## 2025-08-16 4:13 PM — Task 26 (Label Smoothing)
+**[Debug]** Inspect shapes/types/values in Label Smoothing pipeline step
