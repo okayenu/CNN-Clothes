@@ -3284,3 +3284,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-16 3:22 PM — Task 26 (Label Smoothing)
 **[docs]** Comment trade-off: smoothing hurts top-1 slightly, helps calibration
+
+## 2025-08-16 4:02 PM — Task 26 (Label Smoothing)
+**[Test]** Run unit tests for Label Smoothing; fix failures
