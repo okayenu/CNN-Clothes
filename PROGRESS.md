@@ -3305,3 +3305,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-17 2:53 PM — Task 26 (Label Smoothing)
 **[evaluate]** Compare calibration: smoothed vs unsmoothed predictions
+
+## 2025-08-17 3:47 PM — Task 26 (Label Smoothing)
+**[docs]** Comment trade-off: smoothing hurts top-1 slightly, helps calibration
