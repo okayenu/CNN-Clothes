@@ -3290,3 +3290,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-16 4:13 PM — Task 26 (Label Smoothing)
 **[Debug]** Inspect shapes/types/values in Label Smoothing pipeline step
+
+## 2025-08-17 9:28 AM — Task 26 (Label Smoothing)
+**[Integrate]** Wire Label Smoothing into main.py pipeline end-to-end
+
+## 2025-08-17 10:07 AM — Task 26 (Label Smoothing)
+**[Test]** Run integration test: main.py with Label Smoothing active
+
+## 2025-08-17 11:13 AM — Task 26 (Label Smoothing)
+**[test]** Assert smoothed labels are not exactly 0 or 1
+
+## 2025-08-17 1:28 PM — Task 26 (Label Smoothing)
+**[debug]** Fix accuracy metric reporting with smoothed labels
+
+## 2025-08-17 2:53 PM — Task 26 (Label Smoothing)
+**[evaluate]** Compare calibration: smoothed vs unsmoothed predictions
