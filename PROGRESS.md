@@ -3302,3 +3302,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-17 1:28 PM — Task 26 (Label Smoothing)
 **[debug]** Fix accuracy metric reporting with smoothed labels
+
+## 2025-08-17 2:53 PM — Task 26 (Label Smoothing)
+**[evaluate]** Compare calibration: smoothed vs unsmoothed predictions
