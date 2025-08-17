@@ -3308,3 +3308,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-17 3:47 PM — Task 26 (Label Smoothing)
 **[docs]** Comment trade-off: smoothing hurts top-1 slightly, helps calibration
+
+## 2025-08-17 4:28 PM — Task 26 (Label Smoothing)
+**[Error]** Add try/except around Label Smoothing critical path with fallback
