@@ -3290,3 +3290,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-16 4:13 PM — Task 26 (Label Smoothing)
 **[Debug]** Inspect shapes/types/values in Label Smoothing pipeline step
+
+## 2025-08-17 9:28 AM — Task 26 (Label Smoothing)
+**[Integrate]** Wire Label Smoothing into main.py pipeline end-to-end
