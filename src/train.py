@@ -222,3 +222,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-08-15 11:52 AM] Task 26: Expose via config.py LABEL_SMOOTHING constant
 
 # [2025-08-19 3:22 PM] Task 27: Parameterize BATCH_SIZE in config.py [32, 64, 128, 256]
+
+# [2025-08-19 5:38 PM] Task 27: Run 4 experiments, log val_acc and training time each
