@@ -3335,3 +3335,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-18 11:45 PM — Task 26 (Label Smoothing)
 **[Evaluate]** Log Task 26 final metrics/results to REPORT.md
+
+## 2025-08-19 12:07 PM — Task 27 (Batch Size Experiments)
+**[Plan]** Review Task 27 (Batch Size Experiments) requirements and acceptance criteria
