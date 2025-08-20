@@ -3362,3 +3362,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-20 3:47 PM — Task 27 (Batch Size Experiments)
 **[test]** Assert model compiles and trains at least 1 epoch for each batch size
+
+## 2025-08-20 4:13 PM — Task 27 (Batch Size Experiments)
+**[debug]** Fix OOM error for batch=256 by reducing model complexity
