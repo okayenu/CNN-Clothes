@@ -3365,3 +3365,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-20 4:13 PM — Task 27 (Batch Size Experiments)
 **[debug]** Fix OOM error for batch=256 by reducing model complexity
+
+## 2025-08-20 4:47 PM — Task 27 (Batch Size Experiments)
+**[evaluate]** Plot training curves overlaid for all batch sizes
