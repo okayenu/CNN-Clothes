@@ -3368,3 +3368,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-20 4:47 PM — Task 27 (Batch Size Experiments)
 **[evaluate]** Plot training curves overlaid for all batch sizes
+
+## 2025-08-20 6:37 PM — Task 27 (Batch Size Experiments)
+**[docs]** Recommend batch size in config.py comment with reasoning
