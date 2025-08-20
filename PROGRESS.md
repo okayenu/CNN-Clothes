@@ -3359,3 +3359,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-20 2:44 PM — Task 27 (Batch Size Experiments)
 **[evaluate]** Build batch_size vs val_acc table
+
+## 2025-08-20 3:47 PM — Task 27 (Batch Size Experiments)
+**[test]** Assert model compiles and trains at least 1 epoch for each batch size
