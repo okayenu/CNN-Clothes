@@ -3371,3 +3371,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-20 6:37 PM — Task 27 (Batch Size Experiments)
 **[docs]** Recommend batch size in config.py comment with reasoning
+
+## 2025-08-20 7:03 PM — Task 27 (Batch Size Experiments)
+**[Test]** Run unit tests for Batch Size Experiments; fix failures
+
+## 2025-08-20 10:47 PM — Task 27 (Batch Size Experiments)
+**[Debug]** Inspect shapes/types/values in Batch Size Experiments pipeline step
+
+## 2025-08-20 11:45 PM — Task 27 (Batch Size Experiments)
+**[Review]** Code-review Batch Size Experiments implementation for edge cases
+
+## 2025-08-21 8:44 AM — Task 27 (Batch Size Experiments)
+**[Integrate]** Wire Batch Size Experiments into main.py pipeline end-to-end
