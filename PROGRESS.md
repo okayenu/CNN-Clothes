@@ -3374,3 +3374,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-20 7:03 PM — Task 27 (Batch Size Experiments)
 **[Test]** Run unit tests for Batch Size Experiments; fix failures
+
+## 2025-08-20 10:47 PM — Task 27 (Batch Size Experiments)
+**[Debug]** Inspect shapes/types/values in Batch Size Experiments pipeline step
