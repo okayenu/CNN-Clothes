@@ -3383,3 +3383,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-21 8:44 AM — Task 27 (Batch Size Experiments)
 **[Integrate]** Wire Batch Size Experiments into main.py pipeline end-to-end
+
+## 2025-08-21 10:28 AM — Task 27 (Batch Size Experiments)
+**[Test]** Run integration test: main.py with Batch Size Experiments active
