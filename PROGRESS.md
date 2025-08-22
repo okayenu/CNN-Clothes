@@ -3398,3 +3398,12 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-21 6:22 PM — Task 27 (Batch Size Experiments)
 **[evaluate]** Plot training curves overlaid for all batch sizes
+
+## 2025-08-21 9:38 PM — Task 27 (Batch Size Experiments)
+**[docs]** Recommend batch size in config.py comment with reasoning
+
+## 2025-08-21 10:47 PM — Task 27 (Batch Size Experiments)
+**[Error]** Add try/except around Batch Size Experiments critical path with fallback
+
+## 2025-08-21 11:03 PM — Task 27 (Batch Size Experiments)
+**[Debug]** Profile Batch Size Experiments for speed/memory regressions
