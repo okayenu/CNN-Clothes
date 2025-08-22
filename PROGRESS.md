@@ -3410,3 +3410,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-22 9:28 AM — Task 27 (Batch Size Experiments)
 **[Polish]** Refactor Batch Size Experiments code for readability and DRY principles
+
+## 2025-08-22 9:41 AM — Task 27 (Batch Size Experiments)
+**[Docs]** Finalize docstrings and inline comments for Batch Size Experiments
