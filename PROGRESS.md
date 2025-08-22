@@ -3407,3 +3407,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-21 11:03 PM — Task 27 (Batch Size Experiments)
 **[Debug]** Profile Batch Size Experiments for speed/memory regressions
+
+## 2025-08-22 9:28 AM — Task 27 (Batch Size Experiments)
+**[Polish]** Refactor Batch Size Experiments code for readability and DRY principles
