@@ -3425,3 +3425,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-22 4:47 PM — Task 27 (Batch Size Experiments)
 **[Review]** Review Task 27 output against ROADMAP acceptance criteria
+
+## 2025-08-22 8:19 PM — Task 27 (Batch Size Experiments)
+**[Docs]** Add Task 27 entry to CHANGELOG.md
