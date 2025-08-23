@@ -335,3 +335,7 @@ import numpy as np  # noqa: E402
 # [2025-08-02 2:17 PM] Task 16: Write build_model_vgg() with two 3x3 convs before each MaxPool
 
 # [2025-08-02 3:38 PM] Task 16: Add Dense(512)+ReLU+Dropout(0.5) classifier head
+
+# [2025-08-23 2:17 PM] Task 28: Add kernel_regularizer=tf.keras.regularizers.l2(1e-4) to Conv2D layers
+
+# [2025-08-23 2:44 PM] Task 28: Add same L2 regularizer to Dense layers

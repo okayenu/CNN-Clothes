@@ -3425,3 +3425,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-22 4:47 PM — Task 27 (Batch Size Experiments)
 **[Review]** Review Task 27 output against ROADMAP acceptance criteria
+
+## 2025-08-22 8:19 PM — Task 27 (Batch Size Experiments)
+**[Docs]** Add Task 27 entry to CHANGELOG.md
+
+## 2025-08-22 9:38 PM — Task 27 (Batch Size Experiments)
+**[Evaluate]** Log Task 27 final metrics/results to REPORT.md
+
+## 2025-08-22 11:45 PM — Task 27 (Batch Size Experiments)
+**[Debug]** Re-test edge cases after latest changes to Batch Size Experiments
+
+## 2025-08-23 8:52 AM — Task 28 (L2 Regularization)
+**[Plan]** Review Task 28 (L2 Regularization) requirements and acceptance criteria
+
+## 2025-08-23 10:44 AM — Task 28 (L2 Regularization)
+**[Setup]** Create/open relevant files for L2 Regularization implementation
