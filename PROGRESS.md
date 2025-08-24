@@ -3455,3 +3455,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-24 2:03 PM — Task 28 (L2 Regularization)
 **[debug]** Tune L2 weight if validation loss increases instead of smoothing
+
+## 2025-08-24 2:44 PM — Task 28 (L2 Regularization)
+**[evaluate]** Compare val curves with L2 vs without to confirm regularization effect
