@@ -3461,3 +3461,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-24 6:37 PM — Task 28 (L2 Regularization)
 **[docs]** Document L2 rate selection rationale
+
+## 2025-08-25 11:52 AM — Task 28 (L2 Regularization)
+**[test]** Assert regularizer appears in model.get_config()
