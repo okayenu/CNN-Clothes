@@ -3476,3 +3476,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-25 5:19 PM — Task 28 (L2 Regularization)
 **[Test]** Run unit tests for L2 Regularization; fix failures
+
+## 2025-08-25 8:33 PM — Task 28 (L2 Regularization)
+**[Debug]** Inspect shapes/types/values in L2 Regularization pipeline step
