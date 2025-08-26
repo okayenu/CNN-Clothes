@@ -3494,3 +3494,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-26 12:33 PM — Task 28 (L2 Regularization)
 **[test]** Assert regularizer appears in model.get_config()
+
+## 2025-08-26 4:02 PM — Task 28 (L2 Regularization)
+**[debug]** Tune L2 weight if validation loss increases instead of smoothing
