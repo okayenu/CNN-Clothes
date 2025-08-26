@@ -3482,3 +3482,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-25 9:23 PM — Task 28 (L2 Regularization)
 **[Review]** Code-review L2 Regularization implementation for edge cases
+
+## 2025-08-25 10:33 PM — Task 28 (L2 Regularization)
+**[Test]** Add parametrized pytest case for L2 Regularization boundary conditions
