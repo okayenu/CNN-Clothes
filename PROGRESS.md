@@ -3491,3 +3491,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-26 9:07 AM — Task 28 (L2 Regularization)
 **[Test]** Run integration test: main.py with L2 Regularization active
+
+## 2025-08-26 12:33 PM — Task 28 (L2 Regularization)
+**[test]** Assert regularizer appears in model.get_config()
