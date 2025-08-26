@@ -3476,3 +3476,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-25 5:19 PM — Task 28 (L2 Regularization)
 **[Test]** Run unit tests for L2 Regularization; fix failures
+
+## 2025-08-25 8:33 PM — Task 28 (L2 Regularization)
+**[Debug]** Inspect shapes/types/values in L2 Regularization pipeline step
+
+## 2025-08-25 9:23 PM — Task 28 (L2 Regularization)
+**[Review]** Code-review L2 Regularization implementation for edge cases
+
+## 2025-08-25 10:33 PM — Task 28 (L2 Regularization)
+**[Test]** Add parametrized pytest case for L2 Regularization boundary conditions
+
+## 2025-08-26 8:03 AM — Task 28 (L2 Regularization)
+**[Integrate]** Wire L2 Regularization into main.py pipeline end-to-end
+
+## 2025-08-26 9:07 AM — Task 28 (L2 Regularization)
+**[Test]** Run integration test: main.py with L2 Regularization active
+
+## 2025-08-26 12:33 PM — Task 28 (L2 Regularization)
+**[test]** Assert regularizer appears in model.get_config()
