@@ -3506,3 +3506,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-26 8:07 PM — Task 28 (L2 Regularization)
 **[Error]** Add try/except around L2 Regularization critical path with fallback
+
+## 2025-08-26 8:44 PM — Task 28 (L2 Regularization)
+**[Debug]** Profile L2 Regularization for speed/memory regressions
