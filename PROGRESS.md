@@ -3551,3 +3551,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-28 11:13 AM — Task 33 (ROC-AUC Analysis)
 **[Setup]** Create/open relevant files for ROC-AUC Analysis implementation
+
+## 2025-08-28 2:53 PM — Task 33 (ROC-AUC Analysis)
+**[evaluate.py]** Write plot_roc_curves(y_true_oh, y_pred_prob, class_names, save_path)
