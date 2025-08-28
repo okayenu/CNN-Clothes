@@ -3557,3 +3557,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-28 3:38 PM — Task 33 (ROC-AUC Analysis)
 **[evaluate.py]** Compute macro-average AUC with sklearn.metrics.roc_auc_score
+
+## 2025-08-28 4:47 PM — Task 33 (ROC-AUC Analysis)
+**[notebook]** Plot ROC curves for all 10 classes on one figure
