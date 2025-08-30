@@ -3587,3 +3587,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-29 5:38 PM — Task 33 (ROC-AUC Analysis)
 **[evaluate]** Flag any class with AUC < 0.85 for additional investigation
+
+## 2025-08-29 8:07 PM — Task 33 (ROC-AUC Analysis)
+**[docs]** Save to results/roc_curves_{model_name}.png
