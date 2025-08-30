@@ -3587,3 +3587,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-29 5:38 PM — Task 33 (ROC-AUC Analysis)
 **[evaluate]** Flag any class with AUC < 0.85 for additional investigation
+
+## 2025-08-29 8:07 PM — Task 33 (ROC-AUC Analysis)
+**[docs]** Save to results/roc_curves_{model_name}.png
+
+## 2025-08-29 10:47 PM — Task 33 (ROC-AUC Analysis)
+**[Test]** Run unit tests for ROC-AUC Analysis; fix failures
+
+## 2025-08-29 11:45 PM — Task 33 (ROC-AUC Analysis)
+**[Debug]** Inspect shapes/types/values in ROC-AUC Analysis pipeline step
+
+## 2025-08-30 11:13 AM — Task 33 (ROC-AUC Analysis)
+**[evaluate.py]** Write plot_roc_curves(y_true_oh, y_pred_prob, class_names, save_path)
+
+## 2025-08-30 11:29 AM — Task 33 (ROC-AUC Analysis)
+**[evaluate.py]** Compute macro-average AUC with sklearn.metrics.roc_auc_score
+
+## 2025-08-30 11:37 AM — Task 33 (ROC-AUC Analysis)
+**[notebook]** Plot ROC curves for all 10 classes on one figure
