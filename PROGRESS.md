@@ -3617,3 +3617,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-30 6:22 PM — Task 33 (ROC-AUC Analysis)
 **[docs]** Save to results/roc_curves_{model_name}.png
+
+## 2025-08-31 9:41 AM — Task 33 (ROC-AUC Analysis)
+**[Integrate]** Wire ROC-AUC Analysis into main.py pipeline end-to-end
