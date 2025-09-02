@@ -3671,3 +3671,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-02 9:07 AM — Task 34 (Calibration Analysis)
 **[evaluate.py]** Write plot_calibration(y_true, y_prob, class_names, save_path)
+
+## 2025-09-02 9:23 AM — Task 34 (Calibration Analysis)
+**[evaluate.py]** Use sklearn.calibration.calibration_curve per class
