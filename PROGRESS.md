@@ -3695,3 +3695,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-02 11:03 PM — Task 34 (Calibration Analysis)
 **[Docs]** Update inline comments in modified files for Calibration Analysis
+
+## 2025-09-03 9:53 AM — Task 34 (Calibration Analysis)
+**[evaluate.py]** Write plot_calibration(y_true, y_prob, class_names, save_path)
