@@ -3707,3 +3707,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-03 12:44 PM — Task 34 (Calibration Analysis)
 **[test]** Assert calibration_curve returns n_bins data points
+
+## 2025-09-03 1:07 PM — Task 34 (Calibration Analysis)
+**[debug]** Fix nan bins if no predictions fall in a confidence interval
