@@ -3710,3 +3710,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-03 1:07 PM — Task 34 (Calibration Analysis)
 **[debug]** Fix nan bins if no predictions fall in a confidence interval
+
+## 2025-09-03 1:19 PM — Task 34 (Calibration Analysis)
+**[evaluate]** Compare calibration: baseline vs label-smoothed model
