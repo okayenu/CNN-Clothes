@@ -3737,3 +3737,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-04 9:07 AM — Task 34 (Calibration Analysis)
 **[evaluate.py]** Use sklearn.calibration.calibration_curve per class
+
+## 2025-09-04 9:53 AM — Task 34 (Calibration Analysis)
+**[notebook]** Plot reliability diagrams for each class
