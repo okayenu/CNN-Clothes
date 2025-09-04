@@ -3740,3 +3740,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-04 9:53 AM — Task 34 (Calibration Analysis)
 **[notebook]** Plot reliability diagrams for each class
+
+## 2025-09-04 10:28 AM — Task 34 (Calibration Analysis)
+**[test]** Assert calibration_curve returns n_bins data points
