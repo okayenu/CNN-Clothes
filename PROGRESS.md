@@ -3755,3 +3755,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-04 7:03 PM — Task 34 (Calibration Analysis)
 **[Test]** Run unit tests for Calibration Analysis; fix failures
+
+## 2025-09-04 7:53 PM — Task 34 (Calibration Analysis)
+**[Debug]** Inspect shapes/types/values in Calibration Analysis pipeline step
