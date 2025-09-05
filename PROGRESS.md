@@ -3794,3 +3794,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-05 5:19 PM — Task 34 (Calibration Analysis)
 **[Error]** Add try/except around Calibration Analysis critical path with fallback
+
+## 2025-09-05 6:37 PM — Task 34 (Calibration Analysis)
+**[Debug]** Profile Calibration Analysis for speed/memory regressions
