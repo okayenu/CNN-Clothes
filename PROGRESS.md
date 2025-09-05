@@ -3791,3 +3791,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-05 4:02 PM — Task 34 (Calibration Analysis)
 **[docs]** Save reliability diagram to results/calibration_{model_name}.png
+
+## 2025-09-05 5:19 PM — Task 34 (Calibration Analysis)
+**[Error]** Add try/except around Calibration Analysis critical path with fallback
