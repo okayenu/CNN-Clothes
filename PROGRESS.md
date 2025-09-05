@@ -3752,3 +3752,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-04 5:38 PM — Task 34 (Calibration Analysis)
 **[docs]** Save reliability diagram to results/calibration_{model_name}.png
+
+## 2025-09-04 7:03 PM — Task 34 (Calibration Analysis)
+**[Test]** Run unit tests for Calibration Analysis; fix failures
