@@ -3752,3 +3752,42 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-04 5:38 PM — Task 34 (Calibration Analysis)
 **[docs]** Save reliability diagram to results/calibration_{model_name}.png
+
+## 2025-09-04 7:03 PM — Task 34 (Calibration Analysis)
+**[Test]** Run unit tests for Calibration Analysis; fix failures
+
+## 2025-09-04 7:53 PM — Task 34 (Calibration Analysis)
+**[Debug]** Inspect shapes/types/values in Calibration Analysis pipeline step
+
+## 2025-09-04 10:17 PM — Task 34 (Calibration Analysis)
+**[Review]** Code-review Calibration Analysis implementation for edge cases
+
+## 2025-09-04 10:33 PM — Task 34 (Calibration Analysis)
+**[Debug]** Re-test edge cases after latest changes to Calibration Analysis
+
+## 2025-09-04 11:03 PM — Task 34 (Calibration Analysis)
+**[Evaluate]** Re-run evaluation metrics after Calibration Analysis fix
+
+## 2025-09-04 11:45 PM — Task 34 (Calibration Analysis)
+**[Evaluate]** Re-run evaluation metrics after Calibration Analysis fix
+
+## 2025-09-05 8:37 AM — Task 34 (Calibration Analysis)
+**[Integrate]** Wire Calibration Analysis into main.py pipeline end-to-end
+
+## 2025-09-05 9:07 AM — Task 34 (Calibration Analysis)
+**[Test]** Run integration test: main.py with Calibration Analysis active
+
+## 2025-09-05 10:44 AM — Task 34 (Calibration Analysis)
+**[notebook]** Plot reliability diagrams for each class
+
+## 2025-09-05 11:13 AM — Task 34 (Calibration Analysis)
+**[test]** Assert calibration_curve returns n_bins data points
+
+## 2025-09-05 1:19 PM — Task 34 (Calibration Analysis)
+**[debug]** Fix nan bins if no predictions fall in a confidence interval
+
+## 2025-09-05 2:44 PM — Task 34 (Calibration Analysis)
+**[evaluate]** Compare calibration: baseline vs label-smoothed model
+
+## 2025-09-05 4:02 PM — Task 34 (Calibration Analysis)
+**[docs]** Save reliability diagram to results/calibration_{model_name}.png
