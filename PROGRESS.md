@@ -3818,3 +3818,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-06 1:44 PM — Task 34 (Calibration Analysis)
 **[Review]** Review Task 34 output against ROADMAP acceptance criteria
+
+## 2025-09-06 2:53 PM — Task 34 (Calibration Analysis)
+**[Docs]** Add Task 34 entry to CHANGELOG.md
