@@ -230,3 +230,5 @@ def get_datasets(
 # [2025-06-12 10:07 AM] Task 38: Move all data loading/preprocessing to data.py
 
 # [2025-06-26 9:53 AM] Task 42: Add Google-style docstrings to all public functions in data.py
+
+# [2025-09-07 11:52 AM] Task 9: Add resize_to(images, target=(32,32)) using tf.image.resize
