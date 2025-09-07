@@ -234,3 +234,5 @@ def get_datasets(
 # [2025-09-07 11:52 AM] Task 9: Add resize_to(images, target=(32,32)) using tf.image.resize
 
 # [2025-09-07 1:07 PM] Task 9: Replicate grayscale channel: tf.repeat(x, 3, axis=-1)
+
+# [2025-09-07 2:03 PM] Task 9: Apply MobileNetV2 preprocess_input after resize
