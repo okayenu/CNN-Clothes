@@ -3869,3 +3869,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-09 2:44 PM — Task 9 (Resize Images to 32x32 for Transfer Learning)
 **[evaluate]** Verify transfer-learning model accepts resized input
+
+## 2025-09-09 3:07 PM — Task 9 (Resize Images to 32x32 for Transfer Learning)
+**[docs]** Document why 32x32 chosen vs 96x96 and trade-offs
