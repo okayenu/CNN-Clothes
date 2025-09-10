@@ -3899,3 +3899,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-10 11:37 AM — Task 9 (Resize Images to 32x32 for Transfer Learning)
 **[test]** Assert output shape (None, 32, 32, 3)
+
+## 2025-09-10 2:53 PM — Task 9 (Resize Images to 32x32 for Transfer Learning)
+**[debug]** Fix aliasing artifacts if bilinear resize distorts fashion textures
