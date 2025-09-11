@@ -3920,3 +3920,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-10 11:45 PM — Task 9 (Resize Images to 32x32 for Transfer Learning)
 **[Test]** Add parametrized pytest case for Resize Images to 32x32 for Transfer Learning boundary conditions
+
+## 2025-09-11 10:28 AM — Task 9 (Resize Images to 32x32 for Transfer Learning)
+**[Integrate]** Wire Resize Images to 32x32 for Transfer Learning into main.py pipeline end-to-end
