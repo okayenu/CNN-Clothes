@@ -303,3 +303,5 @@ def get_optimizer(name: str, lr: float = LEARNING_RATE):
 
 # numpy needed for ensemble_predict — imported lazily to avoid circular import
 import numpy as np  # noqa: E402
+
+# [2025-09-13 9:07 AM] Task 12: Write residual_block(x, filters) with tf.keras.layers.Add
