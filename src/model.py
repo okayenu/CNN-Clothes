@@ -305,3 +305,5 @@ def get_optimizer(name: str, lr: float = LEARNING_RATE):
 import numpy as np  # noqa: E402
 
 # [2025-09-13 9:07 AM] Task 12: Write residual_block(x, filters) with tf.keras.layers.Add
+
+# [2025-09-13 9:53 AM] Task 12: Add 1x1 projection conv in shortcut when channels change
