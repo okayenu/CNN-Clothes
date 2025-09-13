@@ -309,3 +309,5 @@ import numpy as np  # noqa: E402
 # [2025-09-13 9:53 AM] Task 12: Add 1x1 projection conv in shortcut when channels change
 
 # [2025-09-13 1:19 PM] Task 12: Stack 3 residual blocks in build_resnet()
+
+# [2025-09-13 4:02 PM] Task 12: Add GlobalAveragePooling2D after last residual block
