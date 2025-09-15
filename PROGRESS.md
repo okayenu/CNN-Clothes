@@ -17,3 +17,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-14 9:07 AM — Task 12 (ResNet-style Skip Connections)
 **[Setup]** Create/open relevant files for ResNet-style Skip Connections implementation
+
+## 2025-09-15 9:14 AM — Task 12 (ResNet-style Skip Connections)
+**[Plan]** Review Task 12 (ResNet-style Skip Connections) requirements and acceptance criteria
