@@ -23,3 +23,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-15 11:02 AM — Task 12 (ResNet-style Skip Connections)
 **[Setup]** Create/open relevant files for ResNet-style Skip Connections implementation
+
+## 2025-09-15 6:37 PM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Write stub test for ResNet-style Skip Connections to define expected behavior
