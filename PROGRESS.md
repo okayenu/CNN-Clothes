@@ -26,3 +26,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-15 6:37 PM — Task 12 (ResNet-style Skip Connections)
 **[Test]** Write stub test for ResNet-style Skip Connections to define expected behavior
+
+## 2025-09-15 9:38 PM — Task 12 (ResNet-style Skip Connections)
+**[Debug]** Verify dev environment: imports, paths, configs for ResNet-style Skip Connections
+
+## 2025-09-16 11:37 AM — Task 12 (ResNet-style Skip Connections)
+**[test]** Assert output shape matches expected (None, NUM_CLASSES)
+
+## 2025-09-16 1:44 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Fix shape mismatch in Add() layer when strides differ
+
+## 2025-09-16 2:44 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Resolve vanishing gradient if too many residual blocks stacked
