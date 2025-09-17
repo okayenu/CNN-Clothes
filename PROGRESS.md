@@ -71,3 +71,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-17 4:28 PM — Task 12 (ResNet-style Skip Connections)
 **[evaluate]** Compare ResNet val accuracy vs standard deep CNN
+
+## 2025-09-17 5:38 PM — Task 12 (ResNet-style Skip Connections)
+**[notebook]** Plot residual block gradient norms to verify skip benefit
