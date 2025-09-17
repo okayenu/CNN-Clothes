@@ -47,3 +47,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-16 6:22 PM — Task 12 (ResNet-style Skip Connections)
 **[notebook]** Plot residual block gradient norms to verify skip benefit
+
+## 2025-09-16 7:28 PM — Task 12 (ResNet-style Skip Connections)
+**[docs]** Annotate residual_block() with paper reference
+
+## 2025-09-16 7:53 PM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Run unit tests for ResNet-style Skip Connections; fix failures
+
+## 2025-09-16 11:37 PM — Task 12 (ResNet-style Skip Connections)
+**[Debug]** Inspect shapes/types/values in ResNet-style Skip Connections pipeline step
+
+## 2025-09-17 10:28 AM — Task 12 (ResNet-style Skip Connections)
+**[test]** Assert output shape matches expected (None, NUM_CLASSES)
+
+## 2025-09-17 1:28 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Fix shape mismatch in Add() layer when strides differ
+
+## 2025-09-17 2:17 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Resolve vanishing gradient if too many residual blocks stacked
