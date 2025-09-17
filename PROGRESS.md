@@ -68,3 +68,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-17 2:33 PM — Task 12 (ResNet-style Skip Connections)
 **[debug]** Fix identity shortcut not matching filter dim at block boundary
+
+## 2025-09-17 4:28 PM — Task 12 (ResNet-style Skip Connections)
+**[evaluate]** Compare ResNet val accuracy vs standard deep CNN
