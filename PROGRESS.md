@@ -98,3 +98,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-18 8:44 PM — Task 12 (ResNet-style Skip Connections)
 **[notebook]** Plot residual block gradient norms to verify skip benefit
+
+## 2025-09-18 11:37 PM — Task 12 (ResNet-style Skip Connections)
+**[docs]** Annotate residual_block() with paper reference
