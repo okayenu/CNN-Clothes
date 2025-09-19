@@ -101,3 +101,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-18 11:37 PM — Task 12 (ResNet-style Skip Connections)
 **[docs]** Annotate residual_block() with paper reference
+
+## 2025-09-18 11:45 PM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Run unit tests for ResNet-style Skip Connections; fix failures
