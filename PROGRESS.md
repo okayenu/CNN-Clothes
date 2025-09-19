@@ -86,3 +86,39 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-18 5:19 PM — Task 12 (ResNet-style Skip Connections)
 **[debug]** Fix shape mismatch in Add() layer when strides differ
+
+## 2025-09-18 7:03 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Resolve vanishing gradient if too many residual blocks stacked
+
+## 2025-09-18 7:19 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Fix identity shortcut not matching filter dim at block boundary
+
+## 2025-09-18 7:53 PM — Task 12 (ResNet-style Skip Connections)
+**[evaluate]** Compare ResNet val accuracy vs standard deep CNN
+
+## 2025-09-18 8:44 PM — Task 12 (ResNet-style Skip Connections)
+**[notebook]** Plot residual block gradient norms to verify skip benefit
+
+## 2025-09-18 11:37 PM — Task 12 (ResNet-style Skip Connections)
+**[docs]** Annotate residual_block() with paper reference
+
+## 2025-09-18 11:45 PM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Run unit tests for ResNet-style Skip Connections; fix failures
+
+## 2025-09-19 10:44 AM — Task 12 (ResNet-style Skip Connections)
+**[Integrate]** Wire ResNet-style Skip Connections into main.py pipeline end-to-end
+
+## 2025-09-19 1:28 PM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Run integration test: main.py with ResNet-style Skip Connections active
+
+## 2025-09-19 1:44 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Resolve vanishing gradient if too many residual blocks stacked
+
+## 2025-09-19 2:03 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Fix identity shortcut not matching filter dim at block boundary
+
+## 2025-09-19 3:38 PM — Task 12 (ResNet-style Skip Connections)
+**[evaluate]** Compare ResNet val accuracy vs standard deep CNN
+
+## 2025-09-19 4:02 PM — Task 12 (ResNet-style Skip Connections)
+**[notebook]** Plot residual block gradient norms to verify skip benefit
