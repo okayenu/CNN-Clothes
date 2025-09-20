@@ -128,3 +128,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-19 6:22 PM — Task 12 (ResNet-style Skip Connections)
 **[Error]** Add try/except around ResNet-style Skip Connections critical path with fallback
+
+## 2025-09-19 8:19 PM — Task 12 (ResNet-style Skip Connections)
+**[Debug]** Profile ResNet-style Skip Connections for speed/memory regressions
