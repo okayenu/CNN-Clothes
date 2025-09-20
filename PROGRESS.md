@@ -131,3 +131,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-19 8:19 PM — Task 12 (ResNet-style Skip Connections)
 **[Debug]** Profile ResNet-style Skip Connections for speed/memory regressions
+
+## 2025-09-19 9:38 PM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Edge-case test: ResNet-style Skip Connections with empty/corrupt/extreme inputs
