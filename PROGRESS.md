@@ -128,3 +128,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-19 6:22 PM — Task 12 (ResNet-style Skip Connections)
 **[Error]** Add try/except around ResNet-style Skip Connections critical path with fallback
+
+## 2025-09-19 8:19 PM — Task 12 (ResNet-style Skip Connections)
+**[Debug]** Profile ResNet-style Skip Connections for speed/memory regressions
+
+## 2025-09-19 9:38 PM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Edge-case test: ResNet-style Skip Connections with empty/corrupt/extreme inputs
+
+## 2025-09-20 9:28 AM — Task 12 (ResNet-style Skip Connections)
+**[Integrate]** Wire ResNet-style Skip Connections into main.py pipeline end-to-end
+
+## 2025-09-20 9:41 AM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Run integration test: main.py with ResNet-style Skip Connections active
