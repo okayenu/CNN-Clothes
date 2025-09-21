@@ -158,3 +158,12 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-20 3:07 PM — Task 12 (ResNet-style Skip Connections)
 **[Error]** Add try/except around ResNet-style Skip Connections critical path with fallback
+
+## 2025-09-21 8:52 AM — Task 12 (ResNet-style Skip Connections)
+**[Polish]** Refactor ResNet-style Skip Connections code for readability and DRY principles
+
+## 2025-09-21 10:28 AM — Task 12 (ResNet-style Skip Connections)
+**[Docs]** Finalize docstrings and inline comments for ResNet-style Skip Connections
+
+## 2025-09-21 10:44 AM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Final test run: assert no regressions from Task 12
