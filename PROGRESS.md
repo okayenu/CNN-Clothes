@@ -167,3 +167,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-21 10:44 AM — Task 12 (ResNet-style Skip Connections)
 **[Test]** Final test run: assert no regressions from Task 12
+
+## 2025-09-21 1:19 PM — Task 12 (ResNet-style Skip Connections)
+**[Debug]** Resolve any final issues flagged in Task 12 test run
