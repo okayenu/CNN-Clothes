@@ -185,3 +185,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-22 8:44 AM — Task 12 (ResNet-style Skip Connections)
 **[Polish]** Refactor ResNet-style Skip Connections code for readability and DRY principles
+
+## 2025-09-22 9:41 AM — Task 12 (ResNet-style Skip Connections)
+**[Docs]** Finalize docstrings and inline comments for ResNet-style Skip Connections
