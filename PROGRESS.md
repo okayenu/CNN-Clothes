@@ -203,3 +203,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-22 10:02 PM — Task 12 (ResNet-style Skip Connections)
 **[Docs]** Add Task 12 entry to CHANGELOG.md
+
+## 2025-09-22 10:17 PM — Task 12 (ResNet-style Skip Connections)
+**[Evaluate]** Log Task 12 final metrics/results to REPORT.md
