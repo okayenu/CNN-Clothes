@@ -33,6 +33,12 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 
+# Force UTF-8 output on Windows to handle unicode characters in task text
+if sys.platform == "win32":
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+
 # ── Repo root ─────────────────────────────────────────────────────────────────
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEDULE_PATH = REPO_ROOT / "SCHEDULE.md"
