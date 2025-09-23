@@ -226,3 +226,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-08-19 5:38 PM] Task 27: Run 4 experiments, log val_acc and training time each
 
 # [2025-09-23 1:07 PM] Task 21: Implement WarmupCosineDecay LR schedule as tf.keras.optimizers.schedules
+
+# [2025-09-23 1:44 PM] Task 21: Add linear warmup for first 5% of total steps
