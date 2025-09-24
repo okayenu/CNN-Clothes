@@ -4004,3 +4004,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-24 12:18 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[Setup]** Create/open relevant files for LR Scheduler: Cosine Annealing & Warmup implementation
+
+## 2025-09-24 4:47 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[notebook]** Plot LR vs epoch curve to visually verify schedule
