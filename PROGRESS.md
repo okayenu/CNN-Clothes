@@ -4016,3 +4016,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-24 10:47 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[Review]** Cross-check LR Scheduler: Cosine Annealing & Warmup behavior against expected spec
+
+## 2025-09-24 11:37 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[Test]** Add parametrized pytest case for LR Scheduler: Cosine Annealing & Warmup boundary conditions
