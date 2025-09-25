@@ -4010,3 +4010,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-24 5:19 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[Test]** Write stub test for LR Scheduler: Cosine Annealing & Warmup to define expected behavior
+
+## 2025-09-24 10:17 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[Debug]** Verify dev environment: imports, paths, configs for LR Scheduler: Cosine Annealing & Warmup
+
+## 2025-09-24 10:47 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[Review]** Cross-check LR Scheduler: Cosine Annealing & Warmup behavior against expected spec
+
+## 2025-09-24 11:37 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[Test]** Add parametrized pytest case for LR Scheduler: Cosine Annealing & Warmup boundary conditions
+
+## 2025-09-25 11:02 AM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[notebook]** Plot LR vs epoch curve to visually verify schedule
+
+## 2025-09-25 11:13 AM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[test]** Assert LR at step 0 is warmup_start_lr and step N is min_lr
+
+## 2025-09-25 11:29 AM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[debug]** Fix divide-by-zero if total_steps calculated before fit()
