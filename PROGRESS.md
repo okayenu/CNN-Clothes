@@ -4037,3 +4037,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-25 1:07 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[Test]** Run unit tests for LR Scheduler: Cosine Annealing & Warmup; fix failures
+
+## 2025-09-25 6:37 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[Debug]** Inspect shapes/types/values in LR Scheduler: Cosine Annealing & Warmup pipeline step
