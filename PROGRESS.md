@@ -4019,3 +4019,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-24 11:37 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[Test]** Add parametrized pytest case for LR Scheduler: Cosine Annealing & Warmup boundary conditions
+
+## 2025-09-25 11:02 AM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[notebook]** Plot LR vs epoch curve to visually verify schedule
