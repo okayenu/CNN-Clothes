@@ -4055,3 +4055,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-26 5:38 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[test]** Assert LR at step 0 is warmup_start_lr and step N is min_lr
+
+## 2025-09-26 6:22 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[debug]** Fix divide-by-zero if total_steps calculated before fit()
