@@ -4052,3 +4052,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-26 5:03 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[notebook]** Plot LR vs epoch curve to visually verify schedule
+
+## 2025-09-26 5:38 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[test]** Assert LR at step 0 is warmup_start_lr and step N is min_lr
