@@ -4064,3 +4064,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-26 9:38 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[docs]** Add warmup/decay parameters to config.py with comments
+
+## 2025-09-26 10:47 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[Error]** Add try/except around LR Scheduler: Cosine Annealing & Warmup critical path with fallback
