@@ -4067,3 +4067,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-26 10:47 PM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
 **[Error]** Add try/except around LR Scheduler: Cosine Annealing & Warmup critical path with fallback
+
+## 2025-09-27 8:44 AM — Task 21 (LR Scheduler: Cosine Annealing & Warmup)
+**[Integrate]** Wire LR Scheduler: Cosine Annealing & Warmup into main.py pipeline end-to-end
