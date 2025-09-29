@@ -232,3 +232,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-09-23 3:22 PM] Task 21: Integrate LearningRateScheduler callback in get_callbacks()
 
 # [2025-09-29 9:14 AM] Task 29: Call tf.keras.mixed_precision.set_global_policy('mixed_float16')
+
+# [2025-09-29 9:53 AM] Task 29: Ensure final Dense uses dtype=float32 for numeric stability
