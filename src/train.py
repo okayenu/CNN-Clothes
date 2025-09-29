@@ -234,3 +234,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-09-29 9:14 AM] Task 29: Call tf.keras.mixed_precision.set_global_policy('mixed_float16')
 
 # [2025-09-29 9:53 AM] Task 29: Ensure final Dense uses dtype=float32 for numeric stability
+
+# [2025-09-29 10:07 AM] Task 29: Scale loss with LossScaleOptimizer if using custom training loop
