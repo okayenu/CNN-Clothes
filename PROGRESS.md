@@ -4154,3 +4154,9 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-01 4:28 PM — Task 29 (Mixed-Precision Training (float16))
 **[docs]** Add compatibility note for CPU-only environments in train.py
+
+## 2025-10-01 7:19 PM — Task 29 (Mixed-Precision Training (float16))
+**[Test]** Run unit tests for Mixed-Precision Training (float16); fix failures
+
+## 2025-10-01 7:28 PM — Task 29 (Mixed-Precision Training (float16))
+**[Debug]** Inspect shapes/types/values in Mixed-Precision Training (float16) pipeline step
