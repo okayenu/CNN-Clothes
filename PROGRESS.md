@@ -4166,3 +4166,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-02 2:53 PM — Task 29 (Mixed-Precision Training (float16))
 **[test]** Assert policy name is 'mixed_float16' after setting
+
+## 2025-10-02 3:22 PM — Task 29 (Mixed-Precision Training (float16))
+**[debug]** Fix NaN loss from float16 underflow: increase loss scale factor
