@@ -4175,3 +4175,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-02 4:13 PM — Task 29 (Mixed-Precision Training (float16))
 **[debug]** Handle GPU not supporting float16: add device capability check
+
+## 2025-10-02 5:19 PM — Task 29 (Mixed-Precision Training (float16))
+**[evaluate]** Measure speedup: float32 vs float16 training steps/sec
