@@ -4208,3 +4208,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-03 5:19 PM — Task 29 (Mixed-Precision Training (float16))
 **[evaluate]** Measure speedup: float32 vs float16 training steps/sec
+
+## 2025-10-03 5:53 PM — Task 29 (Mixed-Precision Training (float16))
+**[docs]** Add compatibility note for CPU-only environments in train.py
