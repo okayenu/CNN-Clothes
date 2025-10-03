@@ -4202,3 +4202,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-03 3:38 PM — Task 29 (Mixed-Precision Training (float16))
 **[debug]** Resolve 'Unsupported dtype float16' error in BN on older TF
+
+## 2025-10-03 4:02 PM — Task 29 (Mixed-Precision Training (float16))
+**[debug]** Handle GPU not supporting float16: add device capability check
