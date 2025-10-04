@@ -4226,3 +4226,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-04 11:02 AM — Task 29 (Mixed-Precision Training (float16))
 **[Test]** Run integration test: main.py with Mixed-Precision Training (float16) active
+
+## 2025-10-04 12:33 PM — Task 29 (Mixed-Precision Training (float16))
+**[debug]** Fix NaN loss from float16 underflow: increase loss scale factor
