@@ -4289,3 +4289,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-07 12:44 PM — Task 35 (Inference Speed Benchmarking)
 **[evaluate.py]** Write benchmark_inference(model, X, n_runs=100) returning ms/sample
+
+## 2025-10-07 2:44 PM — Task 35 (Inference Speed Benchmarking)
+**[evaluate.py]** Benchmark: SavedModel, TFLite float16, TFLite int8 variants
