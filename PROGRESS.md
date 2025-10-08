@@ -4310,3 +4310,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-08 11:37 AM — Task 35 (Inference Speed Benchmarking)
 **[Setup]** Create/open relevant files for Inference Speed Benchmarking implementation
+
+## 2025-10-08 3:22 PM — Task 35 (Inference Speed Benchmarking)
+**[evaluate.py]** Write benchmark_inference(model, X, n_runs=100) returning ms/sample
