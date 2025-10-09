@@ -4328,3 +4328,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-08 11:03 PM — Task 35 (Inference Speed Benchmarking)
 **[Debug]** Verify dev environment: imports, paths, configs for Inference Speed Benchmarking
+
+## 2025-10-09 8:37 AM — Task 35 (Inference Speed Benchmarking)
+**[evaluate.py]** Write benchmark_inference(model, X, n_runs=100) returning ms/sample
