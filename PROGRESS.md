@@ -4316,3 +4316,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-08 4:28 PM — Task 35 (Inference Speed Benchmarking)
 **[evaluate.py]** Benchmark: SavedModel, TFLite float16, TFLite int8 variants
+
+## 2025-10-08 7:44 PM — Task 35 (Inference Speed Benchmarking)
+**[notebook]** Create latency comparison table across all models
