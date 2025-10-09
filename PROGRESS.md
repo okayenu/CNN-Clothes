@@ -4316,3 +4316,33 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-08 4:28 PM — Task 35 (Inference Speed Benchmarking)
 **[evaluate.py]** Benchmark: SavedModel, TFLite float16, TFLite int8 variants
+
+## 2025-10-08 7:44 PM — Task 35 (Inference Speed Benchmarking)
+**[notebook]** Create latency comparison table across all models
+
+## 2025-10-08 8:07 PM — Task 35 (Inference Speed Benchmarking)
+**[test]** Assert benchmark returns positive float value
+
+## 2025-10-08 9:38 PM — Task 35 (Inference Speed Benchmarking)
+**[Test]** Write stub test for Inference Speed Benchmarking to define expected behavior
+
+## 2025-10-08 11:03 PM — Task 35 (Inference Speed Benchmarking)
+**[Debug]** Verify dev environment: imports, paths, configs for Inference Speed Benchmarking
+
+## 2025-10-09 8:37 AM — Task 35 (Inference Speed Benchmarking)
+**[evaluate.py]** Write benchmark_inference(model, X, n_runs=100) returning ms/sample
+
+## 2025-10-09 8:52 AM — Task 35 (Inference Speed Benchmarking)
+**[evaluate.py]** Benchmark: SavedModel, TFLite float16, TFLite int8 variants
+
+## 2025-10-09 10:44 AM — Task 35 (Inference Speed Benchmarking)
+**[notebook]** Create latency comparison table across all models
+
+## 2025-10-09 11:52 AM — Task 35 (Inference Speed Benchmarking)
+**[test]** Assert benchmark returns positive float value
+
+## 2025-10-09 12:07 PM — Task 35 (Inference Speed Benchmarking)
+**[debug]** Fix warm-up effect: skip first 5 runs from timing average
+
+## 2025-10-09 12:18 PM — Task 35 (Inference Speed Benchmarking)
+**[evaluate]** Flag any model exceeding 10ms/sample as deployment risk
