@@ -4367,3 +4367,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-09 8:19 PM — Task 35 (Inference Speed Benchmarking)
 **[Test]** Add parametrized pytest case for Inference Speed Benchmarking boundary conditions
+
+## 2025-10-10 11:52 AM — Task 35 (Inference Speed Benchmarking)
+**[Integrate]** Wire Inference Speed Benchmarking into main.py pipeline end-to-end
