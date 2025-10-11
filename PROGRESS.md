@@ -4409,3 +4409,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-11 5:19 PM — Task 35 (Inference Speed Benchmarking)
 **[evaluate]** Flag any model exceeding 10ms/sample as deployment risk
+
+## 2025-10-11 6:07 PM — Task 35 (Inference Speed Benchmarking)
+**[docs]** Record benchmark results in REPORT.md hardware spec section
