@@ -4403,3 +4403,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-11 3:22 PM — Task 35 (Inference Speed Benchmarking)
 **[test]** Assert benchmark returns positive float value
+
+## 2025-10-11 4:47 PM — Task 35 (Inference Speed Benchmarking)
+**[debug]** Fix warm-up effect: skip first 5 runs from timing average
