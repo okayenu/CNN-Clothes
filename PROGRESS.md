@@ -4379,3 +4379,27 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-10 6:37 PM — Task 35 (Inference Speed Benchmarking)
 **[test]** Assert benchmark returns positive float value
+
+## 2025-10-10 7:03 PM — Task 35 (Inference Speed Benchmarking)
+**[debug]** Fix warm-up effect: skip first 5 runs from timing average
+
+## 2025-10-10 8:07 PM — Task 35 (Inference Speed Benchmarking)
+**[evaluate]** Flag any model exceeding 10ms/sample as deployment risk
+
+## 2025-10-10 9:23 PM — Task 35 (Inference Speed Benchmarking)
+**[docs]** Record benchmark results in REPORT.md hardware spec section
+
+## 2025-10-10 11:03 PM — Task 35 (Inference Speed Benchmarking)
+**[Error]** Add try/except around Inference Speed Benchmarking critical path with fallback
+
+## 2025-10-11 9:07 AM — Task 35 (Inference Speed Benchmarking)
+**[Integrate]** Wire Inference Speed Benchmarking into main.py pipeline end-to-end
+
+## 2025-10-11 9:41 AM — Task 35 (Inference Speed Benchmarking)
+**[Test]** Run integration test: main.py with Inference Speed Benchmarking active
+
+## 2025-10-11 1:44 PM — Task 35 (Inference Speed Benchmarking)
+**[notebook]** Create latency comparison table across all models
+
+## 2025-10-11 3:22 PM — Task 35 (Inference Speed Benchmarking)
+**[test]** Assert benchmark returns positive float value
