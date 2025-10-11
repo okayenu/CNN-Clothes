@@ -4406,3 +4406,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-11 4:47 PM — Task 35 (Inference Speed Benchmarking)
 **[debug]** Fix warm-up effect: skip first 5 runs from timing average
+
+## 2025-10-11 5:19 PM — Task 35 (Inference Speed Benchmarking)
+**[evaluate]** Flag any model exceeding 10ms/sample as deployment risk
