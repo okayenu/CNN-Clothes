@@ -4433,3 +4433,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-12 4:13 PM — Task 35 (Inference Speed Benchmarking)
 **[Review]** Review Task 35 output against ROADMAP acceptance criteria
+
+## 2025-10-12 5:03 PM — Task 35 (Inference Speed Benchmarking)
+**[Docs]** Add Task 35 entry to CHANGELOG.md
