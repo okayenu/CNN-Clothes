@@ -4439,3 +4439,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-12 6:37 PM — Task 35 (Inference Speed Benchmarking)
 **[Evaluate]** Log Task 35 final metrics/results to REPORT.md
+
+## 2025-10-13 8:03 AM — Task 36 (Robustness Testing)
+**[Plan]** Review Task 36 (Robustness Testing) requirements and acceptance criteria
+
+## 2025-10-13 9:14 AM — Task 36 (Robustness Testing)
+**[Setup]** Create/open relevant files for Robustness Testing implementation
+
+## 2025-10-13 9:28 AM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_gaussian_noise(images, std=0.1)
+
+## 2025-10-13 10:19 AM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_blur(images, sigma=1.0) using scipy.ndimage.gaussian_filter
+
+## 2025-10-13 2:17 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write brightness_shift(images, delta=0.2)
+
+## 2025-10-13 4:28 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Test each model under noise, blur, brightness perturbations
