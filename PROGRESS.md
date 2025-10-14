@@ -4487,3 +4487,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-14 12:44 PM — Task 36 (Robustness Testing)
 **[evaluate.py]** Write brightness_shift(images, delta=0.2)
+
+## 2025-10-14 2:33 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Test each model under noise, blur, brightness perturbations
