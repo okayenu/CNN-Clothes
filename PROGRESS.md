@@ -4481,3 +4481,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-14 11:29 AM — Task 36 (Robustness Testing)
 **[evaluate.py]** Write add_gaussian_noise(images, std=0.1)
+
+## 2025-10-14 12:33 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_blur(images, sigma=1.0) using scipy.ndimage.gaussian_filter
