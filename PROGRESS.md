@@ -4496,3 +4496,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-14 6:22 PM — Task 36 (Robustness Testing)
 **[Debug]** Verify dev environment: imports, paths, configs for Robustness Testing
+
+## 2025-10-14 8:44 PM — Task 36 (Robustness Testing)
+**[Review]** Cross-check Robustness Testing behavior against expected spec
+
+## 2025-10-15 11:02 AM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_gaussian_noise(images, std=0.1)
+
+## 2025-10-15 2:17 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_blur(images, sigma=1.0) using scipy.ndimage.gaussian_filter
+
+## 2025-10-15 3:22 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write brightness_shift(images, delta=0.2)
