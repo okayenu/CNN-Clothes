@@ -4547,3 +4547,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-16 2:33 PM — Task 36 (Robustness Testing)
 **[debug]** Fix clipping overflow in brightness_shift for max pixel values
+
+## 2025-10-16 3:47 PM — Task 36 (Robustness Testing)
+**[evaluate]** Build robustness table: model vs perturbation type vs accuracy drop
