@@ -4514,3 +4514,39 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-15 5:38 PM — Task 36 (Robustness Testing)
 **[test]** Assert corrupted images remain in valid pixel range [0,1]
+
+## 2025-10-15 8:33 PM — Task 36 (Robustness Testing)
+**[debug]** Fix clipping overflow in brightness_shift for max pixel values
+
+## 2025-10-15 9:38 PM — Task 36 (Robustness Testing)
+**[evaluate]** Build robustness table: model vs perturbation type vs accuracy drop
+
+## 2025-10-15 10:02 PM — Task 36 (Robustness Testing)
+**[docs]** Save robustness results to results/robustness_{model_name}.csv
+
+## 2025-10-15 10:17 PM — Task 36 (Robustness Testing)
+**[Test]** Run unit tests for Robustness Testing; fix failures
+
+## 2025-10-15 11:03 PM — Task 36 (Robustness Testing)
+**[Debug]** Inspect shapes/types/values in Robustness Testing pipeline step
+
+## 2025-10-16 12:44 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_gaussian_noise(images, std=0.1)
+
+## 2025-10-16 1:19 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_blur(images, sigma=1.0) using scipy.ndimage.gaussian_filter
+
+## 2025-10-16 1:44 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write brightness_shift(images, delta=0.2)
+
+## 2025-10-16 2:03 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Test each model under noise, blur, brightness perturbations
+
+## 2025-10-16 2:17 PM — Task 36 (Robustness Testing)
+**[test]** Assert corrupted images remain in valid pixel range [0,1]
+
+## 2025-10-16 2:33 PM — Task 36 (Robustness Testing)
+**[debug]** Fix clipping overflow in brightness_shift for max pixel values
+
+## 2025-10-16 3:47 PM — Task 36 (Robustness Testing)
+**[evaluate]** Build robustness table: model vs perturbation type vs accuracy drop
