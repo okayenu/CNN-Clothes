@@ -4529,3 +4529,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-15 11:03 PM — Task 36 (Robustness Testing)
 **[Debug]** Inspect shapes/types/values in Robustness Testing pipeline step
+
+## 2025-10-16 12:44 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_gaussian_noise(images, std=0.1)
