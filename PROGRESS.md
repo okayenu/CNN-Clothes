@@ -4526,3 +4526,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-15 10:17 PM — Task 36 (Robustness Testing)
 **[Test]** Run unit tests for Robustness Testing; fix failures
+
+## 2025-10-15 11:03 PM — Task 36 (Robustness Testing)
+**[Debug]** Inspect shapes/types/values in Robustness Testing pipeline step
