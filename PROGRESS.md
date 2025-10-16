@@ -4553,3 +4553,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-16 5:53 PM — Task 36 (Robustness Testing)
 **[docs]** Save robustness results to results/robustness_{model_name}.csv
+
+## 2025-10-16 6:07 PM — Task 36 (Robustness Testing)
+**[Test]** Run unit tests for Robustness Testing; fix failures
