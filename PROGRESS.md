@@ -4562,3 +4562,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-16 10:02 PM — Task 36 (Robustness Testing)
 **[Review]** Code-review Robustness Testing implementation for edge cases
+
+## 2025-10-17 9:14 AM — Task 36 (Robustness Testing)
+**[Integrate]** Wire Robustness Testing into main.py pipeline end-to-end
