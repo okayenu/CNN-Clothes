@@ -4574,3 +4574,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-17 12:44 PM — Task 36 (Robustness Testing)
 **[test]** Assert corrupted images remain in valid pixel range [0,1]
+
+## 2025-10-17 1:28 PM — Task 36 (Robustness Testing)
+**[debug]** Fix clipping overflow in brightness_shift for max pixel values
