@@ -4583,3 +4583,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-17 2:17 PM — Task 36 (Robustness Testing)
 **[docs]** Save robustness results to results/robustness_{model_name}.csv
+
+## 2025-10-17 2:44 PM — Task 36 (Robustness Testing)
+**[Error]** Add try/except around Robustness Testing critical path with fallback
