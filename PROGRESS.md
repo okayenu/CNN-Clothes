@@ -4580,3 +4580,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-17 1:44 PM — Task 36 (Robustness Testing)
 **[evaluate]** Build robustness table: model vs perturbation type vs accuracy drop
+
+## 2025-10-17 2:17 PM — Task 36 (Robustness Testing)
+**[docs]** Save robustness results to results/robustness_{model_name}.csv
