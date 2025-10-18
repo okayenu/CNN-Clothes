@@ -4607,3 +4607,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-18 11:13 AM — Task 36 (Robustness Testing)
 **[Test]** Run integration test: main.py with Robustness Testing active
+
+## 2025-10-18 1:28 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Test each model under noise, blur, brightness perturbations
