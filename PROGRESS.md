@@ -4604,3 +4604,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-18 8:52 AM — Task 36 (Robustness Testing)
 **[Integrate]** Wire Robustness Testing into main.py pipeline end-to-end
+
+## 2025-10-18 11:13 AM — Task 36 (Robustness Testing)
+**[Test]** Run integration test: main.py with Robustness Testing active
