@@ -206,3 +206,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-22 10:17 PM — Task 12 (ResNet-style Skip Connections)
 **[Evaluate]** Log Task 12 final metrics/results to REPORT.md
+
+## 2025-10-20 8:03 AM — Task 43 (MLflow Experiment Tracking)
+**[Plan]** Review Task 43 (MLflow Experiment Tracking) requirements and acceptance criteria
