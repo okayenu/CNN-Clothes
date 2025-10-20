@@ -180,3 +180,5 @@ def log_training_report(history, report_path: str = None):
     return report_text
 
 # [2025-10-20 9:14 AM] Task 43: Add mlflow.start_run() context in mlflow_train.py
+
+# [2025-10-20 11:13 AM] Task 43: Log params: lr, batch_size, epochs, dropout, seed
