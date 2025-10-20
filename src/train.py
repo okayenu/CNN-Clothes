@@ -178,3 +178,5 @@ def log_training_report(history, report_path: str = None):
     with open(report_path, "w") as f:
         f.write(report_text + "\n")
     return report_text
+
+# [2025-10-20 9:14 AM] Task 43: Add mlflow.start_run() context in mlflow_train.py
