@@ -260,3 +260,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-22 8:52 AM — Task 43 (MLflow Experiment Tracking)
 **[Setup]** Create/open relevant files for MLflow Experiment Tracking implementation
+
+## 2025-10-22 10:47 PM — Task 43 (MLflow Experiment Tracking)
+**[Test]** Write stub test for MLflow Experiment Tracking to define expected behavior
+
+## 2025-10-22 11:03 PM — Task 43 (MLflow Experiment Tracking)
+**[Debug]** Verify dev environment: imports, paths, configs for MLflow Experiment Tracking
+
+## 2025-10-22 11:19 PM — Task 43 (MLflow Experiment Tracking)
+**[Test]** Add parametrized pytest case for MLflow Experiment Tracking boundary conditions
+
+## 2025-10-22 11:37 PM — Task 43 (MLflow Experiment Tracking)
+**[Test]** Add parametrized pytest case for MLflow Experiment Tracking boundary conditions
+
+## 2025-10-23 2:44 PM — Task 43 (MLflow Experiment Tracking)
+**[test]** Assert mlflow.active_run() is not None during training
+
+## 2025-10-23 3:07 PM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Fix mlflow.exceptions.MlflowException: run_id not found
