@@ -272,3 +272,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-22 11:37 PM — Task 43 (MLflow Experiment Tracking)
 **[Test]** Add parametrized pytest case for MLflow Experiment Tracking boundary conditions
+
+## 2025-10-23 2:44 PM — Task 43 (MLflow Experiment Tracking)
+**[test]** Assert mlflow.active_run() is not None during training
