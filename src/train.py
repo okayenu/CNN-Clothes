@@ -186,3 +186,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-10-20 12:07 PM] Task 43: Log metrics: val_loss, val_accuracy per epoch via callback
 
 # [2025-10-20 2:17 PM] Task 43: Log model artifact: mlflow.tensorflow.log_model(model, 'model')
+
+# [2025-10-23 1:07 PM] Task 43: Add MLflow run tags: model_name, phase, notes
