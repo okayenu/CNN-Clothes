@@ -293,3 +293,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-23 7:44 PM — Task 43 (MLflow Experiment Tracking)
 **[Test]** Run unit tests for MLflow Experiment Tracking; fix failures
+
+## 2025-10-23 11:19 PM — Task 43 (MLflow Experiment Tracking)
+**[Debug]** Inspect shapes/types/values in MLflow Experiment Tracking pipeline step
