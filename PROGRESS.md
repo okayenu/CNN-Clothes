@@ -311,3 +311,12 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-24 6:37 PM — Task 43 (MLflow Experiment Tracking)
 **[evaluate]** Compare runs in MLflow UI; identify best val_accuracy run
+
+## 2025-10-24 8:44 PM — Task 43 (MLflow Experiment Tracking)
+**[docs]** Add MLflow setup and UI launch instructions to README.md
+
+## 2025-10-24 10:17 PM — Task 43 (MLflow Experiment Tracking)
+**[Test]** Run unit tests for MLflow Experiment Tracking; fix failures
+
+## 2025-10-25 4:13 PM — Task 43 (MLflow Experiment Tracking)
+**[test]** Assert mlflow.active_run() is not None during training
