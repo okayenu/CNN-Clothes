@@ -320,3 +320,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-25 4:13 PM — Task 43 (MLflow Experiment Tracking)
 **[test]** Assert mlflow.active_run() is not None during training
+
+## 2025-10-25 4:47 PM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Fix mlflow.exceptions.MlflowException: run_id not found
