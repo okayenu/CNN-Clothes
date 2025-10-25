@@ -317,3 +317,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-24 10:17 PM — Task 43 (MLflow Experiment Tracking)
 **[Test]** Run unit tests for MLflow Experiment Tracking; fix failures
+
+## 2025-10-25 4:13 PM — Task 43 (MLflow Experiment Tracking)
+**[test]** Assert mlflow.active_run() is not None during training
