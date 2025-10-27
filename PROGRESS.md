@@ -326,3 +326,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-25 5:38 PM — Task 43 (MLflow Experiment Tracking)
 **[debug]** Resolve artifact upload failure on Windows path separators
+
+## 2025-10-27 8:52 AM — Task 43 (MLflow Experiment Tracking)
+**[Integrate]** Wire MLflow Experiment Tracking into main.py pipeline end-to-end
