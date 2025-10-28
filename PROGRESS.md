@@ -344,3 +344,33 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-27 4:13 PM — Task 43 (MLflow Experiment Tracking)
 **[evaluate]** Compare runs in MLflow UI; identify best val_accuracy run
+
+## 2025-10-27 8:33 PM — Task 43 (MLflow Experiment Tracking)
+**[docs]** Add MLflow setup and UI launch instructions to README.md
+
+## 2025-10-27 9:11 PM — Task 43 (MLflow Experiment Tracking)
+**[Error]** Add try/except around MLflow Experiment Tracking critical path with fallback
+
+## 2025-10-27 10:17 PM — Task 43 (MLflow Experiment Tracking)
+**[Debug]** Profile MLflow Experiment Tracking for speed/memory regressions
+
+## 2025-10-27 10:33 PM — Task 43 (MLflow Experiment Tracking)
+**[Test]** Edge-case test: MLflow Experiment Tracking with empty/corrupt/extreme inputs
+
+## 2025-10-28 8:37 AM — Task 43 (MLflow Experiment Tracking)
+**[Integrate]** Wire MLflow Experiment Tracking into main.py pipeline end-to-end
+
+## 2025-10-28 9:07 AM — Task 43 (MLflow Experiment Tracking)
+**[Test]** Run integration test: main.py with MLflow Experiment Tracking active
+
+## 2025-10-28 9:14 AM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Fix mlflow.exceptions.MlflowException: run_id not found
+
+## 2025-10-28 2:03 PM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Resolve artifact upload failure on Windows path separators
+
+## 2025-10-28 2:33 PM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Handle MLflow server not running: use local file:// backend
+
+## 2025-10-28 2:44 PM — Task 43 (MLflow Experiment Tracking)
+**[evaluate]** Compare runs in MLflow UI; identify best val_accuracy run
