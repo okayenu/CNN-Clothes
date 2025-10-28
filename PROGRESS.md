@@ -347,3 +347,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-27 8:33 PM — Task 43 (MLflow Experiment Tracking)
 **[docs]** Add MLflow setup and UI launch instructions to README.md
+
+## 2025-10-27 9:11 PM — Task 43 (MLflow Experiment Tracking)
+**[Error]** Add try/except around MLflow Experiment Tracking critical path with fallback
