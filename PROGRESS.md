@@ -380,3 +380,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-28 3:22 PM — Task 43 (MLflow Experiment Tracking)
 **[Error]** Add try/except around MLflow Experiment Tracking critical path with fallback
+
+## 2025-10-28 5:19 PM — Task 43 (MLflow Experiment Tracking)
+**[Debug]** Profile MLflow Experiment Tracking for speed/memory regressions
