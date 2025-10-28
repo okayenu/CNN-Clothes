@@ -344,3 +344,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-27 4:13 PM — Task 43 (MLflow Experiment Tracking)
 **[evaluate]** Compare runs in MLflow UI; identify best val_accuracy run
+
+## 2025-10-27 8:33 PM — Task 43 (MLflow Experiment Tracking)
+**[docs]** Add MLflow setup and UI launch instructions to README.md
