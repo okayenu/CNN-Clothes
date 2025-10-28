@@ -365,3 +365,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-28 9:14 AM — Task 43 (MLflow Experiment Tracking)
 **[debug]** Fix mlflow.exceptions.MlflowException: run_id not found
+
+## 2025-10-28 2:03 PM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Resolve artifact upload failure on Windows path separators
