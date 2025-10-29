@@ -395,3 +395,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-28 10:33 PM — Task 43 (MLflow Experiment Tracking)
 **[Evaluate]** Re-run evaluation metrics after MLflow Experiment Tracking fix
+
+## 2025-10-29 9:28 AM — Task 43 (MLflow Experiment Tracking)
+**[Integrate]** Wire MLflow Experiment Tracking into main.py pipeline end-to-end
