@@ -401,3 +401,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-29 3:07 PM — Task 43 (MLflow Experiment Tracking)
 **[Test]** Run integration test: main.py with MLflow Experiment Tracking active
+
+## 2025-10-29 4:13 PM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Fix mlflow.exceptions.MlflowException: run_id not found
