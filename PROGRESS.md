@@ -407,3 +407,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-29 5:03 PM — Task 43 (MLflow Experiment Tracking)
 **[debug]** Resolve artifact upload failure on Windows path separators
+
+## 2025-10-29 7:28 PM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Handle MLflow server not running: use local file:// backend
