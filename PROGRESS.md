@@ -407,3 +407,30 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-29 5:03 PM — Task 43 (MLflow Experiment Tracking)
 **[debug]** Resolve artifact upload failure on Windows path separators
+
+## 2025-10-29 7:28 PM — Task 43 (MLflow Experiment Tracking)
+**[debug]** Handle MLflow server not running: use local file:// backend
+
+## 2025-10-29 8:33 PM — Task 43 (MLflow Experiment Tracking)
+**[evaluate]** Compare runs in MLflow UI; identify best val_accuracy run
+
+## 2025-10-29 9:11 PM — Task 43 (MLflow Experiment Tracking)
+**[docs]** Add MLflow setup and UI launch instructions to README.md
+
+## 2025-10-29 10:02 PM — Task 43 (MLflow Experiment Tracking)
+**[Error]** Add try/except around MLflow Experiment Tracking critical path with fallback
+
+## 2025-10-29 10:17 PM — Task 43 (MLflow Experiment Tracking)
+**[Debug]** Profile MLflow Experiment Tracking for speed/memory regressions
+
+## 2025-10-29 11:19 PM — Task 43 (MLflow Experiment Tracking)
+**[Test]** Edge-case test: MLflow Experiment Tracking with empty/corrupt/extreme inputs
+
+## 2025-10-29 11:37 PM — Task 43 (MLflow Experiment Tracking)
+**[Test]** Add parametrized pytest case for MLflow Experiment Tracking boundary conditions
+
+## 2025-10-30 8:44 AM — Task 43 (MLflow Experiment Tracking)
+**[Polish]** Refactor MLflow Experiment Tracking code for readability and DRY principles
+
+## 2025-10-30 9:41 AM — Task 43 (MLflow Experiment Tracking)
+**[Docs]** Finalize docstrings and inline comments for MLflow Experiment Tracking
