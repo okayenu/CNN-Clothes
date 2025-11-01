@@ -88,3 +88,5 @@ def benchmark_tflite(tflite_path: str = TFLITE_PATH, x_sample: np.ndarray = None
     return {"mean_ms_per_image": round(elapsed_ms, 4), "n_runs": n_runs}
 
 # [2025-11-01 10:44 AM] Task 44: Write export_model(model, path) calling model.save(path, save_format='tf')
+
+# [2025-11-01 12:33 PM] Task 44: Add version subdirectory: models/saved_model/1/
