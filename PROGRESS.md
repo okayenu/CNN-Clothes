@@ -485,3 +485,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-31 9:23 PM — Task 43 (MLflow Experiment Tracking)
 **[Review]** Review Task 43 output against ROADMAP acceptance criteria
+
+## 2025-10-31 9:38 PM — Task 43 (MLflow Experiment Tracking)
+**[Docs]** Add Task 43 entry to CHANGELOG.md
