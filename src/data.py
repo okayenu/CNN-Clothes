@@ -180,3 +180,59 @@ def get_datasets(
         result["train_mean"] = mean
         result["train_std"] = std
     return result
+
+# [2025-04-03 2:03 PM] Task 37: Set np.random.seed(SEED) and tf.random.set_seed(SEED)
+
+# [2025-04-12 6:07 PM] Task 40: Import and use config constants in data.py
+
+# [2025-04-30 11:37 AM] Task 1: Add /255.0 normalization in preprocess_data()
+
+# [2025-04-30 2:03 PM] Task 1: Confirm dtype float32 after normalization
+
+# [2025-05-10 10:19 AM] Task 4: Add split_data(X,y, val=0.1, test=0.1) with stratify
+
+# [2025-05-10 10:44 AM] Task 4: Save hold-out indices to data/holdout_idx.npy
+
+# [2025-05-10 12:18 PM] Task 4: Verify splits don't overlap via set intersection test
+
+# [2025-05-15 12:07 PM] Task 5: Add fallback: load via tf.keras.datasets if CSV missing
+
+# [2025-05-15 3:07 PM] Task 5: Write load_data(csv_path=None) function
+
+# [2025-05-21 2:33 PM] Task 2: Add tf.keras.layers.RandomFlip to augmentation pipeline
+
+# [2025-05-21 2:44 PM] Task 2: Add RandomRotation(factor=0.1) layer
+
+# [2025-05-21 3:07 PM] Task 2: Add RandomZoom(height_factor=0.1) layer
+
+# [2025-05-21 4:02 PM] Task 2: Wrap augmentation in a tf.keras.Sequential augment_layer
+
+# [2025-05-22 3:22 PM] Task 2: Apply augment_layer only during training, skip for val/test
+
+# [2025-05-26 10:19 AM] Task 6: Convert numpy arrays to tf.data.Dataset.from_tensor_slices
+
+# [2025-05-26 2:17 PM] Task 6: Add .cache() after load to avoid re-read
+
+# [2025-05-26 5:53 PM] Task 6: Add .shuffle(buffer_size=5000, seed=SEED)
+
+# [2025-05-26 6:07 PM] Task 6: Add .batch(BATCH_SIZE).prefetch(tf.data.AUTOTUNE)
+
+# [2025-05-29 3:22 PM] Task 6: Wire augment_layer into training Dataset only
+
+# [2025-05-29 4:28 PM] Task 6: Add map() for one-hot encoding labels
+
+# [2025-06-08 10:19 AM] Task 8: Compute mean/std on training set with np.mean/std
+
+# [2025-06-08 12:07 PM] Task 8: Save stats to data/pixel_stats.npy
+
+# [2025-06-08 5:53 PM] Task 8: Apply (x - mean) / std in preprocess_data()
+
+# [2025-06-12 10:07 AM] Task 38: Move all data loading/preprocessing to data.py
+
+# [2025-06-26 9:53 AM] Task 42: Add Google-style docstrings to all public functions in data.py
+
+# [2025-09-07 11:52 AM] Task 9: Add resize_to(images, target=(32,32)) using tf.image.resize
+
+# [2025-09-07 1:07 PM] Task 9: Replicate grayscale channel: tf.repeat(x, 3, axis=-1)
+
+# [2025-09-07 2:03 PM] Task 9: Apply MobileNetV2 preprocess_input after resize
