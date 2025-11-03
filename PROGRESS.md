@@ -4685,3 +4685,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-03 4:47 PM — Task 44 (Export to TensorFlow SavedModel)
 **[evaluate]** Assert identical predictions from Keras vs SavedModel
+
+## 2025-11-03 5:19 PM — Task 44 (Export to TensorFlow SavedModel)
+**[docs]** Document export directory structure in export.py docstring
