@@ -4706,3 +4706,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-04 10:07 AM — Task 44 (Export to TensorFlow SavedModel)
 **[test]** Assert saved_model.pb exists in export directory
+
+## 2025-11-04 10:28 AM — Task 44 (Export to TensorFlow SavedModel)
+**[debug]** Fix SavedModel export failure from Lambda layers in model
