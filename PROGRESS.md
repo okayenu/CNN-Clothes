@@ -4742,3 +4742,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-05 10:17 PM — Task 44 (Export to TensorFlow SavedModel)
 **[Error]** Add try/except around Export to TensorFlow SavedModel critical path with fallback
+
+## 2025-11-05 10:33 PM — Task 44 (Export to TensorFlow SavedModel)
+**[Debug]** Profile Export to TensorFlow SavedModel for speed/memory regressions
