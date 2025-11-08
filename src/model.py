@@ -315,3 +315,5 @@ import numpy as np  # noqa: E402
 # [2025-11-08 11:52 AM] Task 17: Load MobileNetV2(weights='imagenet', include_top=False, input_shape=(32,32,3))
 
 # [2025-11-08 3:47 PM] Task 17: Freeze base: base.trainable = False
+
+# [2025-11-08 4:47 PM] Task 17: Add GlobalAveragePooling2D + Dense(NUM_CLASSES, softmax) head
