@@ -311,3 +311,5 @@ import numpy as np  # noqa: E402
 # [2025-09-13 1:19 PM] Task 12: Stack 3 residual blocks in build_resnet()
 
 # [2025-09-13 4:02 PM] Task 12: Add GlobalAveragePooling2D after last residual block
+
+# [2025-11-08 11:52 AM] Task 17: Load MobileNetV2(weights='imagenet', include_top=False, input_shape=(32,32,3))
