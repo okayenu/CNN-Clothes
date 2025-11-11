@@ -515,3 +515,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-10 7:53 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[Debug]** Verify dev environment: imports, paths, configs for MobileNetV2 Transfer Learning
+
+## 2025-11-10 11:03 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Debug]** Re-test edge cases after latest changes to MobileNetV2 Transfer Learning
