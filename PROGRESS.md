@@ -518,3 +518,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-10 11:03 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[Debug]** Re-test edge cases after latest changes to MobileNetV2 Transfer Learning
+
+## 2025-11-11 1:19 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[test]** Assert trainable params < 500K when base is frozen
