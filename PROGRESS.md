@@ -533,3 +533,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-11 10:17 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[evaluate]** Compare MobileNetV2 fine-tuned vs scratch CNN accuracy
+
+## 2025-11-11 10:47 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[evaluate]** Profile inference time: MobileNetV2 vs custom CNN
