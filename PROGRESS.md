@@ -545,3 +545,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-12 6:22 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[debug]** Fix preprocessing error: use mobilenet preprocess_input
+
+## 2025-11-12 8:44 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[debug]** Handle ImageNet vs Fashion-MNIST domain mismatch (check fine-tune LR)
