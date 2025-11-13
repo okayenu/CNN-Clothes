@@ -542,3 +542,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-12 5:38 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[test]** Assert trainable params < 500K when base is frozen
+
+## 2025-11-12 6:22 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[debug]** Fix preprocessing error: use mobilenet preprocess_input
