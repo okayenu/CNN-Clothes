@@ -566,3 +566,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-13 9:11 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[evaluate]** Profile inference time: MobileNetV2 vs custom CNN
+
+## 2025-11-13 9:38 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[docs]** Document freeze/unfreeze strategy and LR rationale
