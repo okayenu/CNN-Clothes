@@ -548,3 +548,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-12 8:44 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[debug]** Handle ImageNet vs Fashion-MNIST domain mismatch (check fine-tune LR)
+
+## 2025-11-13 7:19 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[test]** Assert trainable params < 500K when base is frozen
