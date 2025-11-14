@@ -548,3 +548,27 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-12 8:44 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[debug]** Handle ImageNet vs Fashion-MNIST domain mismatch (check fine-tune LR)
+
+## 2025-11-13 7:19 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[test]** Assert trainable params < 500K when base is frozen
+
+## 2025-11-13 7:44 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[debug]** Fix preprocessing error: use mobilenet preprocess_input
+
+## 2025-11-13 8:07 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[debug]** Handle ImageNet vs Fashion-MNIST domain mismatch (check fine-tune LR)
+
+## 2025-11-13 8:33 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[debug]** Resolve BatchNormalization behavior during fine-tuning
+
+## 2025-11-13 8:44 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[evaluate]** Compare MobileNetV2 fine-tuned vs scratch CNN accuracy
+
+## 2025-11-13 9:11 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[evaluate]** Profile inference time: MobileNetV2 vs custom CNN
+
+## 2025-11-13 9:38 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[docs]** Document freeze/unfreeze strategy and LR rationale
+
+## 2025-11-13 11:19 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Test]** Run unit tests for MobileNetV2 Transfer Learning; fix failures
