@@ -578,3 +578,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-14 12:07 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[Test]** Run integration test: main.py with MobileNetV2 Transfer Learning active
+
+## 2025-11-14 5:38 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[debug]** Handle ImageNet vs Fashion-MNIST domain mismatch (check fine-tune LR)
