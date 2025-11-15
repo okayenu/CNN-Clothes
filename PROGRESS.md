@@ -602,3 +602,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-14 11:45 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[Test]** Edge-case test: MobileNetV2 Transfer Learning with empty/corrupt/extreme inputs
+
+## 2025-11-15 12:44 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Integrate]** Wire MobileNetV2 Transfer Learning into main.py pipeline end-to-end
