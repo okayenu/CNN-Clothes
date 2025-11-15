@@ -611,3 +611,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-15 2:17 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[debug]** Handle ImageNet vs Fashion-MNIST domain mismatch (check fine-tune LR)
+
+## 2025-11-15 4:47 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[debug]** Resolve BatchNormalization behavior during fine-tuning
