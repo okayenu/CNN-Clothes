@@ -596,3 +596,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-14 10:02 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[Error]** Add try/except around MobileNetV2 Transfer Learning critical path with fallback
+
+## 2025-11-14 11:37 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Debug]** Profile MobileNetV2 Transfer Learning for speed/memory regressions
