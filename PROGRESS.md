@@ -599,3 +599,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-14 11:37 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[Debug]** Profile MobileNetV2 Transfer Learning for speed/memory regressions
+
+## 2025-11-14 11:45 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Test]** Edge-case test: MobileNetV2 Transfer Learning with empty/corrupt/extreme inputs
