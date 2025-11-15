@@ -584,3 +584,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-14 5:53 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[debug]** Resolve BatchNormalization behavior during fine-tuning
+
+## 2025-11-14 6:07 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[evaluate]** Compare MobileNetV2 fine-tuned vs scratch CNN accuracy
+
+## 2025-11-14 6:22 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[evaluate]** Profile inference time: MobileNetV2 vs custom CNN
+
+## 2025-11-14 8:19 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[docs]** Document freeze/unfreeze strategy and LR rationale
+
+## 2025-11-14 10:02 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Error]** Add try/except around MobileNetV2 Transfer Learning critical path with fallback
+
+## 2025-11-14 11:37 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Debug]** Profile MobileNetV2 Transfer Learning for speed/memory regressions
