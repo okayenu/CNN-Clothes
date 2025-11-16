@@ -617,3 +617,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-15 6:07 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[evaluate]** Compare MobileNetV2 fine-tuned vs scratch CNN accuracy
+
+## 2025-11-16 9:41 AM — Task 17 (MobileNetV2 Transfer Learning)
+**[Polish]** Refactor MobileNetV2 Transfer Learning code for readability and DRY principles
