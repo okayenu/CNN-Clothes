@@ -638,3 +638,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-16 4:28 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[Docs]** Add Task 17 entry to CHANGELOG.md
+
+## 2025-11-17 11:02 AM — Task 17 (MobileNetV2 Transfer Learning)
+**[Polish]** Refactor MobileNetV2 Transfer Learning code for readability and DRY principles
