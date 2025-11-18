@@ -192,3 +192,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-11-08 6:07 PM] Task 17: Train frozen model 10 epochs, then unfreeze last 20 layers
 
 # [2025-11-11 11:13 AM] Task 17: Fine-tune with LR=1e-5 for additional 10 epochs
+
+# [2025-11-18 1:07 PM] Task 18: Train with label smoothing=0.1 and cosine LR decay
