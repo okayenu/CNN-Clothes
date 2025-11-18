@@ -668,3 +668,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-18 9:23 AM — Task 18 (EfficientNetB0 Transfer Learning)
 **[Setup]** Create/open relevant files for EfficientNetB0 Transfer Learning implementation
+
+## 2025-11-18 3:22 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[test]** Assert output shape (None, 10) and probabilities sum to 1
