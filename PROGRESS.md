@@ -656,3 +656,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-17 10:33 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[Review]** Review Task 17 output against ROADMAP acceptance criteria
+
+## 2025-11-17 10:47 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Docs]** Add Task 17 entry to CHANGELOG.md
