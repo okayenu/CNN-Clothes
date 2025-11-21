@@ -713,3 +713,24 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-20 2:53 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[test]** Assert output shape (None, 10) and probabilities sum to 1
+
+## 2025-11-20 6:22 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[debug]** Fix input_shape error: EfficientNet needs min 32x32 RGB
+
+## 2025-11-20 6:37 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[debug]** Resolve NaN loss if EfficientNet BN layers not set correctly
+
+## 2025-11-20 8:19 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[debug]** Handle slow convergence: unfreeze top 30 layers after 5 epochs
+
+## 2025-11-20 10:17 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[evaluate]** Compare EfficientNetB0 vs MobileNetV2 val accuracy + latency
+
+## 2025-11-20 10:47 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[evaluate]** Plot training curves for transfer learning models
+
+## 2025-11-20 11:03 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[docs]** Note EfficientNet compound scaling theory in docstring
+
+## 2025-11-20 11:37 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[Test]** Run unit tests for EfficientNetB0 Transfer Learning; fix failures
