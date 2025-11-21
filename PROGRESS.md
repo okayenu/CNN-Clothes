@@ -734,3 +734,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-20 11:37 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[Test]** Run unit tests for EfficientNetB0 Transfer Learning; fix failures
+
+## 2025-11-21 11:37 AM — Task 18 (EfficientNetB0 Transfer Learning)
+**[test]** Assert output shape (None, 10) and probabilities sum to 1
