@@ -728,3 +728,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-20 10:47 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[evaluate]** Plot training curves for transfer learning models
+
+## 2025-11-20 11:03 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[docs]** Note EfficientNet compound scaling theory in docstring
