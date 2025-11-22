@@ -752,3 +752,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-21 8:07 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[evaluate]** Plot training curves for transfer learning models
+
+## 2025-11-22 2:17 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[test]** Assert output shape (None, 10) and probabilities sum to 1
