@@ -761,3 +761,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-22 2:44 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[debug]** Resolve NaN loss if EfficientNet BN layers not set correctly
+
+## 2025-11-22 2:53 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[debug]** Handle slow convergence: unfreeze top 30 layers after 5 epochs
