@@ -758,3 +758,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-22 2:33 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[debug]** Fix input_shape error: EfficientNet needs min 32x32 RGB
+
+## 2025-11-22 2:44 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[debug]** Resolve NaN loss if EfficientNet BN layers not set correctly
