@@ -767,3 +767,12 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-22 3:38 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[evaluate]** Compare EfficientNetB0 vs MobileNetV2 val accuracy + latency
+
+## 2025-11-23 8:52 AM — Task 18 (EfficientNetB0 Transfer Learning)
+**[Integrate]** Wire EfficientNetB0 Transfer Learning into main.py pipeline end-to-end
+
+## 2025-11-23 11:29 AM — Task 18 (EfficientNetB0 Transfer Learning)
+**[Test]** Run integration test: main.py with EfficientNetB0 Transfer Learning active
+
+## 2025-11-23 1:19 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[debug]** Resolve NaN loss if EfficientNet BN layers not set correctly
