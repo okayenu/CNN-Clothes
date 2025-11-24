@@ -791,3 +791,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-24 9:23 AM — Task 18 (EfficientNetB0 Transfer Learning)
 **[Test]** Run integration test: main.py with EfficientNetB0 Transfer Learning active
+
+## 2025-11-24 9:41 AM — Task 18 (EfficientNetB0 Transfer Learning)
+**[debug]** Resolve NaN loss if EfficientNet BN layers not set correctly
