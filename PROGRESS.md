@@ -809,3 +809,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-24 1:19 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[Error]** Add try/except around EfficientNetB0 Transfer Learning critical path with fallback
+
+## 2025-11-24 3:22 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[Debug]** Profile EfficientNetB0 Transfer Learning for speed/memory regressions
