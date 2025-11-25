@@ -839,3 +839,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-25 3:47 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[Review]** Review Task 18 output against ROADMAP acceptance criteria
+
+## 2025-11-25 5:03 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[Docs]** Add Task 18 entry to CHANGELOG.md
