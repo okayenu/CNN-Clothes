@@ -321,3 +321,5 @@ import numpy as np  # noqa: E402
 # [2025-11-18 10:44 AM] Task 18: Load EfficientNetB0(weights='imagenet', include_top=False)
 
 # [2025-11-18 12:18 PM] Task 18: Add classification head with Dropout(0.3) + Dense(softmax)
+
+# [2025-11-27 4:02 PM] Task 20: Write build_lightweight_model() with depthwise separable convs
