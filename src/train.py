@@ -194,3 +194,5 @@ def log_training_report(history, report_path: str = None):
 # [2025-11-11 11:13 AM] Task 17: Fine-tune with LR=1e-5 for additional 10 epochs
 
 # [2025-11-18 1:07 PM] Task 18: Train with label smoothing=0.1 and cosine LR decay
+
+# [2025-11-27 4:47 PM] Task 20: Train lightweight model same as baseline for fair comparison
