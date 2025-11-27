@@ -866,3 +866,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-26 4:02 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[Docs]** Add Task 18 entry to CHANGELOG.md
+
+## 2025-11-26 6:22 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[Evaluate]** Log Task 18 final metrics/results to REPORT.md
+
+## 2025-11-26 11:03 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[Debug]** Re-test edge cases after latest changes to EfficientNetB0 Transfer Learning
+
+## 2025-11-27 8:37 AM — Task 20 (Lightweight Model (<100K params))
+**[Plan]** Review Task 20 (Lightweight Model (<100K params)) requirements and acceptance criteria
+
+## 2025-11-27 12:44 PM — Task 20 (Lightweight Model (<100K params))
+**[Setup]** Create/open relevant files for Lightweight Model (<100K params) implementation
