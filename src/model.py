@@ -325,3 +325,5 @@ import numpy as np  # noqa: E402
 # [2025-11-27 4:02 PM] Task 20: Write build_lightweight_model() with depthwise separable convs
 
 # [2025-11-27 4:13 PM] Task 20: Target ≤100K params: use SeparableConv2D(32) → SeparableConv2D(64)
+
+# [2025-11-27 4:28 PM] Task 20: Add model.summary() param count check and assert in tests
