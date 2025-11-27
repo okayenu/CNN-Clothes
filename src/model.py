@@ -323,3 +323,5 @@ import numpy as np  # noqa: E402
 # [2025-11-18 12:18 PM] Task 18: Add classification head with Dropout(0.3) + Dense(softmax)
 
 # [2025-11-27 4:02 PM] Task 20: Write build_lightweight_model() with depthwise separable convs
+
+# [2025-11-27 4:13 PM] Task 20: Target ≤100K params: use SeparableConv2D(32) → SeparableConv2D(64)
