@@ -884,3 +884,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-27 5:53 PM — Task 20 (Lightweight Model (<100K params))
 **[Debug]** Verify dev environment: imports, paths, configs for Lightweight Model (<100K params)
+
+## 2025-11-27 7:03 PM — Task 20 (Lightweight Model (<100K params))
+**[Debug]** Re-test edge cases after latest changes to Lightweight Model (<100K params)
+
+## 2025-11-27 7:28 PM — Task 20 (Lightweight Model (<100K params))
+**[Test]** Add parametrized pytest case for Lightweight Model (<100K params) boundary conditions
+
+## 2025-11-27 7:44 PM — Task 20 (Lightweight Model (<100K params))
+**[Test]** Add parametrized pytest case for Lightweight Model (<100K params) boundary conditions
+
+## 2025-11-27 9:11 PM — Task 20 (Lightweight Model (<100K params))
+**[Debug]** Re-test edge cases after latest changes to Lightweight Model (<100K params)
+
+## 2025-11-27 10:47 PM — Task 20 (Lightweight Model (<100K params))
+**[Test]** Add parametrized pytest case for Lightweight Model (<100K params) boundary conditions
