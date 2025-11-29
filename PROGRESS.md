@@ -917,3 +917,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-28 10:17 PM — Task 20 (Lightweight Model (<100K params))
 **[Review]** Cross-check Lightweight Model (<100K params) behavior against expected spec
+
+## 2025-11-29 2:33 PM — Task 20 (Lightweight Model (<100K params))
+**[test]** Assert model.count_params() < 100000
