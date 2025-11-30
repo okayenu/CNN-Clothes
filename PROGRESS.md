@@ -929,3 +929,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-29 5:03 PM — Task 20 (Lightweight Model (<100K params))
 **[docs]** Document intended use-case: edge deployment
+
+## 2025-11-30 2:53 PM — Task 20 (Lightweight Model (<100K params))
+**[test]** Assert model.count_params() < 100000
