@@ -938,3 +938,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-30 5:38 PM — Task 20 (Lightweight Model (<100K params))
 **[evaluate]** Compare lightweight vs baseline: accuracy, params, latency
+
+## 2025-12-01 2:44 PM — Task 20 (Lightweight Model (<100K params))
+**[test]** Assert model.count_params() < 100000
