@@ -944,3 +944,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-01 3:22 PM — Task 20 (Lightweight Model (<100K params))
 **[debug]** Fix accuracy drop: add more SeparableConv2D layers if under-fitting
+
+## 2025-12-01 4:13 PM — Task 20 (Lightweight Model (<100K params))
+**[evaluate]** Compare lightweight vs baseline: accuracy, params, latency
