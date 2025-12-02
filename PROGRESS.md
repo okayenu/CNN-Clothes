@@ -956,3 +956,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-02 8:52 AM — Task 20 (Lightweight Model (<100K params))
 **[Integrate]** Wire Lightweight Model (<100K params) into main.py pipeline end-to-end
+
+## 2025-12-02 9:28 AM — Task 20 (Lightweight Model (<100K params))
+**[Test]** Run integration test: main.py with Lightweight Model (<100K params) active
