@@ -968,3 +968,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-02 11:52 AM — Task 20 (Lightweight Model (<100K params))
 **[evaluate]** Compare lightweight vs baseline: accuracy, params, latency
+
+## 2025-12-02 12:18 PM — Task 20 (Lightweight Model (<100K params))
+**[docs]** Document intended use-case: edge deployment
