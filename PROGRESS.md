@@ -962,3 +962,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-02 10:19 AM — Task 20 (Lightweight Model (<100K params))
 **[test]** Assert model.count_params() < 100000
+
+## 2025-12-02 11:13 AM — Task 20 (Lightweight Model (<100K params))
+**[debug]** Fix accuracy drop: add more SeparableConv2D layers if under-fitting
