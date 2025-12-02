@@ -947,3 +947,21 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-01 4:13 PM — Task 20 (Lightweight Model (<100K params))
 **[evaluate]** Compare lightweight vs baseline: accuracy, params, latency
+
+## 2025-12-01 7:19 PM — Task 20 (Lightweight Model (<100K params))
+**[docs]** Document intended use-case: edge deployment
+
+## 2025-12-01 9:38 PM — Task 20 (Lightweight Model (<100K params))
+**[Test]** Run unit tests for Lightweight Model (<100K params); fix failures
+
+## 2025-12-02 8:52 AM — Task 20 (Lightweight Model (<100K params))
+**[Integrate]** Wire Lightweight Model (<100K params) into main.py pipeline end-to-end
+
+## 2025-12-02 9:28 AM — Task 20 (Lightweight Model (<100K params))
+**[Test]** Run integration test: main.py with Lightweight Model (<100K params) active
+
+## 2025-12-02 10:19 AM — Task 20 (Lightweight Model (<100K params))
+**[test]** Assert model.count_params() < 100000
+
+## 2025-12-02 11:13 AM — Task 20 (Lightweight Model (<100K params))
+**[debug]** Fix accuracy drop: add more SeparableConv2D layers if under-fitting
