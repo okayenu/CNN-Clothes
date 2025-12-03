@@ -974,3 +974,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-02 2:53 PM — Task 20 (Lightweight Model (<100K params))
 **[Error]** Add try/except around Lightweight Model (<100K params) critical path with fallback
+
+## 2025-12-02 7:19 PM — Task 20 (Lightweight Model (<100K params))
+**[Debug]** Profile Lightweight Model (<100K params) for speed/memory regressions
