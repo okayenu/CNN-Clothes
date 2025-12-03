@@ -1010,3 +1010,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-03 2:44 PM — Task 20 (Lightweight Model (<100K params))
 **[Docs]** Add Task 20 entry to CHANGELOG.md
+
+## 2025-12-03 2:53 PM — Task 20 (Lightweight Model (<100K params))
+**[Evaluate]** Log Task 20 final metrics/results to REPORT.md
