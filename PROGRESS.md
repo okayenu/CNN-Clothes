@@ -989,3 +989,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-02 11:37 PM — Task 20 (Lightweight Model (<100K params))
 **[Review]** Cross-check Lightweight Model (<100K params) behavior against expected spec
+
+## 2025-12-03 8:44 AM — Task 20 (Lightweight Model (<100K params))
+**[Polish]** Refactor Lightweight Model (<100K params) code for readability and DRY principles
