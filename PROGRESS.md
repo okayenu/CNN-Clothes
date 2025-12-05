@@ -1052,3 +1052,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-04 10:33 PM — Task 20 (Lightweight Model (<100K params))
 **[Review]** Cross-check Lightweight Model (<100K params) behavior against expected spec
+
+## 2025-12-04 11:03 PM — Task 20 (Lightweight Model (<100K params))
+**[Debug]** Re-test edge cases after latest changes to Lightweight Model (<100K params)
