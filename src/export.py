@@ -90,3 +90,5 @@ def benchmark_tflite(tflite_path: str = TFLITE_PATH, x_sample: np.ndarray = None
 # [2025-12-05 11:37 AM] Task 45: Write convert_to_tflite(model_path, quant='float16') function
 
 # [2025-12-05 11:52 AM] Task 45: Add int8 quantization with representative_dataset_gen()
+
+# [2025-12-05 1:44 PM] Task 45: Save .tflite files to models/tflite/
