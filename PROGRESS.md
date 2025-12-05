@@ -1049,3 +1049,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-04 10:17 PM — Task 20 (Lightweight Model (<100K params))
 **[Evaluate]** Log Task 20 final metrics/results to REPORT.md
+
+## 2025-12-04 10:33 PM — Task 20 (Lightweight Model (<100K params))
+**[Review]** Cross-check Lightweight Model (<100K params) behavior against expected spec
