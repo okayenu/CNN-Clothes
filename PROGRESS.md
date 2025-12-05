@@ -1040,3 +1040,27 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-04 5:19 PM — Task 20 (Lightweight Model (<100K params))
 **[Commit]** Commit Task 20 (Lightweight Model (<100K params)) with passing tests
+
+## 2025-12-04 6:07 PM — Task 20 (Lightweight Model (<100K params))
+**[Review]** Review Task 20 output against ROADMAP acceptance criteria
+
+## 2025-12-04 7:03 PM — Task 20 (Lightweight Model (<100K params))
+**[Docs]** Add Task 20 entry to CHANGELOG.md
+
+## 2025-12-04 10:17 PM — Task 20 (Lightweight Model (<100K params))
+**[Evaluate]** Log Task 20 final metrics/results to REPORT.md
+
+## 2025-12-04 10:33 PM — Task 20 (Lightweight Model (<100K params))
+**[Review]** Cross-check Lightweight Model (<100K params) behavior against expected spec
+
+## 2025-12-04 11:03 PM — Task 20 (Lightweight Model (<100K params))
+**[Debug]** Re-test edge cases after latest changes to Lightweight Model (<100K params)
+
+## 2025-12-04 11:37 PM — Task 20 (Lightweight Model (<100K params))
+**[Docs]** Update inline comments in modified files for Lightweight Model (<100K params)
+
+## 2025-12-05 10:28 AM — Task 45 (TFLite Conversion (float16 + int8))
+**[Plan]** Review Task 45 (TFLite Conversion (float16 + int8)) requirements and acceptance criteria
+
+## 2025-12-05 10:44 AM — Task 45 (TFLite Conversion (float16 + int8))
+**[Setup]** Create/open relevant files for TFLite Conversion (float16 + int8) implementation

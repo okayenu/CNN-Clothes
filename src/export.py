@@ -86,3 +86,7 @@ def benchmark_tflite(tflite_path: str = TFLITE_PATH, x_sample: np.ndarray = None
     elapsed_ms = (time.perf_counter() - start) / n_runs / len(x_sample) * 1000
 
     return {"mean_ms_per_image": round(elapsed_ms, 4), "n_runs": n_runs}
+
+# [2025-12-05 11:37 AM] Task 45: Write convert_to_tflite(model_path, quant='float16') function
+
+# [2025-12-05 11:52 AM] Task 45: Add int8 quantization with representative_dataset_gen()
