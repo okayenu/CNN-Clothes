@@ -1088,3 +1088,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-07 1:19 PM — Task 45 (TFLite Conversion (float16 + int8))
 **[test]** Load .tflite file with tf.lite.Interpreter and run inference
+
+## 2025-12-07 2:03 PM — Task 45 (TFLite Conversion (float16 + int8))
+**[debug]** Fix ops not supported in TFLite: identify and replace custom ops
