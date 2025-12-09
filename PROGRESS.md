@@ -1130,3 +1130,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-09 12:18 PM — Task 45 (TFLite Conversion (float16 + int8))
 **[evaluate]** Compare TFLite int8 vs float16 vs SavedModel latency and accuracy
+
+## 2025-12-09 12:33 PM — Task 45 (TFLite Conversion (float16 + int8))
+**[docs]** Document quantization trade-offs in export.py
