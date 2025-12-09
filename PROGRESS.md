@@ -1106,3 +1106,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-08 7:19 PM — Task 45 (TFLite Conversion (float16 + int8))
 **[debug]** Handle 'Cannot allocate memory' on large int8 model
+
+## 2025-12-08 8:33 PM — Task 45 (TFLite Conversion (float16 + int8))
+**[evaluate]** Compare TFLite int8 vs float16 vs SavedModel latency and accuracy
