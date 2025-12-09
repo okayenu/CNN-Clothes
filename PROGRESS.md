@@ -1100,3 +1100,27 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-08 4:02 PM — Task 45 (TFLite Conversion (float16 + int8))
 **[debug]** Fix ops not supported in TFLite: identify and replace custom ops
+
+## 2025-12-08 6:22 PM — Task 45 (TFLite Conversion (float16 + int8))
+**[debug]** Resolve int8 quantization accuracy drop > 3%: increase calib samples
+
+## 2025-12-08 7:19 PM — Task 45 (TFLite Conversion (float16 + int8))
+**[debug]** Handle 'Cannot allocate memory' on large int8 model
+
+## 2025-12-08 8:33 PM — Task 45 (TFLite Conversion (float16 + int8))
+**[evaluate]** Compare TFLite int8 vs float16 vs SavedModel latency and accuracy
+
+## 2025-12-08 10:17 PM — Task 45 (TFLite Conversion (float16 + int8))
+**[docs]** Document quantization trade-offs in export.py
+
+## 2025-12-09 8:03 AM — Task 45 (TFLite Conversion (float16 + int8))
+**[Integrate]** Wire TFLite Conversion (float16 + int8) into main.py pipeline end-to-end
+
+## 2025-12-09 9:14 AM — Task 45 (TFLite Conversion (float16 + int8))
+**[Test]** Run integration test: main.py with TFLite Conversion (float16 + int8) active
+
+## 2025-12-09 9:28 AM — Task 45 (TFLite Conversion (float16 + int8))
+**[debug]** Fix ops not supported in TFLite: identify and replace custom ops
+
+## 2025-12-09 11:02 AM — Task 45 (TFLite Conversion (float16 + int8))
+**[debug]** Resolve int8 quantization accuracy drop > 3%: increase calib samples
