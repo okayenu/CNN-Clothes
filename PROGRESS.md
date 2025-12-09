@@ -1124,3 +1124,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-09 11:02 AM — Task 45 (TFLite Conversion (float16 + int8))
 **[debug]** Resolve int8 quantization accuracy drop > 3%: increase calib samples
+
+## 2025-12-09 12:07 PM — Task 45 (TFLite Conversion (float16 + int8))
+**[debug]** Handle 'Cannot allocate memory' on large int8 model
