@@ -1121,3 +1121,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-09 9:28 AM — Task 45 (TFLite Conversion (float16 + int8))
 **[debug]** Fix ops not supported in TFLite: identify and replace custom ops
+
+## 2025-12-09 11:02 AM — Task 45 (TFLite Conversion (float16 + int8))
+**[debug]** Resolve int8 quantization accuracy drop > 3%: increase calib samples
