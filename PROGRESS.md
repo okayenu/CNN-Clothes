@@ -4874,3 +4874,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-17 1:07 PM — Task 46 (predict.py Inference Script)
 **[test]** Run predict.py on test image and assert output contains class name
+
+## 2025-12-17 3:47 PM — Task 46 (predict.py Inference Script)
+**[debug]** Fix PIL vs TF image channel ordering (RGB vs BGR) mismatch
