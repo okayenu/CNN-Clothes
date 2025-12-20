@@ -1217,3 +1217,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-20 2:17 PM — Task 19 (Ensemble of Models)
 **[notebook]** Load 3 saved models and run ensemble prediction on hold-out
+
+## 2025-12-20 2:33 PM — Task 19 (Ensemble of Models)
+**[test]** Assert ensemble accuracy >= best single model accuracy
