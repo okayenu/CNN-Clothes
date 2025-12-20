@@ -1202,3 +1202,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-11 10:47 PM — Task 45 (TFLite Conversion (float16 + int8))
 **[Docs]** Update inline comments in modified files for TFLite Conversion (float16 + int8)
+
+## 2025-12-20 8:44 AM — Task 19 (Ensemble of Models)
+**[Plan]** Review Task 19 (Ensemble of Models) requirements and acceptance criteria
+
+## 2025-12-20 9:07 AM — Task 19 (Ensemble of Models)
+**[Setup]** Create/open relevant files for Ensemble of Models implementation
+
+## 2025-12-20 11:02 AM — Task 19 (Ensemble of Models)
+**[evaluate.py]** Write predict_ensemble(models, X) with avg of softmax outputs
+
+## 2025-12-20 12:07 PM — Task 19 (Ensemble of Models)
+**[evaluate.py]** Add majority-vote variant predict_ensemble_vote()
