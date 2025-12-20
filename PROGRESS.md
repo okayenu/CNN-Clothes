@@ -1208,3 +1208,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-20 9:07 AM — Task 19 (Ensemble of Models)
 **[Setup]** Create/open relevant files for Ensemble of Models implementation
+
+## 2025-12-20 11:02 AM — Task 19 (Ensemble of Models)
+**[evaluate.py]** Write predict_ensemble(models, X) with avg of softmax outputs
