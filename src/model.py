@@ -304,38 +304,26 @@ def get_optimizer(name: str, lr: float = LEARNING_RATE):
 # numpy needed for ensemble_predict — imported lazily to avoid circular import
 import numpy as np  # noqa: E402
 
-# [2025-03-31 9:07 AM] Task 13: Change final Dense activation from sigmoid to softmax
+# [2025-09-13 9:07 AM] Task 12: Write residual_block(x, filters) with tf.keras.layers.Add
 
-# [2025-03-31 9:23 AM] Task 13: Change loss from binary_crossentropy to categorical_crossentropy
+# [2025-09-13 9:53 AM] Task 12: Add 1x1 projection conv in shortcut when channels change
 
-# [2025-04-12 6:22 PM] Task 40: Import and use config constants in model.py
+# [2025-09-13 1:19 PM] Task 12: Stack 3 residual blocks in build_resnet()
 
-# [2025-06-12 10:44 AM] Task 38: Move all model builders to model.py
+# [2025-09-13 4:02 PM] Task 12: Add GlobalAveragePooling2D after last residual block
 
-# [2025-06-26 10:19 AM] Task 42: Add docstrings to all build_model_*() functions
+# [2025-11-08 11:52 AM] Task 17: Load MobileNetV2(weights='imagenet', include_top=False, input_shape=(32,32,3))
 
-# [2025-07-05 2:17 PM] Task 10: Add BatchNormalization() after each Conv2D in build_model_batchnorm()
+# [2025-11-08 3:47 PM] Task 17: Freeze base: base.trainable = False
 
-# [2025-07-05 2:33 PM] Task 10: Place BN before ReLU activation as per He et al.
+# [2025-11-08 4:47 PM] Task 17: Add GlobalAveragePooling2D + Dense(NUM_CLASSES, softmax) head
 
-# [2025-07-12 3:22 PM] Task 11: Add 4th Conv block: Conv2D(256)+BN+ReLU+MaxPool
+# [2025-11-18 10:44 AM] Task 18: Load EfficientNetB0(weights='imagenet', include_top=False)
 
-# [2025-07-12 3:38 PM] Task 11: Add Dropout(0.4) after 4th block
+# [2025-11-18 12:18 PM] Task 18: Add classification head with Dropout(0.3) + Dense(softmax)
 
-# [2025-07-12 5:38 PM] Task 11: Adjust Dense units if 4-block model over-params < 10K samples
+# [2025-11-27 4:02 PM] Task 20: Write build_lightweight_model() with depthwise separable convs
 
-# [2025-07-19 3:22 PM] Task 14: Create build_model_5x5() with kernel_size=(5,5) in first two blocks
+# [2025-11-27 4:13 PM] Task 20: Target ≤100K params: use SeparableConv2D(32) → SeparableConv2D(64)
 
-# [2025-07-19 4:28 PM] Task 14: Ensure same padding to preserve spatial dimensions
-
-# [2025-07-26 10:44 AM] Task 15: Replace Flatten+Dense with GlobalAveragePooling2D in build_model_gap()
-
-# [2025-07-26 11:37 AM] Task 15: Remove Dropout before final Dense (GAP self-regularises)
-
-# [2025-08-02 2:17 PM] Task 16: Write build_model_vgg() with two 3x3 convs before each MaxPool
-
-# [2025-08-02 3:38 PM] Task 16: Add Dense(512)+ReLU+Dropout(0.5) classifier head
-
-# [2025-08-23 2:17 PM] Task 28: Add kernel_regularizer=tf.keras.regularizers.l2(1e-4) to Conv2D layers
-
-# [2025-08-23 2:44 PM] Task 28: Add same L2 regularizer to Dense layers
+# [2025-11-27 4:28 PM] Task 20: Add model.summary() param count check and assert in tests
