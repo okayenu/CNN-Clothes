@@ -1223,3 +1223,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-20 5:38 PM — Task 19 (Ensemble of Models)
 **[Test]** Write stub test for Ensemble of Models to define expected behavior
+
+## 2025-12-21 10:19 AM — Task 19 (Ensemble of Models)
+**[evaluate.py]** Write predict_ensemble(models, X) with avg of softmax outputs
