@@ -1229,3 +1229,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-21 11:29 AM — Task 19 (Ensemble of Models)
 **[evaluate.py]** Add majority-vote variant predict_ensemble_vote()
+
+## 2025-12-21 11:37 AM — Task 19 (Ensemble of Models)
+**[notebook]** Load 3 saved models and run ensemble prediction on hold-out
