@@ -1223,3 +1223,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-20 5:38 PM — Task 19 (Ensemble of Models)
 **[Test]** Write stub test for Ensemble of Models to define expected behavior
+
+## 2025-12-21 10:19 AM — Task 19 (Ensemble of Models)
+**[evaluate.py]** Write predict_ensemble(models, X) with avg of softmax outputs
+
+## 2025-12-21 11:29 AM — Task 19 (Ensemble of Models)
+**[evaluate.py]** Add majority-vote variant predict_ensemble_vote()
+
+## 2025-12-21 11:37 AM — Task 19 (Ensemble of Models)
+**[notebook]** Load 3 saved models and run ensemble prediction on hold-out
+
+## 2025-12-21 1:44 PM — Task 19 (Ensemble of Models)
+**[test]** Assert ensemble accuracy >= best single model accuracy
