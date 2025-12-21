@@ -1241,3 +1241,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-21 2:44 PM — Task 19 (Ensemble of Models)
 **[debug]** Handle model output shape inconsistency across architectures
+
+## 2025-12-21 3:47 PM — Task 19 (Ensemble of Models)
+**[docs]** Document ensemble members, weights, voting strategy
