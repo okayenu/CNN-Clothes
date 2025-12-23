@@ -1283,3 +1283,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-23 9:23 AM — Task 47 (Grad-CAM Visualization)
 **[evaluate.py]** Write make_gradcam_heatmap(img, model, last_conv_layer_name)
+
+## 2025-12-23 12:44 PM — Task 47 (Grad-CAM Visualization)
+**[evaluate.py]** Compute gradients of class score wrt last conv feature map
