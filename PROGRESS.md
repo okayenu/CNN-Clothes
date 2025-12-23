@@ -1280,3 +1280,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-23 9:07 AM — Task 47 (Grad-CAM Visualization)
 **[Setup]** Create/open relevant files for Grad-CAM Visualization implementation
+
+## 2025-12-23 9:23 AM — Task 47 (Grad-CAM Visualization)
+**[evaluate.py]** Write make_gradcam_heatmap(img, model, last_conv_layer_name)
