@@ -1286,3 +1286,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-23 12:44 PM — Task 47 (Grad-CAM Visualization)
 **[evaluate.py]** Compute gradients of class score wrt last conv feature map
+
+## 2025-12-23 1:19 PM — Task 47 (Grad-CAM Visualization)
+**[evaluate.py]** Pool gradients globally (GAP) then weight feature maps
