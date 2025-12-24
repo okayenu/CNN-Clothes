@@ -1313,3 +1313,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-24 8:52 AM — Task 47 (Grad-CAM Visualization)
 **[evaluate.py]** Overlay heatmap on original image with cv2 or PIL
+
+## 2025-12-24 9:07 AM — Task 47 (Grad-CAM Visualization)
+**[notebook]** Run Grad-CAM on 5 correct and 5 incorrect predictions
