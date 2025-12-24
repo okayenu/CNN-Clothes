@@ -1301,3 +1301,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-23 10:47 PM — Task 47 (Grad-CAM Visualization)
 **[Debug]** Re-test edge cases after latest changes to Grad-CAM Visualization
+
+## 2025-12-24 8:03 AM — Task 47 (Grad-CAM Visualization)
+**[evaluate.py]** Write make_gradcam_heatmap(img, model, last_conv_layer_name)
