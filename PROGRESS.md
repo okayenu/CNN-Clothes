@@ -1316,3 +1316,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-24 9:07 AM — Task 47 (Grad-CAM Visualization)
 **[notebook]** Run Grad-CAM on 5 correct and 5 incorrect predictions
+
+## 2025-12-24 10:28 AM — Task 47 (Grad-CAM Visualization)
+**[test]** Assert heatmap shape matches input image spatial dims
