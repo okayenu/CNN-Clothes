@@ -1319,3 +1319,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-24 10:28 AM — Task 47 (Grad-CAM Visualization)
 **[test]** Assert heatmap shape matches input image spatial dims
+
+## 2025-12-24 11:02 AM — Task 47 (Grad-CAM Visualization)
+**[debug]** Fix zero-gradient problem if model uses GlobalAveragePooling before conv
