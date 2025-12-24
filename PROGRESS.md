@@ -1310,3 +1310,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-24 8:44 AM — Task 47 (Grad-CAM Visualization)
 **[evaluate.py]** Pool gradients globally (GAP) then weight feature maps
+
+## 2025-12-24 8:52 AM — Task 47 (Grad-CAM Visualization)
+**[evaluate.py]** Overlay heatmap on original image with cv2 or PIL
