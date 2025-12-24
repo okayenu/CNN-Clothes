@@ -1295,3 +1295,15 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-23 5:19 PM — Task 47 (Grad-CAM Visualization)
 **[Test]** Write stub test for Grad-CAM Visualization to define expected behavior
+
+## 2025-12-23 10:02 PM — Task 47 (Grad-CAM Visualization)
+**[Debug]** Verify dev environment: imports, paths, configs for Grad-CAM Visualization
+
+## 2025-12-23 10:47 PM — Task 47 (Grad-CAM Visualization)
+**[Debug]** Re-test edge cases after latest changes to Grad-CAM Visualization
+
+## 2025-12-24 8:03 AM — Task 47 (Grad-CAM Visualization)
+**[evaluate.py]** Write make_gradcam_heatmap(img, model, last_conv_layer_name)
+
+## 2025-12-24 8:37 AM — Task 47 (Grad-CAM Visualization)
+**[evaluate.py]** Compute gradients of class score wrt last conv feature map
