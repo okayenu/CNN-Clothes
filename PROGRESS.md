@@ -1334,3 +1334,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-25 11:02 AM — Task 47 (Grad-CAM Visualization)
 **[Test]** Run integration test: main.py with Grad-CAM Visualization active
+
+## 2025-12-25 1:07 PM — Task 47 (Grad-CAM Visualization)
+**[debug]** Fix zero-gradient problem if model uses GlobalAveragePooling before conv
