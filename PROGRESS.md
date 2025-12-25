@@ -1340,3 +1340,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-25 2:44 PM — Task 47 (Grad-CAM Visualization)
 **[debug]** Resolve layer name error: auto-detect last Conv2D layer name
+
+## 2025-12-25 3:22 PM — Task 47 (Grad-CAM Visualization)
+**[debug]** Fix colormap inversion producing misleading activation highlights
