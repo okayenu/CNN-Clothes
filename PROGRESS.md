@@ -1382,3 +1382,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-26 3:07 PM — Task 47 (Grad-CAM Visualization)
 **[Review]** Review Task 47 output against ROADMAP acceptance criteria
+
+## 2025-12-26 4:02 PM — Task 47 (Grad-CAM Visualization)
+**[Docs]** Add Task 47 entry to CHANGELOG.md
