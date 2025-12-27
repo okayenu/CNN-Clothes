@@ -1388,3 +1388,18 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-26 4:47 PM — Task 47 (Grad-CAM Visualization)
 **[Evaluate]** Log Task 47 final metrics/results to REPORT.md
+
+## 2025-12-26 8:33 PM — Task 47 (Grad-CAM Visualization)
+**[Review]** Cross-check Grad-CAM Visualization behavior against expected spec
+
+## 2025-12-26 11:37 PM — Task 47 (Grad-CAM Visualization)
+**[Review]** Cross-check Grad-CAM Visualization behavior against expected spec
+
+## 2025-12-27 8:44 AM — Task 48 (t-SNE / UMAP Embedding)
+**[Plan]** Review Task 48 (t-SNE / UMAP Embedding) requirements and acceptance criteria
+
+## 2025-12-27 10:44 AM — Task 48 (t-SNE / UMAP Embedding)
+**[Setup]** Create/open relevant files for t-SNE / UMAP Embedding implementation
+
+## 2025-12-27 1:19 PM — Task 48 (t-SNE / UMAP Embedding)
+**[evaluate.py]** Write extract_embeddings(model, layer_name, X) using Model(inputs, layer_output)
