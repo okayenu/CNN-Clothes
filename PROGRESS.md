@@ -1406,3 +1406,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-27 2:03 PM — Task 48 (t-SNE / UMAP Embedding)
 **[evaluate.py]** Fit TSNE(n_components=2, perplexity=30) on embeddings
+
+## 2025-12-27 3:38 PM — Task 48 (t-SNE / UMAP Embedding)
+**[evaluate.py]** Fit umap.UMAP(n_components=2) as alternative
