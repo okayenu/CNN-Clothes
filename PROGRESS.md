@@ -1427,3 +1427,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-28 3:22 PM — Task 48 (t-SNE / UMAP Embedding)
 **[evaluate.py]** Plot 2D scatter colored by class label
+
+## 2025-12-28 5:19 PM — Task 48 (t-SNE / UMAP Embedding)
+**[test]** Assert embedding shape (n_samples, 2) from TSNE
