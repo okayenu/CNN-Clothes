@@ -1424,3 +1424,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-28 3:07 PM — Task 48 (t-SNE / UMAP Embedding)
 **[evaluate.py]** Fit umap.UMAP(n_components=2) as alternative
+
+## 2025-12-28 3:22 PM — Task 48 (t-SNE / UMAP Embedding)
+**[evaluate.py]** Plot 2D scatter colored by class label
