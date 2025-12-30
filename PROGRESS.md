@@ -1448,3 +1448,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-29 8:07 PM — Task 48 (t-SNE / UMAP Embedding)
 **[Review]** Review Task 48 output against ROADMAP acceptance criteria
+
+## 2025-12-29 9:38 PM — Task 48 (t-SNE / UMAP Embedding)
+**[Docs]** Add Task 48 entry to CHANGELOG.md
