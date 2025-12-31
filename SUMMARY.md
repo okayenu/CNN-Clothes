@@ -33,3 +33,6 @@ classify is "Shirt" — it is often confused with T-shirts and Coats.
 2. Train: `python src/main.py --model dropout`
 3. Predict: `python src/predict.py --image path/to/image.png`
 4. Demo: `python demo.py`
+
+## 2025-12-31 4:28 PM — Task 49 (Final Report & Documentation)
+**[SUMMARY.md]** Write 1-page summary for non-technical audience
