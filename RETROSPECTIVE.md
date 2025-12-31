@@ -33,3 +33,6 @@
   96×96 and converting to 3-channel; preprocessing must match the ImageNet statistics.
 - Grad-CAM is most informative on the final Conv2D layer; earlier layers capture textures
   rather than semantic regions.
+
+## 2025-12-31 4:13 PM — Task 49 (Final Report & Documentation)
+**[RETROSPECTIVE.md]** Write 3 challenges and how they were resolved
