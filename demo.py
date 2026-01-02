@@ -144,3 +144,5 @@ if __name__ == "__main__":
 # [2026-01-02 2:03 PM] Task 50: Write Gradio interface: image upload + prediction output
 
 # [2026-01-02 2:17 PM] Task 50: Load SavedModel at startup in demo.py
+
+# [2026-01-02 2:33 PM] Task 50: Show top-5 class confidence bar chart in Gradio output
