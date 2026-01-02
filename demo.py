@@ -140,3 +140,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# [2026-01-02 2:03 PM] Task 50: Write Gradio interface: image upload + prediction output
