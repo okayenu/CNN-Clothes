@@ -146,3 +146,5 @@ if __name__ == "__main__":
 # [2026-01-02 2:17 PM] Task 50: Load SavedModel at startup in demo.py
 
 # [2026-01-02 2:33 PM] Task 50: Show top-5 class confidence bar chart in Gradio output
+
+# [2026-01-02 2:44 PM] Task 50: Add Grad-CAM overlay tab to show model attention
